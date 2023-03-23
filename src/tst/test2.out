@@ -1,0 +1,10667 @@
+Cluster 1
+bsu:YQFF(2) 276 711
+syn:SLR0104(2) 375 811
+
+Cluster 2
+bsu:YQFO 1 373
+bsu:YQFF(1) 1 275
+eco:B0710 1 247
+mja:MJ0927 1 249
+syn:SLR0104(1) 1 374
+
+Cluster 3
+bsu:LYTD 1 880
+syn:SLR2046(1) 61 690
+syn:SLL0656(2) 479 1647
+syn:SLR0366(2) 727 1311
+syn:SLR1403(2) 1852 2260
+syn:SLL1951(1) 670 1060
+syn:SLR2046(2) 645 1743
+syn:SLR0364(2) 1317 1932
+eco:B1978(2) 984 1596
+
+Cluster 4
+mja:MJ0260 1 203
+eco:B2568 1 324
+syn:SLL0716 1 196
+syn:SLR1377 1 218
+bsu:SIPV 1 168
+bsu:SIPU 1 187
+bsu:SIPT 1 193
+bsu:SIPS 1 184
+
+Cluster 5
+eco:B0324 1 460
+eco:B0337 1 427
+syn:SLR1237 1 450
+bsu:HUTI 1 421
+mja:MJ0699 1 380
+eco:B2883 1 439
+eco:B2879 1 464
+mja:MJ1541 1 420
+
+Cluster 6
+syn:SLR1734 1 475
+bsu:YOMC 1 367
+bsu:XLYB 1 317
+bsu:CWLA 1 272
+bsu:XLYA 1 297
+bsu:YQEE 1 250
+
+Cluster 7
+eco:B3859 1 328
+bsu:YERI 1 336
+syn:SLL1119 1 361
+
+Cluster 8
+bsu:YORK 1 576
+bsu:YRVE 1 786
+eco:B2892 1 577
+mja:MJ1198(2) 206 761
+syn:SLL1354 1 759
+
+Cluster 9
+mja:MJ1477 1 346
+bsu:YORL(1) 1 645
+syn:SLR0603(1) 1 678
+bsu:DNAE(1) 1 638
+eco:B0184(1) 1 662
+bsu:POLC(2) 612 1143
+
+Cluster 10
+mja:MJ1589 1 241
+mja:MJ0871 1 317
+mja:MJ0880 1 308
+mja:MJ1556 1 312
+bsu:YVOD 1 312
+eco:B4329 1 153
+bsu:SPMB 1 179
+syn:SLL1678 1 182
+
+Cluster 11
+bsu:YYBL 1 236
+bsu:NATB 1 386
+bsu:YHAP 1 419
+mja:MJ1024 1 403
+bsu:YVFS 1 245
+bsu:YXLG 1 259
+syn:SLR0347 1 261
+eco:B3485 1 375
+eco:B0792 1 368
+eco:B0793 1 377
+eco:B3486(3) 497 894
+bsu:YFIM 1 396
+bsu:YFIN 1 385
+
+Cluster 12
+eco:B1940 1 235
+syn:SLL1774 98 260
+syn:SLL1201 100 264
+syn:SLR1712 101 268
+syn:SSL1923 1 52
+syn:SLR0810 1 119
+syn:SLL1691 1 150
+syn:SLL1542 1 300
+
+Cluster 13
+bsu:YEEA 1 447
+mja:MJECS02 1 613
+eco:B4349(1) 1 259
+mja:MJECL42(1) 1 335
+mja:MJ1220(1) 1 363
+
+Cluster 14
+bsu:YRRC 1 798
+eco:B2819 1 608
+mja:MJ1519 1 1175
+syn:SLL1582(1) 420 804
+
+Cluster 15
+eco:B1926 1 121
+bsu:YLBO 1 193
+bsu:YWFN 1 258
+bsu:YUKC 1 451
+bsu:YTTA 1 246
+bsu:SMC(2) 847 1186
+mja:MJ1643(2) 840 1169
+syn:SLL1120(2) 862 1200
+
+Cluster 16
+bsu:YWMD 1 224
+bsu:YWMC 1 227
+eco:B2270 1 575
+syn:SLL0103 1 420
+
+Cluster 17
+eco:B2395 1 509
+eco:B2503 1 474
+syn:SLR1805 1 325
+syn:SLR1798(1) 1 343
+
+Cluster 18
+eco:B0355 1 277
+eco:B2154 1 278
+syn:SLL0992 1 276
+eco:B0585 1 374
+bsu:YBBA 1 189
+bsu:YJCH 1 240
+eco:B3719 1 400
+
+Cluster 19
+bsu:SPOIIB 1 332
+eco:B3803 1 393
+
+Cluster 20
+bsu:YISL 1 118
+mja:MJ0419 1 354
+mja:MJ0420 1 380
+
+Cluster 21
+eco:B0932(1) 1 710
+syn:SLL1343(1) 1 726
+
+Cluster 22
+eco:B0932(2) 711 870
+mja:MJ0894 1 141
+mja:MJ1053 1 163
+syn:SLL1343(2) 727 869
+
+Cluster 23
+eco:B3373 1 134
+bsu:IOLI 1 278
+bsu:IOLH 1 289
+mja:MJ0008 1 220
+mja:MJ1188 1 270
+mja:MJ1311 1 293
+mja:MJ1614 1 251
+
+Cluster 24
+mja:MJ0674 1 338
+mja:MJ0808 1 333
+eco:B4237 1 154
+eco:B4379 1 287
+eco:B0902 1 246
+eco:B0824 1 308
+eco:B3952 1 292
+
+Cluster 25
+mja:MJ0192 1 191
+syn:SLL1818 1 314
+bsu:RPOA 1 314
+eco:B3295 1 329
+
+Cluster 26
+mja:MJ0144 1 258
+eco:B4049 1 345
+syn:SLL0926 1 334
+bsu:YFJN 1 325
+eco:B2140 1 315
+eco:B3260 1 321
+bsu:YACF 1 333
+syn:SLR0644 1 355
+
+Cluster 27
+bsu:YDCE 1 116
+eco:B2782 1 111
+eco:B4225 1 116
+
+Cluster 28
+bsu:YQKA 1 343
+eco:B0234 1 150
+syn:SLL1671 1 160
+eco:B3550 1 146
+eco:B4012 1 147
+
+Cluster 29
+syn:SLL0177 1 442
+bsu:YEFB 1 300
+bsu:YOKA 1 545
+bsu:SPOIVCA 1 500
+eco:B2648 1 47
+eco:B1158 1 184
+eco:B1374 1 196
+eco:B1545 1 196
+
+Cluster 30
+bsu:QCRC 1 255
+bsu:CCCA 1 120
+bsu:CCCB 1 112
+syn:SLL1359 576 678
+syn:SLL1245 1 128
+
+Cluster 31
+eco:B1365 1 87
+bsu:SPO0J 1 282
+bsu:YYAA 1 283
+
+Cluster 32
+syn:SLR1895 1 404
+bsu:YVNB 771 1289
+
+Cluster 33
+mja:MJ0272 1 79
+eco:B1570 1 135
+bsu:YOBD 1 112
+bsu:ANSR 1 116
+bsu:XRE 1 113
+bsu:YDCN 1 127
+bsu:YONR 1 108
+bsu:YQAE 1 116
+
+Cluster 34
+bsu:YVAN 1 135
+bsu:YVAO 1 139
+bsu:YAZB 1 69
+bsu:SINR 1 111
+bsu:SLR 1 152
+mja:MJ1164 1 318
+eco:B1508 1 88
+eco:B1299 1 185
+eco:B1434 1 178
+
+Cluster 35
+bsu:YSLB 1 148
+syn:SLR0144 1 262
+syn:SLR0147 1 292
+mja:MJ0716 1 95
+mja:MJ1460 1 162
+mja:MJ0739 1 151
+mja:MJ0745 1 181
+mja:MJ0150 1 173
+mja:MJ1642 1 161
+mja:MJ0855 72 228
+
+Cluster 36
+bsu:YXAG 1 337
+mja:MJ1618 1 125
+eco:B2049(2) 364 478
+syn:SLR2074 1 129
+syn:SLR0493 1 128
+
+Cluster 37
+mja:MJ0177 1 252
+syn:SLL1800 1 210
+bsu:RPLD 1 207
+eco:B3319 1 201
+
+Cluster 38
+bsu:PYRDII 1 256
+mja:MJ1446 1 257
+eco:B3844 1 233
+eco:B3924 1 248
+bsu:HMP 1 399
+eco:B2552 1 396
+eco:B1803(1) 1 226
+eco:B0872(1) 1 228
+eco:B1392(1) 1 245
+
+Cluster 39
+mja:MJ0915 1 267
+eco:B0386 1 269
+syn:SLR0661 1 267
+bsu:PROH 1 270
+bsu:YQJO 1 278
+bsu:YKEA 1 272
+bsu:COMER 1 273
+
+Cluster 40
+bsu:IOLE 1 297
+eco:B0508 1 258
+eco:B2739 1 258
+eco:B1314 1 265
+syn:SLL1304 1 287
+
+Cluster 41
+bsu:YHED 1 453
+bsu:YHEC 1 363
+syn:SLR1616 1 341
+mja:MJ0776 1 383
+mja:MJ0815 1 308
+
+Cluster 42
+bsu:YSCB 1 210
+syn:SLR0976 62 242
+syn:SLR1612 61 286
+syn:SSR2711 1 84
+syn:SLR1752 57 221
+syn:SLR1095 49 215
+syn:SLL0995 53 231
+syn:SLL1461 53 220
+
+Cluster 43
+mja:MJ0987 1 116
+syn:SLL1424 1 491
+eco:B0924 612 1084
+syn:SLR1301 1 535
+eco:B0739 1 421
+bsu:YVCE(1) 1 287
+eco:B3613 1 427
+syn:SLL1583(1) 1 458
+eco:B0465(1) 1 518
+eco:B4159(1) 1 499
+syn:SLR1567 1 765
+bsu:YOMI(4) 1681 2285
+
+Cluster 44
+mja:MJ0543 1 174
+eco:B3313 1 136
+bsu:RPLP 1 144
+syn:SLL1805 1 139
+
+Cluster 45
+eco:B3177 1 297
+bsu:SUL 1 285
+syn:SLR2026 1 289
+mja:MJ0112 64 488
+mja:MJ0107(1) 1 430
+
+Cluster 46
+bsu:YNBB 1 421
+syn:SLR0580 1 415
+eco:B3008 1 395
+eco:B3939 1 386
+bsu:YJCI 1 373
+bsu:YJCJ 1 390
+bsu:YRHB 1 379
+
+Cluster 47
+eco:B1159 1 277
+syn:SLL1193 1 165
+syn:SLL2007 1 138
+syn:SLR2080 1 150
+
+Cluster 48
+eco:B0918 1 248
+bsu:SPSF 1 239
+mja:MJ1063 1 243
+
+Cluster 49
+bsu:CHEV(1) 1 158
+bsu:CHEW 1 156
+eco:B1887 1 167
+syn:SLL1293 1 155
+syn:SLR1043 1 187
+syn:SLL0040 1 182
+
+Cluster 50
+bsu:ODHA(2) 524 937
+eco:B0726(2) 520 933
+
+Cluster 51
+bsu:ACOA 1 333
+bsu:PDHA 1 371
+bsu:ODHA(1) 1 523
+bsu:BFMBAA 1 330
+eco:B0726(1) 1 519
+syn:SLR1934 1 342
+
+Cluster 52
+mja:MJ0601 1 267
+bsu:YHFW(1) 1 410
+eco:B1301 1 426
+mja:MJ1488 1 393
+syn:SLR0088 1 94
+syn:SLR1293 1 91
+syn:SLL0033 1 89
+
+Cluster 53
+syn:SLL1479 1 254
+eco:B3718 1 213
+eco:B3141 1 251
+eco:B0678 1 266
+bsu:YBFT 1 249
+bsu:NAGB 1 242
+
+Cluster 54
+eco:B3594 1 280
+syn:SLR1098 1 252
+syn:SLR1878 1 272
+bsu:YPGR 1 377
+syn:SLL1663 1 220
+syn:SLR1687 1 233
+
+Cluster 55
+eco:B2184 1 586
+eco:B4350(2) 461 1188
+mja:MJECL40 1 741
+mja:MJ0124 1 728
+mja:MJ1214 1 721
+mja:MJ1512(2) 221 876
+
+Cluster 56
+eco:B2291 1 199
+mja:MJ0778 1 169
+
+Cluster 57
+bsu:YYCP 1 387
+mja:MJ1282 1 352
+mja:MJECL39 1 351
+mja:MJ0822 488 558
+mja:MJ0954 1 440
+
+Cluster 58
+bsu:YRRM 1 217
+syn:SLR0095 1 220
+mja:MJ0391 1 183
+syn:SLR1368 1 227
+syn:SLL0099(2) 238 425
+
+Cluster 59
+bsu:COMGC 1 98
+eco:B0108 1 146
+eco:B3328 1 145
+syn:SLR1456 1 175
+syn:SLL1695 1 170
+syn:SLL1694 1 168
+
+Cluster 60
+eco:B3112 1 140
+eco:B1814(1) 1 180
+eco:B2797(1) 1 180
+bsu:YLOW 1 220
+bsu:SERA(2) 364 525
+mja:MJ1018(2) 364 524
+syn:SLL1908(2) 393 554
+
+Cluster 61
+bsu:UREC 1 569
+syn:SLL1750 1 569
+bsu:YERA 1 580
+mja:MJ1459 1 556
+bsu:ADEC 1 577
+eco:B3665 1 588
+
+Cluster 62
+bsu:YCKF 1 185
+mja:MJ1247 1 180
+bsu:YFIA 1 254
+eco:B2427 1 285
+eco:B2561 1 306
+eco:B4089 1 307
+bsu:YBBH 1 283
+eco:B1853 1 289
+syn:SLR2111 1 157
+eco:B2708 1 308
+eco:B3197 1 328
+
+Cluster 63
+bsu:LYTB(2) 228 705
+bsu:SPOIID 1 343
+syn:SLL1283 1 391
+syn:SLL0252(2) 92 428
+syn:SLR0191 39 535
+
+Cluster 64
+bsu:LYTB(1) 1 227
+mja:MJ0755 1 342
+syn:SLL0252(1) 1 91
+
+Cluster 65
+eco:B1744 1 322
+syn:SLR1705 1 288
+
+Cluster 66
+eco:B0881 1 106
+syn:SSL3379 1 98
+syn:SSR2723 1 96
+
+Cluster 67
+bsu:YQEG 1 172
+syn:SLR0362 1 184
+bsu:ARAL 1 272
+bsu:YUTF 1 256
+eco:B0675 1 250
+eco:B3812 1 238
+mja:MJ1437 1 228
+bsu:YSAA 1 260
+bsu:YFNB 1 235
+eco:B4374 1 225
+
+Cluster 68
+mja:MJ1206 1 424
+eco:B3066 1 581
+bsu:DNAG 1 603
+syn:SLL1868 1 635
+
+Cluster 69
+mja:MJ0907 1 286
+syn:SLL1766 1 398
+eco:B1497 1 390
+eco:B3800 1 411
+bsu:YBCQ 1 266
+bsu:YWIA 1 448
+bsu:YYDG 1 319
+syn:SLR0304 1 336
+
+Cluster 70
+syn:SLR1403(1) 1597 1851
+syn:SLR1028 2357 2616
+syn:SLR0408 2492 2766
+eco:B1978(4) 1902 2383
+
+Cluster 71
+bsu:PSSA 1 177
+mja:MJ1212 1 201
+eco:B1408 1 203
+eco:B1758 1 208
+
+Cluster 72
+eco:B4388 1 322
+mja:MJ1594 1 211
+syn:SLR0953 1 244
+syn:SLL0045(2) 478 720
+bsu:YHJK 1 286
+eco:B0446 1 276
+eco:B3826 1 171
+eco:B0822 1 271
+eco:B0844 1 262
+bsu:YHAX 1 265
+bsu:YCSE 1 249
+bsu:YKRA 1 257
+bsu:YWTE 1 286
+bsu:YWPJ 1 285
+bsu:YITU 1 270
+eco:B0766 1 272
+syn:SLL1524 1 279
+bsu:YXEH 1 270
+eco:B3697 1 270
+
+Cluster 73
+bsu:YUEK 1 490
+eco:B0931 1 400
+
+Cluster 74
+syn:SLR1119 1 233
+bsu:YCSK 1 213
+bsu:YPMR 1 255
+
+Cluster 75
+mja:MJ0139 1 209
+eco:B1250(1) 1 149
+syn:SLR1257 1 397
+syn:SLR0498 1 234
+
+Cluster 76
+syn:SLR1452 1 352
+eco:B2425 1 338
+eco:B3917 1 329
+bsu:YVGK 1 308
+mja:MJ0886(2) 394 620
+
+Cluster 77
+mja:MJ0424 1 103
+mja:MJ0423 1 59
+mja:MJECL04 1 313
+syn:SLR1243(1) 1 435
+
+Cluster 78
+eco:B2956 1 335
+bsu:YKYA 1 205
+bsu:YOMI(1) 1 197
+
+Cluster 79
+mja:MJ0307 1 85
+bsu:YOSR 1 80
+bsu:YUSE 1 106
+bsu:YOLI 1 137
+bsu:YDBP 1 106
+bsu:YTPP 1 107
+eco:B0492 1 296
+syn:SLL1057 1 126
+syn:SLR0233 1 105
+syn:SLR1139 1 109
+eco:B2582 1 139
+bsu:TRXA 1 104
+eco:B3781 1 127
+syn:SLR0623 1 107
+syn:SLL1980 1 180
+syn:SLL0685 1 162
+
+Cluster 80
+eco:B3163 1 294
+bsu:YPIA(2) 162 270
+syn:SLR2048(1) 1 171
+syn:SLR0626(2) 234 398
+mja:MJ0798(2) 165 334
+mja:MJ1428(3) 258 567
+mja:MJ1345(2) 135 314
+mja:MJ0263(2) 136 320
+mja:MJ0940(2) 138 318
+mja:MJ0941(2) 151 338
+
+Cluster 81
+mja:MJ0296 1 203
+mja:MJ0888 1 206
+eco:B0212 1 251
+syn:SLL1019 1 257
+bsu:YRKH 1 295
+bsu:YQGX 1 211
+eco:B0927 1 215
+bsu:PKSB 1 225
+syn:SLR1259 1 232
+bsu:YOBT 1 233
+bsu:YFLN 1 264
+bsu:YYBB 1 220
+
+Cluster 82
+eco:B0905 1 589
+mja:MJ1094 1 385
+
+Cluster 83
+mja:MJ0223 1 104
+bsu:DIVIVA 1 164
+bsu:YOMG 1 414
+
+Cluster 84
+syn:SLR1196 1 429
+syn:SLR1968(1) 1 247
+syn:SLL0499(1) 1 360
+mja:MJ0798(1) 1 164
+mja:MJ1428(2) 134 257
+mja:MJ1345(1) 1 134
+mja:MJ0263(1) 1 135
+mja:MJ0940(1) 1 137
+mja:MJ0941(1) 1 150
+bsu:YPIA(1) 1 161
+
+Cluster 85
+eco:B2544 1 290
+bsu:YOXA 1 325
+eco:B3879 1 308
+eco:B1780 1 301
+syn:SLR1438 1 289
+
+Cluster 86
+eco:B0627 1 67
+eco:B3836 1 103
+syn:SLR1046 1 126
+syn:SSL2823 1 75
+bsu:YNZA 1 62
+bsu:YCZB 1 70
+bsu:YDII 1 57
+
+Cluster 87
+bsu:YFIE 1 285
+bsu:YNDN 1 144
+syn:SLL1675 1 150
+bsu:YRAH 1 128
+bsu:YWKD 1 128
+eco:B0187 1 138
+
+Cluster 88
+mja:MJ0925 1 106
+eco:B4212 1 156
+syn:SLL1512 1 135
+bsu:YODB 1 112
+bsu:YVAP 1 236
+bsu:YDZF 1 109
+bsu:YCKH 1 120
+bsu:YDEP 1 128
+bsu:YYBR 1 125
+bsu:YKVN 1 118
+bsu:YTCD 1 126
+
+Cluster 89
+eco:B1510(2) 649 1325
+syn:SLL0723 1087 1232
+syn:SLL0721 1 422
+syn:SLL1009 1 591
+syn:SLL1951(2) 1061 1741
+syn:SLR1403(3) 2261 2786
+
+Cluster 90
+eco:B1023 1 150
+bsu:YXKH 1 279
+eco:B0130 1 409
+syn:SLL1306 1 335
+bsu:YHEN 1 282
+bsu:YJEA 272 467
+bsu:YBAN 1 254
+bsu:YFJS 1 263
+bsu:YLXY 1 319
+
+Cluster 91
+eco:B0139 1 865
+eco:B0532 1 867
+eco:B0718 1 818
+eco:B0940 1 866
+eco:B1505 1 382
+eco:B2109 1 826
+eco:B2337 1 298
+eco:B2338 1 578
+eco:B3046 1 821
+eco:B3144 1 838
+eco:B3216 1 793
+eco:B4317 1 878
+syn:SLR0019 1 892
+
+Cluster 92
+eco:B0214 1 155
+syn:SLR0080 1 160
+bsu:YPDQ 1 132
+syn:SLL0980 1 396
+
+Cluster 93
+eco:B1613 1 391
+bsu:YJDE 1 315
+bsu:YDHS 1 315
+bsu:PMI 1 316
+
+Cluster 94
+syn:SLR1278 1 330
+bsu:YACA 1 472
+eco:B0188 1 432
+mja:MJ1016 1 294
+eco:B1344 1 311
+mja:MJ0485 1 337
+mja:MJ1157 1 341
+mja:MJ1478 1 303
+
+Cluster 95
+syn:SLR1761 1 201
+eco:B3347 1 270
+eco:B4207 1 259
+mja:MJ0278 1 157
+mja:MJ0825 1 231
+eco:B0028 1 149
+eco:B3349 1 196
+
+Cluster 96
+eco:B4109 1 196
+syn:SLR0179 1 357
+bsu:YPBR(1) 1 595
+
+Cluster 97
+mja:MJ1384 1 198
+eco:B0851 1 240
+bsu:YCND 1 249
+bsu:YWCG 1 249
+
+Cluster 98
+mja:MJ1186 1 346
+eco:B0763 1 257
+bsu:YVGL 1 260
+syn:SLL0738 1 270
+
+Cluster 99
+bsu:YAAD 1 294
+mja:MJ0677 1 330
+eco:B3991 1 281
+bsu:YJBT 1 256
+syn:SLR0633(2) 396 656
+
+Cluster 100
+eco:B2064 1 617
+syn:SLL1265 1533 1978
+syn:SLL1586 1359 1749
+
+Cluster 101
+mja:MJ0573 1 189
+bsu:YMAD 1 150
+eco:B1482 1 143
+bsu:YKLA 1 141
+bsu:YKZA 1 136
+
+Cluster 102
+bsu:AROA(1) 1 104
+syn:SLL0934(1) 1 87
+mja:MJ0246 1 99
+eco:B2599(1) 1 104
+
+Cluster 103
+eco:B0896 1 287
+eco:B1590 1 284
+bsu:CTAA 1 306
+syn:SLL1898 1 332
+
+Cluster 104
+syn:SLR0254 1 266
+bsu:YCKC 1 151
+bsu:YXAI 1 151
+bsu:YCZC 1 127
+bsu:YTEJ 1 164
+
+Cluster 105
+bsu:RAPD 1 354
+bsu:RAPK 1 371
+bsu:RAPG 1 365
+bsu:RAPI 1 391
+bsu:RAPC 1 382
+bsu:RAPF 1 381
+bsu:RAPE 1 375
+bsu:RAPH 1 431
+bsu:RAPJ 1 373
+bsu:RAPA 1 378
+bsu:RAPB 1 377
+syn:SLR1968(2) 248 418
+syn:SLL0499(2) 361 503
+
+Cluster 106
+mja:MJ1422(2) 1625 1847
+mja:MJ0682(1) 547 586
+bsu:HOLB 1 329
+eco:B1099 1 334
+syn:SLR0446 1 319
+syn:SLL1360 527 1116
+bsu:DNAX 1 563
+eco:B0470 1 643
+
+Cluster 107
+syn:SLL0377(2) 545 1199
+bsu:MFD(2) 513 1177
+eco:B1114(2) 498 1148
+eco:B3652 1 693
+bsu:YLPB 1 682
+syn:SLR0020 1 831
+mja:MJ1512(1) 1 220
+
+Cluster 108
+syn:SSR1527 1 81
+bsu:MOAD 1 77
+eco:B0784 1 81
+
+Cluster 109
+syn:SLR0743 1 458
+bsu:NUSA 1 371
+eco:B3169 1 495
+mja:MJ1045 1 183
+mja:MJ1533(2) 507 642
+
+Cluster 110
+bsu:YOST 1 149
+eco:B2009 1 157
+eco:B3023 1 160
+
+Cluster 111
+mja:MJ0416 1 190
+syn:SLL1033 1 403
+syn:SLL0243 1 416
+syn:SLR0298 1 210
+
+Cluster 112
+eco:B2410 1 332
+bsu:YQCL 1 346
+syn:SLR0944 1 383
+bsu:YBAS 1 283
+bsu:YOCS 1 321
+syn:SLL1428 1 292
+
+Cluster 113
+mja:MJ0010 1 428
+mja:MJ1612 1 411
+eco:B3380 1 408
+bsu:DRM 1 394
+eco:B4383 1 407
+
+Cluster 114
+eco:B3700 1 357
+bsu:RECF 1 370
+syn:SLL1277 1 384
+mja:MJECL44 1 331
+syn:SLR1056(1) 1 68
+
+Cluster 115
+mja:MJ0467 1 120
+eco:B3309 1 104
+bsu:RPLX 1 103
+syn:SLL1807 1 115
+
+Cluster 116
+bsu:YVRI 1 191
+mja:MJ0173 1 157
+
+Cluster 117
+bsu:HEMD 1 262
+mja:MJ0994 1 240
+bsu:YJJA 1 270
+syn:SLL0166(2) 388 538
+
+Cluster 118
+mja:MJ1046 1 148
+bsu:RPSL 1 138
+eco:B3342 1 124
+syn:SLL1096 1 126
+
+Cluster 119
+syn:SLR0945 1 206
+eco:B0937 1 191
+bsu:YHDA 1 174
+eco:B3713 1 188
+
+Cluster 120
+bsu:YODM 1 203
+syn:SLL0545 1 240
+eco:B2174 1 249
+mja:MJ0374(2) 152 330
+bsu:YWOA 1 193
+eco:B0841 1 198
+
+Cluster 121
+mja:MJ0719(1) 1 85
+eco:B2205 1 231
+eco:B2208 1 164
+
+Cluster 122
+mja:MJ0132 1 220
+mja:MJ1220(2) 364 578
+mja:MJECL42(2) 336 558
+bsu:YTXK 1 329
+eco:B4349(2) 260 529
+
+Cluster 123
+eco:B4092 1 252
+syn:SLL1036 1 292
+
+Cluster 124
+bsu:YQGT 1 376
+eco:B1326 1 262
+
+Cluster 125
+bsu:YNEB 1 217
+mja:MJ0014 1 213
+
+Cluster 126
+bsu:SPSE 1 373
+mja:MJ1065 1 337
+eco:B1215 1 284
+bsu:AROA(2) 105 358
+syn:SLL0934(2) 88 351
+
+Cluster 127
+bsu:YQJY 1 156
+syn:SLR1888(2) 459 630
+eco:B2584(3) 710 886
+
+Cluster 128
+bsu:YTLP 1 183
+eco:B0147 1 179
+mja:MJ1568 1 173
+
+Cluster 129
+mja:MJ0527 1 164
+bsu:YCXE 1 287
+eco:B3907 1 344
+
+Cluster 130
+mja:MJ1396(2) 2491 2894
+bsu:YCLG 89 584
+bsu:YORA 96 586
+
+Cluster 131
+bsu:HPRT 1 180
+eco:B0125 1 182
+bsu:PYRR 1 181
+syn:SLL0368 1 178
+
+Cluster 132
+bsu:YFIW 1 258
+eco:B0788 1 318
+syn:SLR0712 1 322
+mja:MJ1078 1 234
+mja:MJ1595 1 336
+
+Cluster 133
+mja:MJ1002 1 309
+bsu:YOJJ 1 201
+bsu:YBBP 1 273
+syn:SLL0505 1 303
+
+Cluster 134
+syn:SLR0862 1 326
+mja:MJ1087 1 312
+bsu:GALK 1 390
+eco:B0757 1 382
+
+Cluster 135
+syn:SSL3436 1 73
+mja:MJ0462 1 70
+bsu:RPMC 1 66
+eco:B3312 1 63
+
+Cluster 136
+mja:MJ0906 1 366
+syn:SLL1693 1 440
+syn:SLL0487 1 402
+eco:B2232 1 240
+syn:SLR1618 1 261
+eco:B0921 1 261
+bsu:YQEM 1 247
+syn:SLR1071 1 268
+
+Cluster 137
+bsu:YQGV 1 94
+mja:MJ1052 1 100
+syn:SLL0230 1 121
+
+Cluster 138
+bsu:YKNX 1 377
+bsu:YVRP 1 397
+eco:B4350(1) 1 460
+
+Cluster 139
+mja:MJ1295 1 218
+eco:B1266 1 293
+syn:SLL0549 1 249
+
+Cluster 140
+syn:SLL1289 1 194
+eco:B2195 1 185
+bsu:RESA 1 181
+bsu:YKVV 1 165
+bsu:YNEN 1 170
+bsu:YBDE 1 141
+bsu:YKUV 1 153
+
+Cluster 141
+eco:B1378(2) 391 802
+syn:SLL0741(2) 397 809
+mja:MJ0269 1 178
+mja:MJ0536 1 187
+
+Cluster 142
+bsu:CLPC 1 810
+bsu:CLPE 1 699
+eco:B0882 1 758
+eco:B2592 1 857
+mja:MJ1417(1) 1 445
+syn:SLR1641 1 872
+syn:SLR0156 1 898
+syn:SLL0020 1 821
+
+Cluster 143
+mja:MJ0133 1 273
+bsu:YQFS 1 297
+eco:B2159 1 285
+
+Cluster 144
+eco:B3636 1 55
+bsu:RPMG 1 49
+syn:SSR1398 1 65
+
+Cluster 145
+mja:MJ0638 1 225
+mja:MJ1123 1 205
+mja:MJ1252 1 251
+eco:B1661 1 382
+syn:SLL0418 1 318
+syn:SLR0089 1 317
+bsu:YODH 1 233
+syn:SLL0829 1 212
+syn:SLL1407 1 265
+syn:SLR1039 1 233
+bsu:YCGJ 1 228
+eco:B0210 1 207
+syn:SLR0407 1 270
+syn:SLL1653 1 238
+bsu:GERCB 1 233
+eco:B3833 1 251
+bsu:YRHH 1 180
+bsu:YDAC 1 181
+bsu:YXBB 1 244
+
+Cluster 146
+eco:B3640 1 151
+bsu:YNCF 1 144
+bsu:YOSS 1 142
+
+Cluster 147
+mja:MJ1256 1 311
+eco:B0780 1 302
+bsu:YVCK 1 331
+syn:SLL0154 1 462
+
+Cluster 148
+mja:MJ0477 1 143
+eco:B3301 1 144
+bsu:RPLO 1 146
+syn:SLL1813 1 147
+
+Cluster 149
+eco:B1430 1 197
+bsu:YBAJ 1 255
+syn:SLR1183 1 194
+
+Cluster 150
+syn:SLR0236 1 222
+syn:SLL1545 1 271
+eco:B3229 1 212
+eco:B3592 1 202
+
+Cluster 151
+bsu:GLTA(2) 1184 1520
+eco:B3212(2) 1206 1517
+mja:MJ0658 1 318
+mja:MJ1171 1 273
+mja:MJ1350 1 261
+syn:SLL1502(2) 1218 1550
+syn:SLL1499(2) 1235 1556
+
+Cluster 152
+eco:B3018 1 245
+syn:SLL1752 1 240
+bsu:YHDO 1 199
+syn:SLL1848 1 225
+
+Cluster 153
+eco:B0621 1 461
+eco:B3227 1 455
+bsu:YHEL 1 453
+bsu:YQKI 1 468
+
+Cluster 154
+eco:B1333 1 316
+eco:B0607 1 142
+eco:B1376 1 168
+bsu:YHEK 1 184
+syn:SLR1230 1 287
+syn:SLR0244 1 284
+syn:SLL1654 1 157
+mja:MJ0577 1 162
+bsu:YXIE 1 148
+mja:MJ0531 1 170
+syn:SLR1101 1 108
+syn:SLL1388 1 154
+
+Cluster 155
+bsu:YKVA 1 106
+syn:SLL0846 1 102
+
+Cluster 156
+mja:MJ0783 1 186
+syn:SLR2121 1 215
+
+Cluster 157
+bsu:SPOIIM 1 214
+syn:SLR1478 1 317
+mja:MJ0706 1 214
+mja:MJ0793 1 178
+
+Cluster 158
+mja:MJ1428(1) 1 133
+syn:SLR1956 1 172
+syn:SLR0151 1 320
+syn:SLL1628 1 384
+syn:SLL0837 1 294
+syn:SLL1251 1 296
+bsu:YRRB 1 206
+syn:SLL0910(2) 177 363
+syn:SLL0886 1 279
+syn:SLR0751 1 248
+syn:SLL1667 1 266
+syn:SLL1882 1 274
+
+Cluster 159
+bsu:YNEP 1 121
+syn:SLL0410 1 166
+eco:B0443 1 132
+eco:B0736 1 134
+syn:SLR0204 1 138
+
+Cluster 160
+eco:B1870 1 247
+syn:SLR1115 1 257
+bsu:YRRT 1 213
+syn:SLR0482 1 252
+
+Cluster 161
+mja:MJ0912 1 243
+syn:SLL1387 1 254
+eco:B1838 1 219
+eco:B2734 1 218
+bsu:YJBP 1 244
+eco:B0049 1 280
+
+Cluster 162
+eco:B1563 1 95
+syn:SLR0664 1 120
+
+Cluster 163
+bsu:YKAA 1 205
+mja:MJ0629 1 214
+
+Cluster 164
+eco:B2199 1 245
+syn:SLL1608(1) 1 417
+
+Cluster 165
+eco:B1432 1 402
+syn:SLR2062 1 400
+mja:MJ0856.1 1 109
+mja:MJ0751 1 278
+mja:MJ1635 146 414
+
+Cluster 166
+bsu:RPMB 1 62
+eco:B3637 1 78
+syn:SSR1604 1 78
+
+Cluster 167
+eco:B4263 1 500
+syn:SLL0284 431 579
+mja:MJ1565 1 513
+mja:MJ1429 1 503
+mja:MJECL08 1 520
+
+Cluster 168
+syn:SLL1514 1 146
+bsu:YDFT 1 143
+bsu:YOCM 1 158
+
+Cluster 169
+syn:SLL2005(2) 438 550
+mja:MJ1512(3) 877 1048
+mja:MJ0262(1) 1 240
+mja:MJ1420(1) 1 269
+
+Cluster 170
+bsu:YITV 1 255
+eco:B4190 1 249
+bsu:YTMA 1 257
+bsu:YUXL(2) 127 657
+syn:SLR0825(2) 86 637
+
+Cluster 171
+syn:SLL0409 1 320
+eco:B1325 1 335
+bsu:YKFB 1 366
+bsu:YTFD 1 371
+bsu:YITF 1 371
+eco:B2247 1 405
+eco:B1581 1 404
+eco:B3692 1 587
+
+Cluster 172
+mja:MJ0036 1 153
+eco:B3165 1 89
+bsu:RPSO 1 89
+syn:SSL1784 1 89
+
+Cluster 173
+eco:B0740 1 430
+bsu:YUXL(1) 1 126
+syn:SLR0825(1) 1 85
+
+Cluster 174
+syn:SLR0056 1 324
+mja:MJ0279 1 283
+syn:SLR1736 1 308
+syn:SLL1899 1 316
+bsu:CTAB 1 305
+bsu:YJDK 1 329
+eco:B0428 1 296
+eco:B4040 1 290
+syn:SLR0926 1 292
+
+Cluster 175
+eco:B0408(2) 373 615
+syn:SLR0774(2) 209 472
+bsu:SECF(1) 1 250
+mja:MJ1562 1 388
+bsu:YDFJ 1 724
+bsu:YDGH 1 484
+
+Cluster 176
+eco:B3193 1 183
+syn:SLL0751 1 169
+syn:SLL1002 1 158
+
+Cluster 177
+eco:B2562 1 86
+syn:SSR3184 1 75
+mja:MJ0514 1 162
+mja:MJ0514.2(2) 121 246
+mja:MJ0934 1 209
+mja:MJ1303(2) 270 386
+mja:MJ1166 1 171
+mja:MJ1193 93 220
+
+Cluster 178
+eco:B1411 1 430
+mja:MJ0662 1 239
+
+Cluster 179
+bsu:YERE 1 228
+mja:MJ1250 1 253
+
+Cluster 180
+mja:MJ0841 1 415
+syn:SLR2030 1 451
+
+Cluster 181
+mja:MJ0220 1 206
+syn:SLL1323 1 143
+eco:B3736 1 156
+bsu:ATPF 1 170
+syn:SLL1324 1 179
+
+Cluster 182
+syn:SLL1258 1 193
+eco:B2065 1 193
+mja:MJ0430 1 204
+
+Cluster 183
+syn:SLR0790 1 116
+bsu:YOZK 1 115
+eco:B1184 1 422
+bsu:YQJW 1 412
+bsu:UVRX 1 142
+eco:B0231 1 351
+bsu:YQJH 1 414
+
+Cluster 184
+bsu:YURZ 1 125
+mja:MJ0742 1 104
+mja:MJ1511 1 107
+
+Cluster 185
+syn:SLL0569 1 354
+bsu:RECA 1 347
+eco:B2699 1 353
+mja:MJ0254 1 212
+mja:MJ0869 1 352
+
+Cluster 186
+syn:SLR0848 1 277
+bsu:YDDG 456 815
+eco:B0117 1 617
+
+Cluster 187
+bsu:YXAL 1 350
+bsu:YXAK 1 185
+eco:B2512 1 392
+mja:MJECL23 250 827
+
+Cluster 188
+eco:B2766 1 433
+eco:B0043 1 428
+eco:B1699 1 429
+syn:SLR1998 1 425
+syn:SLL1091 1 359
+mja:MJ0532 1 391
+mja:MJ1520 1 387
+
+Cluster 189
+bsu:YDEM 1 141
+eco:B1387(2) 499 681
+
+Cluster 190
+bsu:YUFV 1 113
+mja:MJ1310 1 128
+syn:SLR2006 1 114
+syn:SLR2008 1 116
+
+Cluster 191
+eco:B2036 1 367
+bsu:YOBN 1 446
+syn:SLR0782 1 471
+
+Cluster 192
+bsu:TAGG 1 275
+syn:SLR2107 1 302
+syn:SLR0977 1 276
+syn:SLL0574 1 271
+eco:B0128 1 256
+syn:SLL0760 1 294
+
+Cluster 193
+mja:MJ1272 1 163
+bsu:YKVK 1 149
+eco:B2765 1 121
+syn:SLR0078 1 129
+
+Cluster 194
+eco:B3708 1 476
+mja:MJ0610 1 434
+
+Cluster 195
+bsu:SPSD 1 289
+eco:B3790 1 181
+
+Cluster 196
+syn:SLR1418 1 86
+eco:B0945(1) 1 75
+
+Cluster 197
+bsu:GERCC 1 348
+eco:B3187 1 323
+syn:SLR0611 1 256
+syn:SLR0611-2 1 67
+
+Cluster 198
+bsu:YSNB 1 171
+mja:MJ0623 1 192
+eco:B2300 1 184
+mja:MJ0936 1 166
+
+Cluster 199
+mja:MJ1146 1 343
+eco:B1417 1 134
+eco:B2927 1 339
+eco:B1779 1 331
+syn:SLR0884 1 354
+syn:SLL1342 1 337
+bsu:GAPB 1 340
+bsu:GAP 1 335
+
+Cluster 200
+bsu:YQEZ 1 437
+mja:MJ0137 1 286
+mja:MJ1495 1 292
+
+Cluster 201
+syn:SLL0268 1 135
+bsu:YHAH 1 118
+bsu:YTXH 1 152
+
+Cluster 202
+eco:B3850 1 181
+mja:MJ0298 1 150
+
+Cluster 203
+syn:SLL1020 1 294
+syn:SLL1457 1 318
+mja:MJ0544 1 229
+mja:MJ1222 1 243
+
+Cluster 204
+eco:B4222 1 113
+bsu:YKQA 1 277
+mja:MJ1514 1 120
+
+Cluster 205
+bsu:YVCD 1 484
+syn:SLR2048(2) 172 398
+bsu:YPIA(3) 271 423
+eco:B3530(1) 1 633
+
+Cluster 206
+bsu:YUFP 1 348
+bsu:YUFQ 1 319
+bsu:RBSC 1 322
+eco:B1514 1 342
+eco:B1515 1 330
+eco:B1898 1 86
+eco:B1899 1 234
+eco:B2148 1 336
+eco:B2546 1 332
+eco:B3457 1 308
+eco:B3568 1 393
+eco:B3750 1 321
+eco:B4086 1 326
+eco:B4230 1 341
+eco:B4231 1 323
+mja:MJ1269 1 315
+syn:SLR1200 1 388
+syn:SLR0949 1 286
+
+Cluster 207
+syn:SLL1150 1 252
+eco:B0786 1 234
+eco:B0787 1 237
+bsu:YETJ 1 214
+eco:B0970 1 219
+
+Cluster 208
+mja:MJ0727 1 298
+eco:B0973(2) 138 597
+eco:B2994(2) 121 567
+
+Cluster 209
+eco:B1037 1 277
+syn:SLL1835 1 265
+
+Cluster 210
+bsu:OPUAC 1 293
+eco:B2679 1 330
+
+Cluster 211
+bsu:YWOF 1 468
+mja:MJ1396(1) 2217 2490
+
+Cluster 212
+mja:MJ0558 1 261
+bsu:XKDK 1 305
+bsu:YQBK 1 305
+
+Cluster 213
+syn:SLR1495 1 549
+mja:MJ0942 1 651
+bsu:YPVA 1 641
+eco:B0799 1 716
+bsu:DING 1 931
+eco:B1808 1 636
+
+Cluster 214
+syn:SLL1156 1 141
+syn:SLR1902 1 141
+syn:SLR2095 1 141
+eco:B4294 1 91
+eco:B0265 1 91
+eco:B0275 1 91
+eco:B0022 1 91
+eco:B1894 1 91
+eco:B3444 1 91
+
+Cluster 215
+bsu:YOJE 1 263
+eco:B3819 1 300
+bsu:YXXF 1 311
+syn:SLL1164 1 349
+
+Cluster 216
+eco:B0068 1 327
+syn:SLL0237 1 343
+syn:SLR1295 1 360
+syn:SLR0513 1 346
+
+Cluster 217
+syn:SLR0364(4) 2239 3029
+syn:SLR0366(1) 1 726
+eco:B2000 1 1091
+eco:B2647 1 692
+eco:B2233 1 368
+eco:B1510(1) 1 648
+eco:B1401 1 852
+eco:B1405 1 1107
+
+Cluster 218
+bsu:YMDA 1 520
+mja:MJ0443 1 227
+
+Cluster 219
+eco:B3530(2) 634 1166
+syn:SLL0931 1 156
+syn:SLR1644 1 290
+
+Cluster 220
+syn:SLR1125 1 419
+bsu:YJIC 1 392
+bsu:YDHE 1 381
+bsu:YOJK 1 287
+mja:MJ1255 1 398
+syn:SLL1722 1 433
+
+Cluster 221
+mja:MJ1678 1 396
+syn:SLR2143 1 401
+bsu:YCBU 1 370
+eco:B2810 1 401
+eco:B1680 1 406
+bsu:YURW 1 406
+syn:SLR0077 1 420
+bsu:NIFS 1 395
+bsu:NIFZ 1 381
+syn:SLL0704 1 391
+bsu:YRVO 1 346
+eco:B2530 1 412
+syn:SLR0387 1 386
+
+Cluster 222
+eco:B2600 1 373
+mja:MJ0612 1 446
+bsu:TYRA 1 371
+syn:SLR2081 1 279
+
+Cluster 223
+bsu:YUBF 1 87
+eco:B3562 1 146
+eco:B3563 1 117
+
+Cluster 224
+eco:B1360 1 248
+eco:B4361 1 245
+bsu:DNAI 1 311
+bsu:XKDC 1 266
+bsu:YQAM 1 313
+
+Cluster 225
+syn:SLL1997 1 155
+syn:SLL0315 1 227
+syn:SLR2036(1) 1 184
+syn:SLL1560(1) 1 184
+syn:SLL1255(1) 1 184
+syn:SLR1635(1) 1 184
+syn:SLR0180(1) 1 184
+syn:SLL1780(1) 1 184
+syn:SLL1474(1) 1 184
+eco:B1239 1 196
+eco:B4278(1) 1 243
+
+Cluster 226
+eco:B1802 1 374
+eco:B2538 1 453
+bsu:NASE 1 106
+syn:SLR1747 1 469
+syn:SLL1297 1 338
+syn:SLL1869 1 357
+syn:SLL0264 1 396
+syn:SLL1849 1 211
+
+Cluster 227
+bsu:YACL 1 366
+syn:SLR1972 1 359
+mja:MJ1533(1) 1 506
+
+Cluster 228
+bsu:YHAM 1 314
+mja:MJ0837 1 249
+
+Cluster 229
+bsu:YVFB 1 345
+eco:B1069 1 511
+syn:SLR0488 1 533
+
+Cluster 230
+mja:MJ1333.1 1 137
+bsu:YCBK 1 312
+syn:SLL1319 1 329
+
+Cluster 231
+mja:MJ1680 1 155
+syn:SLL1912 1 124
+syn:SLR1327 1 144
+
+Cluster 232
+bsu:YCZH 1 185
+eco:B2999 1 136
+eco:B3830 1 332
+syn:SLL1298 1 246
+
+Cluster 233
+bsu:YQEF 1 243
+eco:B0494 1 208
+
+Cluster 234
+bsu:YUIF 1 442
+mja:MJ0849 1 265
+
+Cluster 235
+bsu:SBCD 1 253
+eco:B0398 1 400
+syn:SLL0021 1 416
+bsu:YHAO 1 408
+mja:MJ1323 1 366
+
+Cluster 236
+bsu:YQXM 1 253
+mja:MJ0884(2) 107 516
+
+Cluster 237
+eco:B1162 1 243
+eco:B2127 1 243
+bsu:TNRA 1 110
+bsu:GLNR 1 135
+
+Cluster 238
+syn:SLR1474 1 269
+bsu:YVCE(2) 288 473
+eco:B1708 1 154
+eco:B2175 1 188
+bsu:YKFC 1 296
+bsu:LYTE 1 343
+bsu:YHDD 1 488
+bsu:YOJL 1 414
+bsu:YWTD 1 413
+eco:B0227 1 249
+eco:B1655 1 271
+bsu:YDDH 172 329
+
+Cluster 239
+mja:MJ0201 1 160
+mja:MJ0374(1) 1 151
+syn:SLR0232 1 218
+bsu:YBFM 1 162
+syn:SLR0509 1 205
+bsu:YKOX 1 221
+bsu:YNGC 1 198
+eco:B2136 1 204
+eco:B0065 1 254
+eco:B2317 1 219
+eco:B3009 1 219
+eco:B3095 1 220
+
+Cluster 240
+bsu:YDEF 1 465
+bsu:YISV 1 237
+bsu:YDFD(1) 1 269
+bsu:YCXD 1 444
+eco:B1439(1) 1 257
+eco:B4340(1) 1 257
+bsu:YCNF 1 479
+bsu:YDEL 1 463
+bsu:YHDI 1 469
+syn:SLL1961 1 388
+bsu:YHCF 1 121
+bsu:YTRA 1 130
+
+Cluster 241
+bsu:YURD 1 277
+eco:B0285 1 318
+eco:B2867 1 292
+
+Cluster 242
+eco:B2953 1 100
+mja:MJ0618 1 98
+
+Cluster 243
+bsu:YUSF 1 146
+mja:MJ1624 1 139
+
+Cluster 244
+bsu:YTWF 1 68
+syn:SLL1536(2) 255 392
+
+Cluster 245
+mja:MJ1330 1 127
+bsu:YPJQ 1 177
+bsu:YUTG 1 166
+
+Cluster 246
+syn:SLR1461 1 198
+eco:B3424 1 276
+bsu:YDCA 1 199
+bsu:YQGP 1 507
+
+Cluster 247
+mja:MJ1549 1 392
+eco:B2342 1 436
+bsu:YHFS 1 364
+syn:SLR1993 1 409
+bsu:MMGA 1 393
+eco:B2224 1 394
+eco:B2844 1 394
+eco:B1397 1 401
+bsu:YUSK 1 391
+eco:B3845 1 387
+
+Cluster 248
+bsu:MUTT 1 149
+bsu:YJHB 1 170
+syn:SLR1134 1 148
+syn:SSR2806 1 59
+syn:SLR0787(2) 196 339
+mja:MJ1149 1 169
+syn:SLR0920 1 149
+
+Cluster 249
+syn:SLL1864(2) 435 512
+mja:MJ0188(1) 1 63
+mja:MJ1232(1) 1 230
+mja:MJ1404(1) 1 132
+mja:MJ0556 1 185
+mja:MJ1616(1) 1 180
+bsu:GUAB(1) 1 175
+eco:B2508(1) 1 174
+
+Cluster 250
+bsu:GLGP 1 798
+eco:B3417 1 797
+eco:B3428 1 815
+mja:MJ1631 1 519
+syn:SLL1356 1 849
+syn:SLR1367 1 855
+
+Cluster 251
+bsu:YWMG 1 62
+eco:B4045 1 69
+
+Cluster 252
+mja:MJ0875 1 748
+syn:SLR1135 1 715
+
+Cluster 253
+bsu:YXKA 1 168
+eco:B0545 1 183
+eco:B0773 1 158
+
+Cluster 254
+syn:SLL1107 1 258
+bsu:YDBK 1 246
+bsu:YHCI 1 313
+
+Cluster 255
+mja:MJ1302 1 168
+mja:MJ0514.2(1) 1 120
+eco:B2281 1 180
+syn:SLL0520 1 193
+eco:B2488 1 181
+eco:B2720 1 180
+eco:B1629(2) 237 740
+
+Cluster 256
+bsu:YLQG 1 576
+syn:SLR0962 1 477
+
+Cluster 257
+mja:MJ0482 1 240
+syn:SLR1870 1 249
+
+Cluster 258
+bsu:TUAB 1 483
+eco:B2046 1 492
+bsu:YKVU 1 445
+bsu:SPOVB 1 518
+bsu:YABM 1 532
+bsu:YTGP 1 544
+mja:MJ1068 1 507
+mja:MJ1375 1 415
+
+Cluster 259
+eco:B4308 1 338
+mja:MJ0104 1 663
+syn:SLL1582(2) 805 1118
+
+Cluster 260
+eco:B1007 1 152
+syn:SLR0001 1 160
+syn:SLL0217(2) 411 578
+syn:SLL0550(2) 406 573
+syn:SLL0219(2) 425 594
+syn:SLL1521(2) 428 597
+
+Cluster 261
+eco:B3941 1 296
+bsu:YITJ(2) 315 612
+syn:SLR2141 1 340
+
+Cluster 262
+mja:MJ1528 1 219
+eco:B3919 1 255
+bsu:TPI 1 253
+syn:SLR0783 1 242
+
+Cluster 263
+eco:B2584(2) 100 709
+mja:MJ0590(2) 103 704
+
+Cluster 264
+bsu:YNET 1 135
+eco:B0965 1 164
+eco:B2584(1) 1 99
+mja:MJ0590(1) 1 102
+
+Cluster 265
+eco:B1639 1 82
+syn:SLR0581 1 110
+
+Cluster 266
+bsu:YPMB 1 161
+eco:B0354 1 218
+
+Cluster 267
+bsu:CDD 1 136
+eco:B2143 1 294
+
+Cluster 268
+mja:MJ0704 1 377
+syn:SLR0727 1 324
+
+Cluster 269
+eco:B2665 1 149
+bsu:XKDP 1 235
+bsu:YQBP 1 219
+
+Cluster 270
+mja:MJ0222 534 695
+eco:B3578 1 424
+syn:SLL1103 1 445
+
+Cluster 271
+eco:B0742 1 263
+syn:SLR0534(1) 1 677
+
+Cluster 272
+bsu:YJCF 1 140
+bsu:YYBD 1 147
+bsu:YYAT 1 148
+eco:B2267 1 153
+syn:SLL0451 1 154
+
+Cluster 273
+eco:B1176 1 231
+bsu:MINC 1 226
+syn:SLL0288 1 152
+
+Cluster 274
+syn:SLR0197 461 553
+bsu:COMEA 1 205
+eco:B0442 1 123
+
+Cluster 275
+mja:MJ1015 1 389
+syn:SLR1247 1 333
+eco:B3728 1 346
+syn:SLL0680 1 383
+syn:SLL0679 1 336
+bsu:YQGG 1 300
+syn:SLL0540 1 307
+
+Cluster 276
+eco:B4002 1 188
+syn:SLL0858 1 197
+
+Cluster 277
+bsu:YLBM 1 415
+mja:MJ0951 1 355
+
+Cluster 278
+bsu:KINC(1) 1 143
+bsu:YKRQ(1) 1 459
+bsu:KINA(1) 1 335
+syn:SLL1124(1) 697 1079
+syn:SLR0222(1) 1 883
+eco:B1489 1 344
+syn:SLR0359(2) 417 756
+syn:SLR0311 1 759
+syn:SLL0779(1) 1 394
+syn:SLL1687(1) 1 450
+syn:SLR0302(1) 1 176
+
+Cluster 279
+eco:B0738 1 142
+eco:B3005 1 141
+syn:SLL1405 1 142
+syn:SLR0678 1 269
+syn:SLL0479 1 150
+syn:SLL0478 1 147
+
+Cluster 280
+mja:MJ0451 1 226
+eco:B1262(2) 255 453
+bsu:TRPF 1 215
+syn:SLL0356 1 218
+
+Cluster 281
+eco:B4038 1 442
+bsu:YISX 1 212
+eco:B4066 1 430
+bsu:YYBG 1 279
+syn:SLL0274 1 196
+syn:SLL0301 1 169
+syn:SLL0577 1 169
+syn:SLR0967 1 150
+syn:SLL0183 1 259
+syn:SLR1697 350 574
+syn:SLL1011 1 270
+syn:SLR0719 1 388
+syn:SLL0414 1 286
+syn:SLR0516 1 166
+syn:SLR1851 1 162
+syn:SLR1519 1 245
+syn:SLR1152 1 331
+syn:SLR1819 1 331
+syn:SLL1446 1 320
+
+Cluster 282
+syn:SLR1854 1 198
+eco:B0424 1 198
+mja:MJ0967 1 205
+bsu:YRAA 1 154
+bsu:YFKM 1 172
+eco:B3153 1 186
+
+Cluster 283
+eco:B2113(1) 1 95
+syn:SLR0067(1) 1 76
+bsu:YITW 1 102
+mja:MJ1129 1 95
+
+Cluster 284
+eco:B0878 1 380
+eco:B2074 1 464
+eco:B3513 1 385
+eco:B0463 1 397
+eco:B3265 1 385
+syn:SLL1181 1 583
+syn:SLL1481 1 451
+syn:SLL1053 1 520
+syn:SLL0180 1 501
+syn:SLR1207 1 514
+syn:SLL0141 1 467
+bsu:YHBJ 1 221
+eco:B0795 1 332
+eco:B3487 1 355
+eco:B3586 1 378
+eco:B3597 1 378
+eco:B2368 1 387
+eco:B2685 1 390
+eco:B4082 1 343
+eco:B1644 1 299
+eco:B3241 1 310
+
+Cluster 285
+eco:B0876 1 57
+mja:MJECL10 1 219
+
+Cluster 286
+bsu:YFJB 1 407
+eco:B1372 1 891
+
+Cluster 287
+bsu:YHFO 1 149
+eco:B4093 1 144
+mja:MJ1207 1 226
+syn:SLR0517 1 204
+
+Cluster 288
+mja:MJ1534 1 331
+bsu:YTNJ 1 442
+bsu:YXEK 1 441
+eco:B1012 1 382
+bsu:YGCA 1 378
+eco:B0935 1 381
+
+Cluster 289
+mja:MJ0563 1 310
+mja:MJ1200 1 366
+bsu:YDIO 1 427
+syn:SLR0214 1 424
+bsu:YDIP 1 389
+bsu:MTBP 1 443
+eco:B1961 1 472
+
+Cluster 290
+eco:B0488 1 151
+mja:MJ0826 1 138
+
+Cluster 291
+bsu:MPR 1 313
+eco:B1598 1 273
+
+Cluster 292
+bsu:YDCC 1 373
+mja:MJ0687 1 335
+
+Cluster 293
+bsu:YYBT 1 659
+mja:MJ0988 1 329
+mja:MJ1633(2) 160 478
+syn:SLL0639 1 417
+
+Cluster 294
+eco:B0591 1 416
+bsu:YFMI 1 406
+bsu:YJBB 1 402
+bsu:YWFF 1 394
+syn:SLR1935 1 465
+bsu:YKUC 1 430
+bsu:YVQJ 1 422
+syn:SLL1204 1 427
+bsu:YFIS 1 417
+syn:SLR0796 1 445
+
+Cluster 295
+bsu:YFIO 1 182
+eco:B3071 1 207
+
+Cluster 296
+bsu:YLBJ 1 408
+eco:B4330 1 231
+
+Cluster 297
+eco:B2196 1 647
+eco:B4074 1 552
+bsu:HEMX 1 276
+bsu:RESC 1 352
+syn:SLL1513 1 334
+
+Cluster 298
+mja:MJ0135 1 230
+syn:SLR1130 1 190
+bsu:RNH 1 255
+eco:B0183 1 198
+
+Cluster 299
+eco:B4373 1 148
+bsu:YDID 1 151
+syn:SLR0853 1 158
+eco:B2434 1 178
+mja:MJ1530 1 156
+
+Cluster 300
+eco:B1384 1 301
+bsu:YESN(2) 126 368
+
+Cluster 301
+mja:MJ0389 1 306
+bsu:TYRS 1 422
+eco:B1637 1 424
+bsu:TYRZ 1 413
+syn:SLR1031 1 404
+
+Cluster 302
+eco:B0499 1 236
+eco:B3595 1 233
+eco:B0703 1 477
+eco:B1456 1 682
+eco:B0497 406 1426
+eco:B0700 402 1397
+eco:B3482 402 1411
+eco:B3593 402 1377
+bsu:WAPA 1615 2334
+
+Cluster 303
+mja:MJ0015 1 98
+eco:B0200 1 191
+syn:SLL0084 1 161
+eco:B2022(1) 1 167
+
+Cluster 304
+eco:B3259 1 293
+bsu:YQET 1 311
+syn:SLL1909 1 300
+mja:MJ0284 1 219
+mja:MJ0928 1 197
+
+Cluster 305
+eco:B2947 1 316
+syn:SLR1238 1 320
+mja:MJ1001 1 290
+eco:B0852 1 300
+mja:MJ0620 1 291
+
+Cluster 306
+eco:B2045 1 426
+syn:SLR0688 1 343
+
+Cluster 307
+mja:MJ0900 275 551
+mja:MJ1287 1 270
+mja:MJ0781 278 721
+syn:SLL1533 1 428
+eco:B2950 1 341
+syn:SLR0161 1 369
+bsu:COMGA 1 356
+syn:SLR0063 1 672
+syn:SLR0079 1 813
+eco:B0107 1 461
+eco:B3326 1 493
+
+Cluster 308
+bsu:YUSI 1 118
+bsu:YJBD 1 131
+bsu:YQGZ 1 126
+eco:B2638 1 104
+eco:B2495 1 119
+eco:B3503 1 141
+
+Cluster 309
+mja:MJ0731 1 198
+mja:MJ1083 1 193
+bsu:YHCB 1 176
+eco:B1004 1 198
+
+Cluster 310
+eco:B3148 1 131
+syn:SLL0189 1 150
+
+Cluster 311
+bsu:YURI 1 288
+eco:B2945 1 235
+
+Cluster 312
+bsu:YSHC 1 570
+eco:B1034 1 245
+
+Cluster 313
+bsu:YQIC 1 54
+eco:B0422 1 80
+
+Cluster 314
+mja:MJ0970 1 143
+bsu:YLNE 1 261
+syn:SLL0037 1 336
+
+Cluster 315
+mja:MJ0195 1 136
+syn:SLL1822 1 137
+bsu:RPSI 1 130
+eco:B3230 1 130
+
+Cluster 316
+bsu:YYAQ 1 118
+eco:B0579 1 122
+eco:B4057 1 118
+
+Cluster 317
+mja:MJ0920 1 185
+eco:B2511(2) 192 503
+bsu:YPHC(2) 168 436
+syn:SLR1974(2) 169 452
+
+Cluster 318
+eco:B2473 1 240
+syn:SLL1284 1 204
+
+Cluster 319
+eco:B0318 1 201
+syn:SLR1109 1 441
+
+Cluster 320
+eco:B2340 1 161
+syn:SLL0400 1 164
+
+Cluster 321
+bsu:YUXK 1 137
+syn:SLR0919 1 151
+
+Cluster 322
+syn:SSL1426 1 67
+bsu:RPMI 1 66
+eco:B1717 1 65
+
+Cluster 323
+mja:MJ0109 1 252
+mja:MJ0917(1) 1 351
+eco:B4214 1 246
+syn:SLL0895 1 291
+syn:SLL1959 1 267
+syn:SLL1329 1 287
+bsu:YKTC 1 265
+eco:B2533 1 267
+syn:SLL1383 1 287
+
+Cluster 324
+mja:MJ0460 1 156
+syn:SLL1803 1 121
+bsu:RPLV 1 113
+eco:B3315 1 110
+
+Cluster 325
+mja:MJ0200 1 82
+syn:SSL3580 1 76
+eco:B2728 1 90
+eco:B2990 1 82
+
+Cluster 326
+eco:B0599 1 362
+eco:B3945 1 380
+syn:SLR1167 1 385
+bsu:ARAM 1 394
+mja:MJ0712 1 335
+
+Cluster 327
+eco:B0581 1 372
+syn:SLR0990 1 389
+
+Cluster 328
+eco:B3888 1 329
+syn:SLL0286 1 171
+
+Cluster 329
+eco:B0195 1 235
+mja:MJ1583 1 126
+
+Cluster 330
+bsu:YXBF 1 380
+eco:B3963 1 234
+
+Cluster 331
+bsu:YKHA 1 136
+eco:B1253 1 132
+
+Cluster 332
+mja:MJ0437 1 79
+syn:SLR2011 1 199
+
+Cluster 333
+bsu:COMFC 1 229
+eco:B3413 1 243
+syn:SLR0388 1 224
+
+Cluster 334
+eco:B1759 1 135
+eco:B0099 1 129
+syn:SLL1045 1 136
+bsu:YVCI 1 158
+syn:SLL1537 1 139
+
+Cluster 335
+bsu:ARAD 1 229
+eco:B4198 1 228
+eco:B0061 1 231
+eco:B3583 1 231
+eco:B2800 1 215
+eco:B2738 1 212
+mja:MJ1418 1 181
+
+Cluster 336
+eco:B2712(2) 91 750
+mja:MJ0713(2) 96 766
+syn:SLL0322(2) 90 767
+
+Cluster 337
+bsu:YFLL 1 91
+eco:B0968 1 92
+eco:B2712(1) 1 90
+mja:MJ0713(1) 1 95
+syn:SLL0322(1) 1 89
+
+Cluster 338
+eco:B3591 1 463
+mja:MJ0158 1 374
+
+Cluster 339
+bsu:CGEE 1 259
+syn:SLR1501 1 225
+
+Cluster 340
+mja:MJ1077 1 521
+syn:SLR1703 1 430
+bsu:SERS 1 425
+eco:B0893 1 430
+
+Cluster 341
+eco:B3605 1 396
+bsu:YPGA 1 212
+mja:MJ0862 1 359
+syn:SLL1556 1 349
+
+Cluster 342
+bsu:ACUB 1 214
+mja:MJ1404(2) 133 421
+mja:MJ0450 1 186
+mja:MJ0653 1 194
+bsu:YHCV 1 140
+bsu:YLBB 1 150
+mja:MJ0868 1 127
+mja:MJ1426 1 168
+syn:SLR0172 1 155
+mja:MJ0922 1 138
+mja:MJ0100(2) 388 509
+mja:MJ1225 1 280
+syn:SLL1253(1) 1 453
+
+Cluster 343
+mja:MJ0441 1 267
+bsu:YRKJ 1 261
+bsu:YUNE 1 273
+bsu:YJNA 1 254
+bsu:YDHB 1 259
+syn:SLR1262 1 288
+bsu:YTNM 1 300
+eco:B2327 1 269
+
+Cluster 344
+bsu:PYCA(2) 459 1079
+mja:MJ1231(1) 1 506
+
+Cluster 345
+bsu:PYCA(3) 1080 1148
+bsu:ACCB 1 159
+eco:B3255 1 156
+mja:MJ1231(2) 507 567
+syn:SLR0435 1 154
+
+Cluster 346
+bsu:YCIA 1 305
+mja:MJ0775 1 316
+
+Cluster 347
+mja:MJ0347 1 151
+eco:B1154 1 209
+eco:B2355 1 172
+
+Cluster 348
+mja:MJECL43 1 384
+syn:SLR1056(2) 69 672
+
+Cluster 349
+mja:MJ1415 1 370
+syn:SLR1884 1 377
+bsu:TRPS 1 330
+eco:B3384 1 334
+
+Cluster 350
+eco:B3619 1 310
+syn:SLR1617 1 411
+
+Cluster 351
+bsu:CTC 1 204
+eco:B2185 1 94
+
+Cluster 352
+bsu:YWHC 1 219
+mja:MJ0611 1 191
+
+Cluster 353
+syn:SLL0576 1 312
+eco:B2255(2) 306 660
+
+Cluster 354
+mja:MJ0397 1 187
+eco:B1286(2) 572 644
+syn:SLL1910(2) 658 781
+bsu:YVAJ(2) 633 779
+eco:B4179(2) 664 827
+
+Cluster 355
+eco:B3414 1 191
+bsu:YUTI 1 111
+syn:SSL2667 1 76
+
+Cluster 356
+eco:B3388 1 428
+syn:SLR0993(1) 1 407
+
+Cluster 357
+syn:SMR0011 1 45
+bsu:RPMH 1 44
+eco:B3703 1 46
+
+Cluster 358
+eco:B3704 1 119
+bsu:RNPA 1 116
+syn:SLR1469 1 124
+
+Cluster 359
+eco:B2483 1 322
+eco:B2722 1 307
+eco:B2282 1 325
+syn:SLL0519 1 372
+mja:MJ0520 1 295
+mja:MJ1362 1 322
+
+Cluster 360
+bsu:RACX 1 227
+eco:B2840 1 230
+
+Cluster 361
+bsu:YPBR(2) 596 1193
+syn:SLR0869 1 307
+
+Cluster 362
+bsu:YKNT 1 321
+mja:MJ1254 1 469
+
+Cluster 363
+mja:MJ0572 1 86
+syn:SLL0910(1) 1 176
+
+Cluster 364
+bsu:MOBB 1 173
+eco:B3856 1 170
+mja:MJ1324 1 234
+
+Cluster 365
+eco:B3765 1 516
+syn:SLR0904 1 509
+syn:SLR1777(1) 1 366
+mja:MJ0911 1 365
+syn:SLR1030 1 357
+
+Cluster 366
+syn:SLL0384 1 257
+mja:MJ1089 1 268
+mja:MJ1571 1 292
+bsu:YKOC 1 254
+bsu:YBAF 1 265
+syn:SLR1978 1 291
+
+Cluster 367
+mja:MJ0660 1 77
+eco:B2785(1) 1 73
+syn:SLL1967(1) 1 79
+bsu:YEFA(1) 1 74
+bsu:YFJO(1) 1 79
+
+Cluster 368
+eco:B1630 1 352
+syn:SLR1442 1 285
+
+Cluster 369
+eco:B3035 1 495
+syn:SLR1270 1 526
+
+Cluster 370
+bsu:YLQC 1 81
+syn:SLR0287 1 118
+
+Cluster 371
+syn:SLR1428 1 636
+eco:B1999 1 236
+eco:B0253 1 288
+eco:B2632 1 289
+
+Cluster 372
+syn:SLR0474 1 147
+bsu:CHEV(2) 159 303
+
+Cluster 373
+syn:SLR1828 1 106
+syn:SLL1382 1 122
+syn:SLR0150 1 103
+syn:SSL0020 1 97
+eco:B1803(2) 227 321
+eco:B0872(2) 229 322
+eco:B1392(2) 246 356
+
+Cluster 374
+eco:B1174 1 88
+syn:SSL0546 1 97
+
+Cluster 375
+mja:MJ1307 1 262
+syn:SLR2012 1 215
+
+Cluster 376
+eco:B2565 1 242
+bsu:YQXN 1 255
+syn:SLR0181 1 260
+
+Cluster 377
+bsu:YUGO 1 375
+syn:SLL0261 1 568
+syn:SLR1664 1 670
+eco:B1250(2) 150 417
+syn:SLL0536 1 356
+syn:SLL0993 1 365
+mja:MJ0138.1 1 333
+mja:MJ1357 1 343
+
+Cluster 378
+eco:B2794 1 282
+bsu:YKVM 1 165
+syn:SLR0711 1 137
+
+Cluster 379
+bsu:YITC 1 228
+mja:MJ1140 1 257
+syn:SLR1718 1 241
+
+Cluster 380
+mja:MJ0884(1) 1 106
+syn:SLR0930 1 436
+
+Cluster 381
+eco:B4359 1 750
+bsu:YQGS 1 638
+bsu:YVGJ 1 617
+bsu:YFNI 1 653
+bsu:YFLE 1 649
+
+Cluster 382
+bsu:DGKA 1 114
+eco:B4042 1 122
+syn:SLR0054 1 175
+
+Cluster 383
+bsu:YVKB 1 189
+bsu:YRHI 1 194
+syn:SLL1286 1 236
+bsu:YTTP 1 207
+bsu:YHGD 1 191
+eco:B1013 1 212
+
+Cluster 384
+syn:SLL1430 1 172
+bsu:APT 1 170
+eco:B0469 1 183
+mja:MJ1655 1 183
+bsu:PURR 1 285
+bsu:XPT 1 194
+
+Cluster 385
+eco:B2540 1 106
+syn:SLR1205 1 164
+
+Cluster 386
+eco:B2017 1 92
+syn:SSR3571 1 87
+
+Cluster 387
+mja:MJ0465 1 117
+syn:SSL3437 1 81
+bsu:RPSQ 1 87
+eco:B3311 1 84
+
+Cluster 388
+eco:B2051 1 160
+syn:SLR1690 1 261
+
+Cluster 389
+bsu:YABO 1 86
+eco:B3400 1 133
+
+Cluster 390
+bsu:YLXG 1 140
+eco:B1075 1 231
+
+Cluster 391
+mja:MJ0171 1 573
+bsu:YKOU 1 611
+bsu:YOQV 1 270
+
+Cluster 392
+bsu:SPSK(2) 270 432
+syn:SLR0985 1 189
+eco:B2038 1 185
+syn:SLR1933 1 182
+
+Cluster 393
+mja:MJ0760 1 275
+eco:B3470 1 81
+bsu:YRKI 1 75
+bsu:YRKF(1) 1 76
+
+Cluster 394
+bsu:PKSA 1 205
+eco:B0313 1 195
+eco:B0846 1 178
+syn:SLR0895 1 187
+
+Cluster 395
+eco:B3337 1 64
+syn:SSL2250 1 58
+
+Cluster 396
+mja:MJ0982 1 222
+eco:B0169 1 241
+bsu:RPSB 1 246
+syn:SLL1260 1 269
+
+Cluster 397
+eco:B2920 1 492
+syn:SLR1888(1) 1 458
+
+Cluster 398
+eco:B1308 1 104
+syn:SLR1184 1 164
+bsu:YQHL 1 126
+bsu:YRKF(2) 77 185
+
+Cluster 399
+syn:SLR1416 1 314
+bsu:YEAC 1 320
+syn:SLR0835 1 303
+eco:B3746 1 506
+mja:MJ0079 1 380
+mja:MJ0812 1 373
+
+Cluster 400
+syn:SLR0733 1 313
+mja:MJ0367 1 330
+eco:B4312 1 200
+eco:B4313 1 198
+eco:B3811 1 298
+bsu:CODV 1 304
+bsu:RIPX 1 296
+eco:B2894 1 298
+
+Cluster 401
+bsu:YITH 1 282
+syn:SLL1469 1 285
+syn:SLL0310 1 302
+
+Cluster 402
+eco:B0145 1 151
+bsu:YOCK 1 209
+bsu:YTEA 1 181
+
+Cluster 403
+syn:SLR1864 1 356
+mja:MJ1031 1 308
+bsu:YWKB 1 319
+eco:B2372 1 314
+
+Cluster 404
+eco:B0819 1 306
+eco:B1990 1 310
+eco:B1113 1 320
+eco:B1678 1 334
+syn:SLR0769 1 204
+bsu:YKUD 1 164
+bsu:YQJB 1 176
+
+Cluster 405
+eco:B2055 1 248
+syn:SLR0092 1 257
+
+Cluster 406
+bsu:YOJM 1 196
+eco:B1646 1 173
+
+Cluster 407
+eco:B4238 1 712
+mja:MJ0885 1395 1634
+mja:MJ0832 827 1049
+
+Cluster 408
+syn:SLR1932 1 231
+eco:B1009(2) 124 266
+
+Cluster 409
+eco:B1723 1 309
+bsu:FRUB 1 303
+eco:B2168 1 312
+eco:B2100 1 321
+syn:SLR0537 1 333
+
+Cluster 410
+eco:B0158 1 266
+bsu:YVRC 1 314
+mja:MJ0085 1 373
+
+Cluster 411
+mja:MJ0717 1 119
+eco:B0785 1 150
+bsu:MOAE 1 157
+syn:SLR0903 1 145
+
+Cluster 412
+mja:MJ0034 1 316
+bsu:YURX 1 437
+bsu:YURU 1 465
+eco:B1683 1 508
+syn:SLR0074 1 480
+eco:B1681 1 423
+syn:SLR0076 1 453
+
+Cluster 413
+bsu:FOLA 1 120
+syn:SLR1626 1 150
+eco:B2303 1 120
+eco:B3058 1 123
+
+Cluster 414
+eco:B4306 1 248
+syn:SLR1117 1 253
+
+Cluster 415
+bsu:YETO(2) 473 1061
+bsu:YRHJ(2) 470 1054
+bsu:YVGR 1 605
+eco:B2764 1 599
+syn:SSL3093 1 83
+syn:SLR1643 1 413
+
+Cluster 416
+bsu:YUNF 1 284
+eco:B1868 1 272
+
+Cluster 417
+bsu:YVAL 1 76
+eco:B3175 1 110
+
+Cluster 418
+syn:SLL0317 1 132
+syn:SLL1999 1 172
+syn:SLR2036(2) 185 338
+syn:SLL1560(2) 185 338
+syn:SLL1255(2) 185 338
+syn:SLR1635(2) 185 338
+syn:SLR0180(2) 185 338
+syn:SLL1780(2) 185 338
+syn:SLL1474(2) 185 338
+eco:B4278(2) 244 442
+
+Cluster 419
+bsu:YHFJ 1 331
+eco:B4386 1 338
+bsu:YQHM 1 278
+syn:SLL0809 1 223
+
+Cluster 420
+bsu:YUSR 1 129
+eco:B1606 1 240
+
+Cluster 421
+mja:MJ1336 1 148
+eco:B3052(1) 1 339
+
+Cluster 422
+bsu:YDFA 1 435
+bsu:YWRK 1 442
+eco:B0818 1 372
+eco:B2639 1 172
+eco:B2640 1 66
+eco:B3502 1 436
+mja:MJ0456 1 352
+syn:SLR0753 1 449
+
+Cluster 423
+eco:B3458 1 369
+eco:B3460 1 386
+mja:MJ1266 1 417
+syn:SLR0559 1 454
+
+Cluster 424
+mja:MJ1447 1 381
+bsu:YCKG 1 210
+eco:B3581 1 220
+eco:B4196 1 216
+
+Cluster 425
+bsu:YFLS 1 478
+eco:B0612 1 487
+eco:B0770 1 477
+eco:B2292(2) 410 610
+eco:B3063 1 487
+mja:MJ0672 1 432
+syn:SLL0640(2) 411 612
+
+Cluster 426
+eco:B2301 1 214
+syn:SLL1902 1 399
+
+Cluster 427
+eco:B3929 1 161
+mja:MJ0644 1 208
+
+Cluster 428
+bsu:FLGB 1 129
+eco:B1073 1 138
+
+Cluster 429
+bsu:YDAO 1 607
+eco:B3747 1 519
+
+Cluster 430
+mja:MJ0107(2) 431 525
+syn:SLR0651 1 127
+
+Cluster 431
+syn:SLR1365 1 217
+bsu:YHFU 1 186
+bsu:YUIG 1 200
+
+Cluster 432
+syn:SSL2233 1 97
+bsu:RPST 1 88
+eco:B0023 1 87
+
+Cluster 433
+syn:SLL1392 1 203
+eco:B0464 1 215
+eco:B3264 1 220
+
+Cluster 434
+bsu:FLIJ 1 147
+eco:B1942 1 147
+
+Cluster 435
+bsu:YCIB 1 194
+syn:SLL0670 1 169
+
+Cluster 436
+bsu:YABB 1 247
+mja:MJ0046 1 261
+
+Cluster 437
+mja:MJ0670 1 356
+eco:B2324 1 276
+syn:SLL0983 1 209
+
+Cluster 438
+bsu:YPUF 1 174
+syn:SLR1636 1 206
+
+Cluster 439
+bsu:YTOI 1 439
+syn:SLL1864(3) 513 899
+mja:MJ0188(2) 64 265
+mja:MJ1232(2) 231 296
+
+Cluster 440
+syn:SLL1408 1 346
+syn:SLL1205 1 326
+syn:SLR1489 1 330
+eco:B0305 1 284
+eco:B3010 1 375
+
+Cluster 441
+bsu:TOPA(2) 597 691
+eco:B1274(2) 638 865
+eco:B3283 1 169
+mja:MJ1652(2) 650 761
+
+Cluster 442
+bsu:RPLW 1 95
+syn:SLL1801 1 101
+eco:B3318 1 100
+mja:MJ0178 1 86
+
+Cluster 443
+mja:MJ1675 1 259
+bsu:TRUA 1 247
+eco:B2318 1 270
+syn:SLL1820 1 275
+
+Cluster 444
+syn:SLR0902(2) 172 347
+bsu:MOBA 1 199
+eco:B3857 1 194
+mja:MJ1663 1 204
+
+Cluster 445
+eco:B2821 1 402
+syn:SLL0915 1 524
+syn:SLR1331 1 513
+syn:SLL2009 1 435
+bsu:YMXG 1 409
+syn:SLL2008 1 430
+syn:SLL0055 1 428
+bsu:YMFH 1 415
+bsu:YWHN 1 426
+
+Cluster 446
+bsu:YRAK 1 229
+eco:B1009(1) 1 123
+
+Cluster 447
+eco:B0478(2) 407 558
+eco:B0047(2) 393 620
+eco:B3350(2) 394 601
+mja:MJ1633(1) 1 159
+
+Cluster 448
+eco:B3628 1 369
+bsu:YVEP 1 384
+mja:MJ1059 1 406
+
+Cluster 449
+mja:MJ0541 1 168
+syn:SLR0787(1) 1 195
+
+Cluster 450
+eco:B1628 1 192
+mja:MJ0099 1 131
+syn:SLR2059 1 134
+mja:MJ0514.1 1 77
+
+Cluster 451
+bsu:YRVB 1 122
+mja:MJ0111 1 396
+eco:B0408(1) 1 372
+syn:SLR0774(1) 1 208
+
+Cluster 452
+mja:MJ0194 1 137
+bsu:RPLM 1 145
+eco:B3231 1 142
+syn:SLL1821 1 151
+
+Cluster 453
+mja:MJ1645 1 243
+bsu:YKVL 1 243
+eco:B2777 1 223
+syn:SLL2011 1 208
+
+Cluster 454
+eco:B2204 1 287
+eco:B0992 1 357
+mja:MJ0749 1 246
+mja:MJ0750 1 238
+syn:SLR1529(2) 390 835
+
+Cluster 455
+eco:B1518 1 96
+bsu:YCNE 1 95
+syn:SLL1783 1 147
+
+Cluster 456
+eco:B0578 1 217
+bsu:YFKO 1 221
+syn:SLR1719 1 201
+bsu:YDFN 1 206
+bsu:YDGI 1 209
+bsu:YODC 1 202
+
+Cluster 457
+syn:SLL1192 1 140
+bsu:YHDU 1 118
+eco:B0624 1 127
+mja:MJ1523 1 124
+
+Cluster 458
+eco:B4248 1 131
+syn:SLR0318 1 203
+
+Cluster 459
+eco:B3880 1 418
+syn:SLR1975 1 391
+
+Cluster 460
+syn:SLR1897 1 433
+eco:B1310 1 430
+bsu:YESO 1 412
+bsu:YURO 1 422
+
+Cluster 461
+syn:SLR1547 1 332
+bsu:YCGR 1 294
+syn:SLL0932 1 337
+eco:B3151 1 346
+mja:MJ0584 1 365
+
+Cluster 462
+mja:MJ0030 1 183
+mja:MJ0253 1 154
+eco:B0975 1 195
+eco:B2993 1 164
+
+Cluster 463
+syn:SLR1939 1 669
+mja:MJ1682 1 284
+bsu:YKRL 1 298
+eco:B1829 1 293
+
+Cluster 464
+syn:SLL1724 1 379
+eco:B2044 1 406
+syn:SLL1723 1 413
+syn:SLL0045(1) 1 477
+bsu:YQGM 1 359
+bsu:YTCC 1 407
+bsu:YTXN 1 377
+mja:MJ1607 1 390
+syn:SLL1971 1 404
+mja:MJ1069 1 392
+mja:MJ1178 1 351
+syn:SLR1076 1 381
+bsu:YPJH 1 377
+bsu:YVEN 1 381
+
+Cluster 465
+eco:B2922 1 246
+syn:SLR0431 1 250
+
+Cluster 466
+bsu:RPMD 1 59
+eco:B3302 1 59
+
+Cluster 467
+syn:SSL0563 1 81
+mja:MJ1303(1) 197 269
+
+Cluster 468
+eco:B2147(2) 324 413
+mja:MJ0268 1 86
+mja:MJ0722 1 77
+
+Cluster 469
+mja:MJ1259 1 240
+eco:B0171 1 241
+bsu:SMBA 1 240
+syn:SLL0144 1 260
+
+Cluster 470
+syn:SLR2033 1 115
+mja:MJ0735 1 80
+mja:MJ0740 1 55
+eco:B2710(2) 395 479
+
+Cluster 471
+eco:B2141 1 132
+bsu:YSBA 1 146
+bsu:YWBH 1 128
+
+Cluster 472
+bsu:YULF 1 328
+eco:B3087 1 334
+eco:B1068 1 307
+syn:SLR0338 1 364
+
+Cluster 473
+bsu:YBXF 1 82
+mja:MJ1203 1 117
+
+Cluster 474
+bsu:YWBC 1 126
+eco:B1651 1 135
+syn:SLR0381 1 131
+
+Cluster 475
+eco:B2952 1 188
+syn:SSL0353 1 97
+bsu:YLMG 1 90
+syn:SSR2142 1 90
+
+Cluster 476
+bsu:TMK 1 212
+eco:B1098 1 213
+mja:MJ0293 1 188
+syn:SLR0379 1 236
+
+Cluster 477
+bsu:TAGD 1 129
+eco:B3052(2) 340 477
+mja:MJ1179 1 149
+
+Cluster 478
+mja:MJ0180 1 152
+eco:B3316 1 92
+bsu:RPSS 1 92
+syn:SSL3432 1 92
+
+Cluster 479
+mja:MJ1439 1 207
+bsu:YNCB 1 211
+bsu:YOKF 1 296
+
+Cluster 480
+bsu:YVYD 1 189
+syn:SLL0947 1 191
+eco:B2597 1 113
+eco:B3203 1 95
+
+Cluster 481
+syn:SLR1065 1 356
+syn:SLR2116 1 276
+bsu:GGAB 1 320
+bsu:GGAA 1 446
+eco:B3615 1 344
+bsu:YVET 1 344
+bsu:YVER 1 344
+eco:B2059 1 279
+bsu:YVEO 1 278
+bsu:TUAG 1 252
+mja:MJ1057 1 290
+
+Cluster 482
+eco:B0812 1 167
+syn:SLR1894 1 156
+bsu:DPS 1 145
+bsu:MRGA 1 153
+
+Cluster 483
+eco:B1863 1 173
+syn:SLL0896 1 167
+
+Cluster 484
+bsu:YXBC 1 330
+eco:B1128 1 376
+
+Cluster 485
+bsu:YRBF 1 89
+eco:B0407 1 110
+
+Cluster 486
+syn:SLL1916 1 200
+bsu:YQEJ 1 189
+eco:B0639 1 213
+
+Cluster 487
+syn:SLL1404 1 210
+syn:SLR0677 1 227
+syn:SLL0477 1 254
+eco:B0737 1 230
+eco:B3006 1 244
+
+Cluster 488
+bsu:YVGZ 1 101
+syn:SLL0176 1 167
+eco:B0357 1 98
+eco:B2105 1 90
+
+Cluster 489
+eco:B3365(2) 419 847
+bsu:NASD(2) 416 805
+bsu:NASB(2) 403 770
+mja:MJ0551 1 275
+mja:MJ0870(2) 336 620
+
+Cluster 490
+bsu:GERE 1 74
+syn:SLL0782 1 369
+
+Cluster 491
+bsu:YFKJ 1 156
+syn:SLR0328 1 157
+bsu:YWLE 1 150
+eco:B0982 1 152
+eco:B2061 1 147
+
+Cluster 492
+syn:SLR0600 1 326
+bsu:YCGT 1 336
+bsu:YUMC 1 332
+bsu:AHPF 1 509
+eco:B0606 1 531
+eco:B0888 1 321
+bsu:TRXB 1 316
+mja:MJ1536 1 301
+
+Cluster 493
+mja:MJ0303 1 141
+syn:SLL1282 1 164
+bsu:RIBH 1 154
+eco:B0415 1 156
+
+Cluster 494
+bsu:PYRE 1 216
+eco:B3642 1 213
+mja:MJ1109 1 176
+syn:SLR0185 1 198
+
+Cluster 495
+eco:B4293 1 173
+syn:SLL0687 1 185
+
+Cluster 496
+mja:MJ0050 1 396
+syn:SLL1641 1 467
+eco:B1493 1 466
+eco:B3517 1 466
+
+Cluster 497
+syn:SLR0833(2) 387 872
+mja:MJ1420(2) 270 522
+bsu:YOSO(1) 1 446
+mja:MJ1422(1) 1 384
+mja:MJ1124(2) 348 666
+
+Cluster 498
+eco:B0868 1 349
+syn:SLR1706 1 343
+
+Cluster 499
+bsu:YWAD 1 455
+eco:B2753 1 345
+
+Cluster 500
+bsu:FLIE 1 106
+eco:B1937 1 104
+
+Cluster 501
+mja:MJ1529 1 167
+eco:B1335 1 171
+eco:B2213(2) 188 354
+bsu:ADAB 1 179
+bsu:DAT 1 165
+
+Cluster 502
+eco:B1189 1 432
+syn:SLR0734 1 372
+bsu:YURR 1 372
+bsu:YJBR 1 369
+syn:SLR0633(1) 1 395
+
+Cluster 503
+bsu:YEAD 1 270
+syn:SLR2013 1 435
+syn:SLR1927 1 406
+
+Cluster 504
+mja:MJ0190 1 187
+syn:SLR0469 1 202
+bsu:RPSD 1 200
+eco:B3296 1 206
+
+Cluster 505
+bsu:YXEI 1 328
+syn:SLR1772 1 377
+
+Cluster 506
+bsu:YJDC 530 648
+bsu:LICR 520 641
+eco:B2383(2) 683 831
+eco:B3947(2) 564 711
+eco:B0731(1) 1 174
+
+Cluster 507
+eco:B3632 1 344
+syn:SLR0606 1 317
+
+Cluster 508
+bsu:YUIH 1 198
+eco:B1971 1 334
+
+Cluster 509
+bsu:YXAM 1 399
+syn:SLR0642 1 494
+
+Cluster 510
+eco:B4348 1 464
+mja:MJECL41 1 432
+mja:MJ0130 1 343
+mja:MJ1218 1 425
+mja:MJ1531 1 425
+
+Cluster 511
+syn:SLR1694 1 150
+eco:B1163(1) 1 172
+
+Cluster 512
+mja:MJ0176 1 335
+syn:SLL1799 1 213
+bsu:RPLC 1 209
+eco:B3320 1 209
+
+Cluster 513
+bsu:SFP 1 165
+eco:B3475 1 195
+syn:SLR0495 1 246
+
+Cluster 514
+bsu:RPMJ 1 37
+eco:B3299 1 38
+syn:SML0006 1 38
+
+Cluster 515
+syn:SLR1793 1 391
+eco:B0008 1 317
+eco:B2464 1 316
+eco:B0825 1 244
+eco:B3946 1 220
+bsu:YWJH 1 186
+mja:MJ0960 1 217
+
+Cluster 516
+eco:B4046 1 191
+syn:SLL1937 1 138
+
+Cluster 517
+bsu:YYBS 1 309
+syn:SLL1372 1 275
+
+Cluster 518
+bsu:YDCL 1 368
+eco:B1345 1 411
+eco:B1579 1 398
+
+Cluster 519
+mja:MJ1546 1 345
+syn:SLR1511 1 287
+eco:B1091 1 317
+bsu:YHFB 1 325
+bsu:YJAX 1 312
+
+Cluster 520
+eco:B4346 1 465
+bsu:YDIS 1 343
+syn:SLL0709 1 462
+
+Cluster 521
+bsu:YKAB 1 328
+eco:B2987 1 499
+eco:B3493 1 499
+bsu:YLNA 1 354
+mja:MJ0630 1 297
+
+Cluster 522
+bsu:YJBQ(2) 419 614
+eco:B3290 1 458
+mja:MJ1105 1 218
+syn:SLR0773 1 226
+
+Cluster 523
+syn:SLR1923 1 398
+mja:MJ0005 1 274
+mja:MJ1349 1 360
+mja:MJ0870(1) 1 335
+mja:MJ0032 1 287
+mja:MJ0725 1 261
+
+Cluster 524
+syn:SLR1116 1 173
+bsu:DINB 1 172
+bsu:YIST 1 171
+
+Cluster 525
+mja:MJ1047 1 191
+eco:B3341 1 179
+bsu:RPSG 1 156
+syn:SLL1097 1 156
+
+Cluster 526
+eco:B3397 1 186
+syn:SLR2078 1 194
+bsu:YQKG 1 185
+syn:SLL1054 1 187
+
+Cluster 527
+eco:B0177 1 810
+syn:SLR1227 1 861
+
+Cluster 528
+eco:B1930 1 77
+mja:MJ0990 1 75
+
+Cluster 529
+bsu:YHBI 1 154
+eco:B1530 1 125
+
+Cluster 530
+bsu:PKSR 2129 2543
+eco:B0586(2) 1061 1293
+
+Cluster 531
+eco:B1235 1 337
+syn:SLR0322(3) 928 1095
+
+Cluster 532
+syn:SLL1063 1 219
+bsu:YDIC 1 229
+eco:B1807 1 231
+
+Cluster 533
+mja:MJ0140 1 206
+bsu:YLNF 1 162
+eco:B3368(1) 1 211
+
+Cluster 534
+mja:MJ0320 1 219
+bsu:YSXC 1 195
+eco:B3865 1 199
+
+Cluster 535
+bsu:YTKL 1 100
+mja:MJ1163 1 217
+
+Cluster 536
+syn:SLR1277 569 785
+eco:B3325 1 654
+eco:B3391 1 412
+
+Cluster 537
+syn:SLR1856 1 109
+bsu:RSBV 1 109
+bsu:SPOIIAA 1 117
+
+Cluster 538
+eco:B0376 1 385
+eco:B4150 1 377
+syn:SLL1167 1 414
+syn:SLR1924 1 400
+bsu:PBPX 1 391
+bsu:PBPE 1 451
+
+Cluster 539
+mja:MJ1648 1 230
+bsu:PURL 1 227
+syn:SLR0520 1 224
+eco:B2557(2) 994 1295
+
+Cluster 540
+eco:B2666 1 52
+syn:SSR1169 1 79
+
+Cluster 541
+bsu:NADE 1 272
+eco:B1740 1 275
+mja:MJ1352 1 259
+syn:SLR1691 1 558
+
+Cluster 542
+mja:MJ0006 1 378
+bsu:YOAE 1 677
+bsu:YYAE 1 667
+eco:B0894 1 785
+eco:B1587 1 808
+eco:B1588 1 808
+eco:B0997 1 848
+eco:B1872 1 815
+eco:B3551 1 739
+eco:B1501 1 759
+eco:B1474 1 1015
+eco:B3894 1 1016
+eco:B2206 1 828
+eco:B4079 1 715
+bsu:YJGC(2) 258 985
+bsu:YRHE(2) 261 980
+bsu:NASC 1 710
+syn:SLL1454 1 714
+
+Cluster 543
+mja:MJ0511 1 222
+bsu:THYA 1 279
+bsu:THYB 1 264
+eco:B2827 1 264
+
+Cluster 544
+bsu:AHRC 1 149
+eco:B3237 1 156
+
+Cluster 545
+bsu:YPUH 1 197
+syn:SLR1577 1 162
+
+Cluster 546
+mja:MJ1413 1 103
+eco:B0866 1 107
+syn:SLL1118 1 108
+
+Cluster 547
+syn:SLR1213(1) 1 107
+bsu:YESN(1) 1 125
+bsu:SPO0F 1 124
+eco:B2554(1) 1 92
+eco:B3868(1) 1 96
+eco:B2220(1) 1 95
+eco:B4004(1) 1 92
+
+Cluster 548
+bsu:YOMI(3) 1542 1680
+syn:SLR0993(2) 408 715
+eco:B2742 1 379
+eco:B2865 1 259
+eco:B1856 1 419
+syn:SLR1708 1 411
+syn:SLR0878 1 245
+
+Cluster 549
+bsu:YJBN 1 266
+bsu:YTDI 1 267
+syn:SLL1415 1 307
+eco:B2615 1 292
+mja:MJ0917(2) 352 574
+syn:SLR0400 1 305
+
+Cluster 550
+mja:MJ0463 1 103
+eco:B1282 1 109
+syn:SLL0546 1 111
+
+Cluster 551
+eco:B3056 1 412
+bsu:PAPS 1 397
+eco:B0143 1 454
+syn:SLL0825 1 416
+syn:SLL1253(2) 454 942
+
+Cluster 552
+eco:B2898 1 326
+syn:SLR0635 1 312
+
+Cluster 553
+mja:MJ0266 1 298
+eco:B1378(3) 803 1174
+syn:SLL0741(3) 810 1199
+
+Cluster 554
+eco:B0988 1 167
+eco:B0264 1 167
+eco:B0274 1 167
+eco:B3445 1 167
+eco:B0021 1 167
+eco:B1893 1 167
+syn:SLL0986 1 128
+syn:SLL1157 1 138
+syn:SLR1903 1 138
+syn:SLR2096 1 138
+
+Cluster 555
+syn:SLL1969 1 202
+bsu:LIPA 1 212
+bsu:LIPB 1 210
+
+Cluster 556
+bsu:YACB 1 233
+syn:SLR0812 1 257
+
+Cluster 557
+bsu:YUND 1 462
+syn:SLR0306 1 506
+
+Cluster 558
+syn:SLR0162 1 165
+eco:B0106(1) 1 102
+eco:B3327(1) 1 107
+
+Cluster 559
+syn:SLL0744 1 343
+eco:B2147(1) 1 323
+bsu:PYRD 1 311
+mja:MJ0654 1 306
+
+Cluster 560
+bsu:YTIA 1 82
+eco:B0296 1 87
+
+Cluster 561
+bsu:YQAK 1 284
+eco:B1349 1 269
+
+Cluster 562
+syn:SLL1581 1 504
+eco:B0983 1 379
+eco:B2062 1 379
+
+Cluster 563
+eco:B0525 1 164
+eco:B3363 1 190
+bsu:PPIB 1 143
+syn:SLR1251 1 171
+
+Cluster 564
+syn:SLL1900 1 209
+eco:B0342 1 203
+bsu:YYAI 1 184
+eco:B0459 1 183
+eco:B2033 1 196
+mja:MJ1064 1 214
+
+Cluster 565
+syn:SLR1189 1 351
+bsu:YBGG 1 315
+eco:B0261 1 310
+
+Cluster 566
+eco:B2895 1 173
+eco:B0684 1 176
+syn:SLL0248 1 170
+bsu:YKUN 1 158
+bsu:YKUP 1 178
+
+Cluster 567
+eco:B1488 1 193
+syn:SLR1679 1 247
+
+Cluster 568
+bsu:YYBA 1 150
+eco:B1642 1 146
+
+Cluster 569
+eco:B1649 1 199
+bsu:LMRA 1 188
+bsu:YXAF 1 191
+
+Cluster 570
+eco:B3569 1 392
+syn:SLR1213(2) 108 241
+bsu:YFIF 1 314
+eco:B3905 1 278
+eco:B3906 1 312
+eco:B2382 1 285
+eco:B3954 1 283
+bsu:YBBB 1 529
+bsu:YBFI 1 275
+eco:B0064 1 292
+
+Cluster 571
+mja:MJ0478 1 436
+bsu:SECY 1 431
+eco:B3300 1 443
+syn:SLL1814 1 442
+
+Cluster 572
+mja:MJ0636 1 397
+eco:B3962 1 444
+eco:B3500 1 450
+eco:B0304 1 450
+syn:SLR1849 1 518
+syn:SLR1096 1 478
+bsu:PDHD 1 470
+eco:B0116 1 474
+bsu:ACOL 1 458
+bsu:YQIV 1 457
+
+Cluster 573
+eco:B2684 1 176
+bsu:YETL 1 167
+bsu:YKOM 1 154
+bsu:YKVE 1 145
+
+Cluster 574
+syn:SSR0482 1 82
+bsu:RPSP 1 90
+eco:B2609 1 82
+
+Cluster 575
+syn:SSL2749 1 96
+mja:MJ0435 1 93
+mja:MJ1215 1 86
+mja:MJ1379 1 100
+mja:MJ0128 1 98
+mja:MJ0126 1 98
+mja:MJ1217 1 98
+
+Cluster 576
+syn:SSL0601 1 60
+bsu:RPSU 1 57
+eco:B3065 1 71
+
+Cluster 577
+bsu:MOTB 1 261
+bsu:YTXE 1 242
+eco:B0230 1 261
+eco:B1889 1 308
+
+Cluster 578
+syn:SLL0195 1 214
+bsu:LONA(1) 1 353
+eco:B0439(1) 1 355
+
+Cluster 579
+mja:MJ0466 1 132
+syn:SLL1806 1 122
+bsu:RPLN 1 122
+eco:B3310 1 123
+
+Cluster 580
+eco:B0662 1 391
+eco:B2906 1 400
+eco:B2907 1 392
+syn:SLR1300 1 414
+bsu:YHJG 1 499
+eco:B0347 1 554
+
+Cluster 581
+bsu:YFID 1 134
+eco:B2543 1 164
+eco:B3101 1 160
+
+Cluster 582
+syn:SSL3445 1 81
+bsu:RPME 1 66
+eco:B3936 1 70
+
+Cluster 583
+bsu:YOJN 1 304
+eco:B2119 1 384
+
+Cluster 584
+bsu:YTZA 1 127
+eco:B4140 1 125
+
+Cluster 585
+mja:MJ0652 1 134
+bsu:YQEI 1 96
+eco:B3180 1 97
+
+Cluster 586
+eco:B0441 1 623
+bsu:YACD 1 297
+bsu:PRSA 1 292
+
+Cluster 587
+syn:SLR1847 1 114
+bsu:YAAK 1 107
+eco:B0471 1 109
+
+Cluster 588
+eco:B3129 1 111
+syn:SLR0724 1 110
+
+Cluster 589
+bsu:YSHE 1 134
+eco:B4184 1 132
+
+Cluster 590
+bsu:YKGA 1 263
+syn:SLL1336(1) 1 285
+
+Cluster 591
+syn:SLR0364(3) 1933 2238
+eco:B1978(3) 1597 1901
+
+Cluster 592
+eco:B3262 1 296
+mja:MJ1209 1 194
+mja:MJ1498 1 292
+
+Cluster 593
+mja:MJ0470 1 130
+eco:B3306 1 130
+bsu:RPSH 1 132
+syn:SLL1809 1 133
+
+Cluster 594
+eco:B3190 1 89
+syn:SSR3122 1 85
+
+Cluster 595
+eco:B2525 1 111
+syn:SLR0148 1 186
+
+Cluster 596
+bsu:YDIL 1 244
+syn:SLR0959 1 529
+
+Cluster 597
+mja:MJ0406 1 302
+eco:B3883 1 300
+bsu:RBSK 1 293
+eco:B3752 1 309
+
+Cluster 598
+bsu:YFHC 1 194
+eco:B1765 1 183
+
+Cluster 599
+syn:SLL1080 1 352
+syn:SLL0473 1 350
+eco:B0365 1 339
+bsu:YGBA 1 332
+eco:B0936 1 333
+
+Cluster 600
+mja:MJ0471 1 182
+eco:B3305 1 177
+bsu:RPLF 1 179
+syn:SLL1810 1 179
+
+Cluster 601
+mja:MJ0189 1 150
+syn:SLL1816 1 127
+bsu:RPSM 1 121
+eco:B3298 1 118
+
+Cluster 602
+mja:MJ1271 1 170
+mja:MJ1277 1 168
+syn:SLL1444 1 200
+bsu:LEUD 1 199
+eco:B0071 1 201
+
+Cluster 603
+mja:MJ0322 1 106
+eco:B3321 1 103
+bsu:RPSJ 1 102
+syn:SLL1101 1 105
+
+Cluster 604
+bsu:YURV 1 147
+eco:B2529 1 128
+
+Cluster 605
+syn:SLR0701 1 137
+eco:B0487 1 135
+eco:B3292 1 141
+bsu:YRAB 1 140
+bsu:YYAN 1 138
+
+Cluster 606
+bsu:YABR 1 128
+bsu:PNPA(2) 615 705
+bsu:YUGI 1 130
+eco:B3164(2) 637 734
+mja:MJ0117 1 266
+syn:SLL1043(2) 623 718
+
+Cluster 607
+mja:MJ0214 1 124
+syn:SLR1675 1 113
+eco:B2726 1 116
+eco:B2991 1 113
+
+Cluster 608
+mja:MJ1317 1 398
+bsu:YFNC 1 409
+eco:B0479 1 406
+
+Cluster 609
+bsu:CSAA 1 110
+eco:B2114(2) 515 677
+mja:MJ1263(2) 494 651
+
+Cluster 610
+eco:B0688 1 546
+syn:SLL0726 1 567
+bsu:YHXB 1 565
+syn:SLR1334 1 490
+
+Cluster 611
+eco:B1057 1 188
+syn:SLR1449 1 199
+
+Cluster 612
+eco:B0869 1 486
+syn:SLR0399 1 326
+
+Cluster 613
+bsu:YFIR 1 205
+eco:B1618 1 196
+
+Cluster 614
+bsu:MREC 1 290
+eco:B3250 1 367
+
+Cluster 615
+bsu:YWDK 1 113
+eco:B2807 1 131
+
+Cluster 616
+bsu:YGAF 1 80
+syn:SLL0221 1 184
+eco:B2480 1 156
+syn:SLR0242 1 160
+
+Cluster 617
+syn:SLR1330 1 165
+bsu:ATPC 1 132
+eco:B3731 1 139
+
+Cluster 618
+mja:MJ0510 1 232
+syn:SLL1744 1 238
+bsu:RPLA 1 232
+eco:B3984 1 234
+
+Cluster 619
+eco:B2674 1 136
+bsu:YMAA 1 130
+bsu:YOSM 1 129
+
+Cluster 620
+bsu:YLBQ 1 298
+eco:B0425 1 303
+
+Cluster 621
+bsu:YQXD 1 196
+eco:B0387 1 192
+
+Cluster 622
+bsu:SPOIIIAA 1 307
+syn:SLR0692 1 589
+
+Cluster 623
+eco:B0637 1 69
+bsu:YQEL 1 118
+syn:SLR1886 1 154
+
+Cluster 624
+syn:SLL0067 1 184
+eco:B0838 1 210
+eco:B2302 1 215
+eco:B2989 1 304
+
+Cluster 625
+eco:B2745 1 349
+mja:MJ0588 1 430
+mja:MJ1364 1 487
+
+Cluster 626
+bsu:YAZC 1 143
+syn:SLR0954 1 143
+
+Cluster 627
+eco:B2472 1 375
+mja:MJ0457 1 410
+eco:B3957 1 383
+eco:B2872 1 403
+bsu:YLMB 1 426
+bsu:ARGE 1 436
+
+Cluster 628
+bsu:METC 1 762
+eco:B3829 1 753
+mja:MJ1473 1 311
+
+Cluster 629
+bsu:YQEN 1 347
+syn:SLL0544 1 333
+
+Cluster 630
+bsu:YPBD 1 189
+syn:SLR1288 1 194
+
+Cluster 631
+mja:MJ0552 1 249
+syn:SLR0252 1 261
+
+Cluster 632
+bsu:YJBJ 1 181
+bsu:YOMI(2) 1390 1541
+eco:B4392 478 654
+syn:SLR0534(2) 678 847
+
+Cluster 633
+bsu:YQKD 1 305
+eco:B2534 1 293
+
+Cluster 634
+mja:MJ1625 1 671
+bsu:YLOA 1 572
+syn:SLR0880 1 590
+
+Cluster 635
+syn:SLL1349 1 221
+bsu:YVOE 1 216
+eco:B3385 1 252
+
+Cluster 636
+bsu:YNGK 1 510
+eco:B1491 1 439
+syn:SLL0736 1 312
+syn:SLR0592 1 309
+
+Cluster 637
+eco:B0920 1 259
+syn:SLL1606 1 262
+
+Cluster 638
+eco:B1804 1 375
+syn:SLL0320 1 217
+
+Cluster 639
+bsu:YVSG 1 160
+eco:B1728 1 200
+
+Cluster 640
+mja:MJ1134 1 226
+syn:SLR1530 1 280
+
+Cluster 641
+bsu:NARJ 1 184
+eco:B1226 1 236
+eco:B1466 1 231
+
+Cluster 642
+eco:B3419 1 201
+mja:MJ0025(2) 131 338
+
+Cluster 643
+syn:SLR0925 1 121
+eco:B4059 1 178
+bsu:YWPH 1 113
+bsu:SSB 1 172
+
+Cluster 644
+bsu:YDCB 1 121
+eco:B2563 1 126
+
+Cluster 645
+mja:MJ0066 226 480
+mja:MJ0973 165 411
+bsu:YITB 1 196
+bsu:CYSH 1 233
+eco:B2762 1 244
+syn:SLR1791 1 249
+
+Cluster 646
+bsu:YDET 1 111
+syn:SLL1957 1 104
+bsu:YQCJ 1 105
+eco:B3501 1 117
+mja:MJ1325 1 89
+
+Cluster 647
+eco:B1152 1 263
+bsu:XKDT 1 348
+bsu:YQBT 1 348
+
+Cluster 648
+syn:SLL0271 1 275
+bsu:YQHZ 1 131
+eco:B0416 1 139
+
+Cluster 649
+bsu:PNP 1 271
+eco:B2407 1 277
+mja:MJ0060 1 252
+syn:SLL0135 1 326
+
+Cluster 650
+eco:B4394 1 173
+mja:MJ0261 1 220
+
+Cluster 651
+bsu:YMAH 1 73
+eco:B4172 1 102
+
+Cluster 652
+bsu:AROI 1 186
+eco:B0388 1 174
+eco:B3390 1 240
+syn:SLL1669 1 189
+
+Cluster 653
+syn:SLR0348 1 406
+bsu:YQFP 1 314
+eco:B0029 1 316
+
+Cluster 654
+mja:MJ1563 1 152
+bsu:YUAC 1 180
+bsu:YVAV 1 180
+bsu:YVBF 1 185
+
+Cluster 655
+eco:B3353 1 340
+syn:SLR0264 1 369
+
+Cluster 656
+eco:B2717 1 156
+mja:MJ0631 1 169
+
+Cluster 657
+bsu:YOKL 1 177
+eco:B1584 1 186
+
+Cluster 658
+mja:MJ1326 1 391
+syn:SLR1090 1 368
+bsu:OBG 1 428
+eco:B3183 1 390
+
+Cluster 659
+mja:MJ1329 1 294
+bsu:YFLG 1 249
+eco:B0168 1 264
+syn:SLR0918 1 253
+syn:SLR0786 1 274
+bsu:MAP 1 248
+syn:SLL0555 1 305
+
+Cluster 660
+eco:B1738 1 106
+bsu:YDHM 1 103
+bsu:LICB 1 102
+
+Cluster 661
+eco:B3735 1 177
+bsu:ATPH 1 181
+syn:SLL1325 1 185
+
+Cluster 662
+syn:SLL1655 1 274
+mja:MJ1619 1 237
+bsu:BIRA 1 325
+eco:B3973 1 321
+
+Cluster 663
+eco:B2415 1 85
+bsu:PTSH 1 88
+bsu:CRH 1 85
+
+Cluster 664
+mja:MJ1113 1 301
+syn:SLL0657 1 365
+bsu:MRAY 1 324
+eco:B0087 1 360
+eco:B3784 1 367
+bsu:TAGO 1 358
+syn:SLL0648 1 358
+
+Cluster 665
+eco:B4096 1 226
+syn:SLL1623 1 223
+syn:SLL0385 1 284
+bsu:YKOD(1) 1 281
+mja:MJ1572 1 278
+bsu:YBXA 1 281
+bsu:YBAE 1 276
+mja:MJ1088 1 279
+
+Cluster 666
+eco:B1882 1 129
+syn:SLL1296(2) 779 924
+syn:SLR0322(2) 775 927
+syn:SLL0043(2) 1253 1402
+
+Cluster 667
+mja:MJ1144 1 323
+syn:SLR0969(1) 1 381
+
+Cluster 668
+syn:SLL0383 1 214
+mja:MJ1091 1 233
+mja:MJ1569 1 222
+
+Cluster 669
+syn:SLR0383 1 186
+bsu:YLBH 1 164
+eco:B3465 1 198
+
+Cluster 670
+bsu:YBXB 1 201
+mja:MJ0882 1 197
+eco:B3084 1 388
+eco:B4371 1 343
+
+Cluster 671
+mja:MJ1454 1 220
+bsu:AROC 1 255
+eco:B1693 1 252
+
+Cluster 672
+bsu:YACP 1 170
+syn:SLL0297 1 195
+
+Cluster 673
+bsu:YERL 1 96
+syn:SLR0033 1 104
+
+Cluster 674
+syn:SLL1182 1 133
+bsu:YHFW(2) 411 509
+
+Cluster 675
+syn:SLR0742 1 176
+bsu:YLXS 1 156
+eco:B3170 1 152
+
+Cluster 676
+bsu:SPOIVFB 1 288
+mja:MJ0392 1 339
+syn:SLL0528 1 379
+
+Cluster 677
+eco:B0476 1 319
+syn:SLL0644 1 331
+
+Cluster 678
+bsu:YRVM 1 161
+eco:B2812 1 268
+
+Cluster 679
+bsu:CSRA 1 74
+eco:B2696 1 61
+
+Cluster 680
+eco:B0659 1 155
+bsu:YQFG 1 157
+syn:SLR0053 1 179
+
+Cluster 681
+mja:MJ0264 1 153
+eco:B2481 1 218
+eco:B2724 1 203
+eco:B2886 1 163
+eco:B2468(1) 1 185
+eco:B2887(1) 1 185
+eco:B2713 1 175
+eco:B3573 1 157
+mja:MJ0155 1 151
+mja:MJ0265 1 166
+eco:B1674 1 208
+bsu:NARH 1 487
+eco:B1225 1 512
+eco:B1467 1 514
+eco:B1671 1 239
+eco:B4072 1 223
+eco:B0895 1 205
+eco:B1589 1 205
+eco:B2996 1 328
+eco:B1475 1 294
+eco:B3893 1 300
+
+Cluster 682
+bsu:YAZA 1 99
+eco:B3155 1 100
+
+Cluster 683
+syn:SSL2153 1 98
+bsu:YWLF 1 149
+eco:B4090 1 149
+
+Cluster 684
+bsu:MTA 1 257
+syn:SLL0794 1 370
+
+Cluster 685
+eco:B1131 1 456
+mja:MJ0929 1 462
+bsu:PURB 1 431
+syn:SLL0421 1 431
+
+Cluster 686
+eco:B4280 1 377
+bsu:IOLG 1 344
+bsu:YISS 1 342
+bsu:YRBE 1 341
+
+Cluster 687
+eco:B2608 1 185
+bsu:YLQE 1 174
+syn:SLR0808 1 185
+
+Cluster 688
+mja:MJ0191 1 129
+eco:B3297 1 129
+bsu:RPSK 1 131
+syn:SLL1817 1 130
+
+Cluster 689
+mja:MJ0719(2) 86 600
+bsu:EXPZ 1 547
+eco:B4391 1 555
+eco:B0949 1 635
+bsu:YFMR 1 629
+syn:SLL0912 1 636
+bsu:YKPA 1 540
+eco:B0820 1 530
+eco:B3352 1 637
+bsu:YFMM 1 518
+bsu:YDIF 1 642
+syn:SLR0864 1 574
+
+Cluster 690
+bsu:QOXD 1 124
+eco:B0429 1 109
+
+Cluster 691
+bsu:ATPE 1 70
+syn:SSL2615 1 81
+
+Cluster 692
+bsu:PNPA(1) 1 614
+eco:B3164(1) 1 636
+syn:SLL1043(1) 1 622
+
+Cluster 693
+syn:SLR1529(1) 1 389
+bsu:LEVR 1 364
+bsu:YPLP 1 331
+eco:B3422 1 532
+eco:B1201 1 642
+eco:B1323 1 513
+eco:B1303 1 330
+eco:B0330 1 528
+bsu:ACOR 1 605
+bsu:YQIR 1 692
+bsu:ROCR 1 461
+eco:B2869 1 592
+eco:B2709 1 529
+eco:B2491 1 663
+eco:B2731 1 692
+eco:B2554(2) 93 444
+eco:B3868(2) 97 469
+eco:B2220(2) 96 461
+eco:B4004(2) 93 441
+
+Cluster 694
+bsu:YUGU 1 142
+mja:MJ1081 1 138
+eco:B4056 1 138
+syn:SLL1880 1 147
+
+Cluster 695
+eco:B4200 1 131
+bsu:RPSF 1 95
+syn:SLL1767 1 113
+
+Cluster 696
+eco:B1219 1 117
+mja:MJ0989 1 114
+
+Cluster 697
+bsu:YTPA 1 259
+eco:B1410 1 585
+
+Cluster 698
+eco:B3886 1 290
+bsu:YFKH 1 275
+syn:SLR0119 1 318
+
+Cluster 699
+eco:B1103 1 119
+syn:SLR1234 1 114
+bsu:HIT 1 145
+mja:MJ0866 1 129
+
+Cluster 700
+mja:MJ1586 1 491
+bsu:YXKO 1 276
+eco:B4167 1 515
+syn:SLL1433 1 524
+
+Cluster 701
+bsu:TDK 1 195
+eco:B1238 1 205
+
+Cluster 702
+syn:SLR0636 1 260
+eco:B1992 1 247
+mja:MJ1438 1 258
+
+Cluster 703
+eco:B2068 1 282
+syn:SLR0231 1 152
+bsu:ALKA 1 303
+bsu:YFJP 1 287
+
+Cluster 704
+eco:B1931 1 217
+bsu:YOAM 1 227
+bsu:YOBE 1 219
+bsu:YOQW 1 224
+
+Cluster 705
+eco:B0633 1 362
+syn:SLR0423 1 321
+
+Cluster 706
+bsu:YDFG 1 147
+eco:B1753 1 182
+
+Cluster 707
+bsu:YURF 1 330
+eco:B2875 1 541
+
+Cluster 708
+bsu:PROS 1 564
+eco:B0194 1 572
+mja:MJ1238 1 455
+syn:SLL1425 1 617
+
+Cluster 709
+syn:SLR1509 1 444
+bsu:YKRM 1 449
+bsu:YUBG 1 445
+mja:MJ1485 1 474
+eco:B1363 1 485
+eco:B3849 1 432
+
+Cluster 710
+mja:MJ1253 1 282
+eco:B0409 1 323
+bsu:SECF(2) 251 571
+syn:SLR0775 1 315
+
+Cluster 711
+eco:B1841 1 124
+bsu:YCNJ(1) 1 144
+
+Cluster 712
+syn:SLL1166 1 367
+syn:SLL0597 1 375
+syn:SLL0063 1 395
+syn:SLL0060 1 344
+eco:B2493 1 353
+bsu:YRRI 1 353
+bsu:YUBA 1 388
+bsu:YUEF 1 369
+eco:B1601 1 344
+eco:B3474 1 376
+syn:SLR0784 1 340
+syn:SLL0462 1 366
+bsu:YDBI 1 350
+bsu:YTVI 1 371
+mja:MJ1177 1 334
+
+Cluster 713
+bsu:FLIS 1 133
+eco:B1925 1 136
+
+Cluster 714
+bsu:YTAB 1 155
+syn:SLL1845 1 159
+
+Cluster 715
+bsu:YBDM 1 256
+syn:SLR1443 1 614
+
+Cluster 716
+mja:MJ0028 1 319
+syn:SLR1787 1 364
+bsu:YDIA 1 325
+eco:B0417 1 325
+
+Cluster 717
+syn:SLR1419 1 159
+eco:B1679 1 138
+eco:B2811 1 147
+
+Cluster 718
+syn:SLL1643 1 188
+bsu:YQGN 1 187
+eco:B2912 1 182
+
+Cluster 719
+eco:B4136 1 565
+bsu:CCDA 1 235
+syn:SLL0686 1 275
+syn:SLL0621 1 248
+
+Cluster 720
+eco:B4381 1 259
+bsu:DRA 1 211
+syn:SLL1776 1 225
+
+Cluster 721
+syn:SLR1573 1 264
+bsu:YLMD 1 278
+eco:B2593 1 243
+
+Cluster 722
+eco:B3745 1 427
+mja:MJ0077 1 382
+mja:MJ0811 1 439
+
+Cluster 723
+eco:B3268 1 305
+bsu:GLNH 1 273
+syn:SLL1104 1 296
+
+Cluster 724
+mja:MJ1593 1 83
+bsu:YEXA 1 84
+syn:SLR0519 1 100
+
+Cluster 725
+mja:MJ0205 1 354
+eco:B2319 1 337
+bsu:ASD 1 346
+syn:SLR0549 1 280
+
+Cluster 726
+syn:SLR1471 1 384
+eco:B3705 1 548
+bsu:YQJG 1 275
+bsu:SPOIIIJ 1 261
+
+Cluster 727
+bsu:YLMF 1 149
+syn:SLR2073 1 186
+
+Cluster 728
+syn:SLR1764 1 179
+bsu:YCEC 1 199
+bsu:YCED 1 193
+bsu:YCEE 1 192
+
+Cluster 729
+eco:B4333 1 323
+syn:SLL0656(1) 1 478
+
+Cluster 730
+eco:B2676 1 319
+bsu:NRDF 1 329
+bsu:YOSP 1 195
+eco:B2235 1 376
+syn:SLR0591 1 355
+
+Cluster 731
+syn:SLR1136 1 332
+syn:SLL0813 1 300
+bsu:CTAC 1 356
+bsu:QOXA 1 321
+eco:B0432 1 315
+
+Cluster 732
+syn:SLR0451 1 197
+mja:MJ1124(1) 1 347
+mja:MJ1401 1 808
+
+Cluster 733
+mja:MJ0683 1 259
+syn:SLR0285 1 225
+
+Cluster 734
+eco:B0503 1 364
+mja:MJ0052 1 222
+
+Cluster 735
+eco:B3184 1 321
+bsu:YRDR 1 321
+bsu:YETK 1 330
+bsu:YYAM 1 305
+
+Cluster 736
+mja:MJ1417(2) 446 649
+bsu:LONB 1 552
+bsu:LONA(2) 354 774
+eco:B0439(2) 356 784
+
+Cluster 737
+bsu:AZLC 1 254
+eco:B2682 1 245
+
+Cluster 738
+bsu:YHFR 1 193
+eco:B0638 1 203
+eco:B4395 1 215
+syn:SLR1124 1 349
+
+Cluster 739
+bsu:YWLC 1 346
+eco:B3282 1 190
+mja:MJ0062 1 207
+eco:B1267 1 218
+syn:SLL0216 1 210
+
+Cluster 740
+bsu:YCNJ(2) 145 541
+eco:B1840 1 290
+
+Cluster 741
+bsu:YEBA 1 655
+syn:SLL1608(2) 418 770
+
+Cluster 742
+syn:SLL1314 1 369
+bsu:YDBE 1 350
+eco:B3579 1 328
+
+Cluster 743
+syn:SSR1399 1 71
+bsu:RPSR 1 81
+eco:B4202 1 75
+
+Cluster 744
+eco:B0817 1 155
+bsu:YQHN 1 142
+mja:MJ0568 1 125
+
+Cluster 745
+bsu:YFHM 1 286
+syn:SLL1305 1 295
+
+Cluster 746
+bsu:YVLD 1 119
+syn:SLR0284 1 116
+
+Cluster 747
+eco:B0981 1 726
+eco:B2060 1 732
+bsu:YVEL 1 227
+bsu:YWQD 1 237
+syn:SLL0923 1 756
+
+Cluster 748
+bsu:YFNE 1 392
+syn:SLL1664 1 312
+
+Cluster 749
+eco:B1890 1 295
+bsu:MOTA 1 270
+bsu:YTXD 1 272
+
+Cluster 750
+syn:SLL1151 1 605
+mja:MJ0678 1 320
+mja:MJ1221 1 299
+
+Cluster 751
+eco:B0693 1 732
+eco:B2965 1 731
+eco:B4117 1 756
+eco:B0186 1 713
+eco:B4131 1 715
+bsu:YAAO 1 480
+bsu:CAD 1 490
+syn:SLL1683 1 483
+
+Cluster 752
+syn:SLL1547 1 152
+bsu:YRRK 1 138
+eco:B2949 1 138
+
+Cluster 753
+bsu:FNR 1 238
+syn:SLR0449 1 238
+eco:B1334 1 250
+syn:SLL1423 1 225
+
+Cluster 754
+eco:B3074 1 110
+bsu:METS(2) 507 664
+
+Cluster 755
+eco:B2292(1) 1 409
+syn:SLL0640(1) 1 410
+
+Cluster 756
+syn:SLR1597 1 298
+bsu:SOJ 1 253
+mja:MJECL24 1 259
+
+Cluster 757
+eco:B4203 1 149
+bsu:RPLI 1 149
+syn:SLL1244 1 172
+
+Cluster 758
+eco:B3236 1 312
+mja:MJ0490 1 313
+bsu:LCTE 1 321
+bsu:CITH 1 312
+syn:SLL0891 1 324
+
+Cluster 759
+bsu:YPDP 1 229
+eco:B3471 1 221
+
+Cluster 760
+eco:B4142 1 97
+bsu:GROES 1 108
+syn:SLR2075 1 106
+
+Cluster 761
+eco:B4169 1 445
+eco:B2435 1 289
+eco:B2817 1 447
+syn:SLR0891 1 591
+bsu:CWLD 1 237
+bsu:CWLC 1 255
+bsu:YRVJ 1 518
+syn:SLR1910 1 338
+syn:SLR1744 453 649
+bsu:YQII 1 206
+bsu:LYTC 1 496
+
+Cluster 762
+eco:B2279 1 100
+syn:SLL0522 1 103
+
+Cluster 763
+bsu:YHJI 1 401
+eco:B3364 1 393
+
+Cluster 764
+bsu:YISU 1 220
+eco:B2923 1 211
+
+Cluster 765
+mja:MJ0226 1 193
+syn:SLR0402 1 194
+bsu:YSNA 1 198
+eco:B2954 1 197
+
+Cluster 766
+syn:SLR1366 1 161
+bsu:LSP 1 154
+eco:B0027 1 164
+
+Cluster 767
+eco:B3816 1 316
+bsu:YQXL 1 317
+mja:MJ1033 1 317
+bsu:YFJQ 1 319
+syn:SLL0671 1 380
+syn:SLL0507 1 387
+
+Cluster 768
+eco:B3167 1 133
+bsu:RBFA 1 117
+syn:SLL0754 1 133
+
+Cluster 769
+syn:SLL1018 1 441
+eco:B2873 1 465
+bsu:YUNH 1 446
+eco:B0512 1 453
+bsu:PYRC 1 428
+mja:MJ1490 1 423
+
+Cluster 770
+eco:B1222 1 598
+eco:B2469 1 566
+bsu:YHCY 1 379
+bsu:YVQE 1 360
+
+Cluster 771
+mja:MJ1108 1 548
+syn:SLL1553(2) 150 810
+bsu:PHET(2) 149 804
+eco:B1713(2) 147 795
+
+Cluster 772
+eco:B3357 1 210
+syn:SLL1924 1 241
+syn:SLL1371 1 232
+
+Cluster 773
+bsu:YODJ 1 273
+syn:SLL0777 1 305
+syn:SLL0034 1 258
+
+Cluster 774
+syn:SLL0514 1 554
+mja:MJ0047 1 428
+mja:MJ0162 1 421
+mja:MJ1236 1 634
+
+Cluster 775
+eco:B0349 1 309
+bsu:YUGF 1 273
+syn:SLL1129 1 296
+
+Cluster 776
+syn:SLR1627 1 206
+eco:B0328 1 223
+bsu:YRHP 1 210
+eco:B1798 1 212
+
+Cluster 777
+bsu:YORL(2) 646 840
+syn:SLR0603(2) 679 897
+bsu:DNAE(2) 639 725
+eco:B0184(2) 663 755
+bsu:POLC(3) 1144 1437
+
+Cluster 778
+mja:MJ0295 1 227
+bsu:NARQ 1 262
+eco:B3895 1 277
+
+Cluster 779
+eco:B3479 1 254
+eco:B1291 1 330
+eco:B2180(1) 1 308
+eco:B0829(1) 1 322
+syn:SLL1927(1) 1 384
+eco:B1484 1 328
+eco:B3541 1 327
+eco:B1246 1 337
+bsu:APPD 1 328
+bsu:OPPD 1 358
+bsu:DPPD 1 335
+mja:MJ1242(1) 1 294
+mja:MJ1662(1) 1 298
+eco:B0794(1) 1 312
+eco:B3486(1) 1 262
+
+Cluster 780
+eco:B0800 1 320
+syn:SLL1634 1 349
+
+Cluster 781
+eco:B1993 1 181
+syn:SLR0216 1 185
+
+Cluster 782
+bsu:YOZA 1 107
+syn:SLL0792 1 132
+
+Cluster 783
+bsu:YFMG 1 487
+syn:SLR1303 1 410
+
+Cluster 784
+eco:B2761 1 888
+mja:MJ0376 1 728
+mja:MJ0383 1 614
+
+Cluster 785
+bsu:YVAC 1 631
+syn:SLR1298 1 755
+eco:B0960 1 720
+eco:B3358 1 696
+
+Cluster 786
+eco:B3972 1 342
+bsu:MURB 1 303
+syn:SLR1424 1 317
+
+Cluster 787
+bsu:YHCW 1 220
+eco:B1727 1 222
+
+Cluster 788
+eco:B3204 1 163
+bsu:FRUA(1) 1 158
+
+Cluster 789
+bsu:YKRU 1 259
+eco:B0219 1 256
+eco:B0626 1 187
+syn:SLL0601 1 272
+
+Cluster 790
+eco:B0778 1 225
+eco:B1593 1 235
+syn:SLR0523 1 237
+bsu:BIOD 1 231
+mja:MJ1299 1 248
+
+Cluster 791
+bsu:YUTM 1 120
+eco:B0156 1 114
+syn:SLR1565 1 113
+syn:SLR1417 1 118
+eco:B1684 1 122
+eco:B2528 1 107
+
+Cluster 792
+eco:B2456 1 95
+syn:SLL1030 1 100
+
+Cluster 793
+eco:B1736 1 116
+bsu:YDHN 1 110
+bsu:LICA 1 110
+
+Cluster 794
+eco:B4262 1 361
+syn:SLR0882 1 394
+syn:SLL0496 1 394
+
+Cluster 795
+bsu:YDAF 1 183
+eco:B1427 1 179
+
+Cluster 796
+bsu:YESF 1 286
+eco:B4211 1 286
+syn:SLR0317 1 287
+
+Cluster 797
+mja:MJ1522 1 211
+syn:SLL0099(1) 1 237
+
+Cluster 798
+eco:B1315 1 351
+bsu:YHJJ 1 350
+syn:SLL0816 1 371
+
+Cluster 799
+eco:B3020 1 535
+eco:B1243 1 543
+eco:B1329 1 544
+bsu:OPPA 1 545
+bsu:DPPE 1 549
+bsu:APPA 1 543
+eco:B3476 1 524
+eco:B0830 1 512
+eco:B1487 1 516
+eco:B1294 1 547
+eco:B3544 1 535
+syn:SLL1699 1 631
+syn:SLR1740 1 582
+
+Cluster 800
+mja:MJ0236 1 421
+eco:B2103 1 266
+bsu:YJBV 1 271
+bsu:THID 1 271
+
+Cluster 801
+eco:B2201 1 205
+syn:SLR0354 1 210
+bsu:YKOD(2) 282 490
+
+Cluster 802
+syn:SLR1503 1 330
+syn:SLR0545 1 314
+eco:B2834 1 346
+eco:B3001 1 346
+bsu:YQKF 1 306
+eco:B1771 1 326
+bsu:YHDN 1 331
+bsu:YCCK 1 310
+bsu:IOLS 1 310
+bsu:YRPG 1 316
+eco:B0419 1 348
+
+Cluster 803
+eco:B2832 1 237
+eco:B1816 1 518
+eco:B2063 1 549
+bsu:YKOY 1 324
+bsu:YCEF 1 257
+syn:SLL1022 1 242
+
+Cluster 804
+syn:SLL1411 1 145
+mja:MJ1380 1 78
+mja:MJ0434 1 222
+mja:MJ0127 1 121
+mja:MJ0125 1 116
+mja:MJ1216 1 121
+
+Cluster 805
+bsu:YDJE 1 320
+syn:SLR1448 1 307
+eco:B1772 1 322
+bsu:KDGK 1 324
+bsu:IOLC 1 325
+
+Cluster 806
+eco:B1429 1 330
+mja:MJ0576 1 347
+mja:MJ0762 1 342
+
+Cluster 807
+bsu:GSPA 1 286
+eco:B3626 1 338
+eco:B3627 1 339
+
+Cluster 808
+bsu:YUNM 1 121
+eco:B1970 1 137
+
+Cluster 809
+bsu:YOLJ 1 422
+syn:SLR0626(1) 1 233
+
+Cluster 810
+bsu:POLC(1) 420 611
+eco:B0215 1 243
+
+Cluster 811
+eco:B4352 1 284
+syn:SLR0502 1 352
+bsu:YCIC 1 397
+syn:SLR0609 1 383
+
+Cluster 812
+eco:B0913 1 780
+bsu:COMEC 1 776
+syn:SLL1929 1 709
+
+Cluster 813
+syn:SLL0036(2) 124 433
+eco:B2086 1 299
+bsu:YERQ 1 303
+bsu:BMRU 1 297
+
+Cluster 814
+bsu:YWRC 1 158
+mja:MJ0723 1 156
+eco:B3743 1 152
+mja:MJ0151 1 148
+
+Cluster 815
+eco:B1448 1 172
+bsu:YWNH 1 163
+syn:SLL1647 1 172
+
+Cluster 816
+eco:B3993 1 211
+bsu:THIC 1 222
+syn:SLL0635 1 343
+
+Cluster 817
+eco:B0973(1) 1 137
+eco:B2994(1) 1 120
+mja:MJ1192 1 418
+syn:SLL1226 1 474
+
+Cluster 818
+eco:B1330 1 343
+bsu:YHDY 1 371
+mja:MJ0170 1 350
+mja:MJ1143 1 361
+eco:B2924 1 286
+syn:SLR0639 1 296
+eco:B0465(2) 812 1120
+eco:B4159(2) 797 1107
+syn:SLR0510 1 325
+syn:SLR1575 1 306
+
+Cluster 819
+bsu:YDEC 1 291
+eco:B4118 1 302
+
+Cluster 820
+bsu:YTSP 1 78
+eco:B1832 1 183
+
+Cluster 821
+syn:SLL1626 1 203
+bsu:LEXA 1 205
+eco:B4043 1 202
+
+Cluster 822
+bsu:CSPC 1 66
+bsu:CSPB 1 67
+bsu:CSPD 1 66
+eco:B0880 1 74
+eco:B0623 1 69
+eco:B1823 1 69
+eco:B0990 1 70
+eco:B1552 1 70
+eco:B1557 1 71
+eco:B3556 1 70
+
+Cluster 823
+eco:B2050 1 407
+syn:SLR1085 1 424
+
+Cluster 824
+mja:MJ0148 1 336
+eco:B3166 1 314
+bsu:TRUB 1 309
+syn:SLR0457 1 296
+
+Cluster 825
+eco:B1014(1) 1 601
+syn:SLL1561(1) 1 465
+bsu:YCGM 1 303
+bsu:YUSM 1 302
+
+Cluster 826
+bsu:YHZA 1 89
+eco:B3307 1 101
+syn:SLR0628 1 100
+
+Cluster 827
+syn:SLR1019 1 314
+bsu:YFHB 1 293
+eco:B1464 1 297
+
+Cluster 828
+syn:SLL0337 1 430
+eco:B2556 1 496
+eco:B4399 1 474
+
+Cluster 829
+eco:B2960 1 239
+bsu:YTMQ 1 213
+syn:SLL1300 1 192
+
+Cluster 830
+mja:MJ1332 1 393
+eco:B1203 1 363
+bsu:YYAF 1 366
+syn:SLL0245 1 363
+
+Cluster 831
+eco:B2099 1 334
+mja:MJ1187 1 301
+
+Cluster 832
+bsu:ACUC 1 387
+mja:MJ0535 1 343
+syn:SLR0245 1 304
+
+Cluster 833
+eco:B3679 1 571
+syn:SLL1087 1 512
+bsu:YHJB 1 489
+bsu:YODF 1 496
+bsu:YWCA 1 516
+eco:B4067 1 549
+eco:B3258 1 485
+eco:B1015 1 502
+bsu:YCGO 1 449
+bsu:OPUE 1 492
+
+Cluster 834
+bsu:YDFR 1 225
+eco:B0906 1 230
+
+Cluster 835
+mja:MJ1270 1 345
+eco:B3456 1 425
+syn:SLR1201 1 410
+
+Cluster 836
+syn:SLL1712 1 135
+bsu:YONN 1 92
+bsu:HBS 1 92
+eco:B0440 1 90
+eco:B4000 1 90
+
+Cluster 837
+syn:SLR1722 1 387
+bsu:YUMD 1 326
+eco:B0104 1 347
+mja:MJ1616(2) 181 496
+bsu:GUAB(2) 176 488
+eco:B2508(2) 175 488
+
+Cluster 838
+bsu:YWQL 1 238
+eco:B3998 1 225
+
+Cluster 839
+syn:SLR1518 1 307
+bsu:YWAB 1 311
+eco:B3930 1 308
+
+Cluster 840
+syn:SLR1678 1 124
+bsu:RPLU 1 102
+eco:B3186 1 103
+
+Cluster 841
+bsu:YQFL 1 270
+eco:B1703 1 277
+
+Cluster 842
+bsu:YKUQ 1 236
+eco:B0166 1 274
+
+Cluster 843
+eco:B3404 1 450
+eco:B1609 1 433
+eco:B3911 1 457
+bsu:YVQB(2) 153 451
+
+Cluster 844
+eco:B1653 1 896
+mja:MJ0294 1 841
+bsu:YPRA 1 749
+mja:MJ1574 1 684
+
+Cluster 845
+bsu:COMGB 1 323
+syn:SLR0163 1 298
+eco:B0106(2) 103 400
+eco:B3327(2) 108 398
+
+Cluster 846
+syn:SLR0574 1 444
+bsu:YETO(1) 1 472
+bsu:YRHJ(1) 1 469
+
+Cluster 847
+mja:MJ0167 1 163
+bsu:MOAB 1 170
+eco:B0782 1 170
+
+Cluster 848
+syn:SLL0257 1 157
+bsu:YDIB 1 158
+eco:B4168 1 153
+
+Cluster 849
+bsu:YEEK 1 378
+eco:B1111 1 236
+
+Cluster 850
+bsu:YWBL 1 481
+eco:B1017 1 243
+syn:SLR0964 1 308
+
+Cluster 851
+mja:MJ1347 1 235
+syn:SLR0527 1 271
+bsu:YKVJ 1 219
+eco:B0444 1 231
+
+Cluster 852
+eco:B0732 1 406
+syn:SLR0323 1 636
+
+Cluster 853
+bsu:YPGQ 1 205
+eco:B1962 1 231
+
+Cluster 854
+bsu:RPOB 1 1193
+eco:B3987 1 1342
+mja:MJ1040 1 498
+mja:MJ1041 1 636
+syn:SLL1787 1 1102
+
+Cluster 855
+bsu:YRZC 1 111
+eco:B2531 1 162
+syn:SLR0846 1 157
+
+Cluster 856
+bsu:YDFM 1 297
+mja:MJ0449 1 283
+bsu:YDBO 1 290
+bsu:YEAB 1 290
+bsu:CZCD 1 311
+eco:B0752 1 313
+eco:B3915 1 300
+syn:SLL1263 1 310
+
+Cluster 857
+bsu:YKUE 1 287
+eco:B0164 1 247
+
+Cluster 858
+syn:SLR0374 1 501
+syn:SLR0480 1 499
+mja:MJ1494 1 371
+mja:MJ1156(2) 407 698
+mja:MJ1176 1 430
+
+Cluster 859
+mja:MJ0436 1 231
+syn:SLR0713 1 374
+bsu:TGT 1 381
+eco:B0406 1 375
+
+Cluster 860
+bsu:YTRP 1 579
+eco:B1341 1 430
+eco:B0385 1 371
+eco:B1490 1 460
+syn:SLR1143 160 343
+syn:SLL0779(3) 621 884
+syn:SLL1687(3) 694 970
+syn:SLR0302(3) 454 768
+syn:SLR1798(2) 344 585
+syn:SLR1657 1 275
+syn:SLR1047 1 464
+syn:SLL1673 212 452
+syn:SLR1760 1 315
+syn:SLR0687 221 481
+syn:SLL0821(2) 1002 1276
+syn:SLR0829 372 829
+
+Cluster 861
+bsu:YQCM 1 139
+syn:SLR0946 1 131
+
+Cluster 862
+bsu:LEVD 1 146
+eco:B1817(1) 1 161
+
+Cluster 863
+mja:MJ1104 1 300
+eco:B0003 1 310
+bsu:THRB 1 309
+syn:SLL1760 1 306
+
+Cluster 864
+syn:SLL0892 1 145
+bsu:PAND 1 127
+eco:B0131 1 126
+
+Cluster 865
+syn:SLR0875 1 145
+bsu:YWPC 1 130
+eco:B3291 1 136
+
+Cluster 866
+eco:B1535 1 296
+syn:SLL1170 319 527
+
+Cluster 867
+eco:B2054 1 182
+syn:SLR1084 1 146
+
+Cluster 868
+bsu:YWLD 1 185
+eco:B1821 1 206
+
+Cluster 869
+mja:MJ0469 1 190
+syn:SLL1808 1 200
+bsu:RPLE 1 179
+eco:B3308 1 179
+
+Cluster 870
+syn:SLR0700 1 452
+bsu:YECA 1 463
+eco:B4141 1 418
+
+Cluster 871
+bsu:YUXO 1 126
+eco:B0597 1 137
+eco:B1686 1 136
+
+Cluster 872
+syn:SLL0567 1 165
+bsu:YQKL 1 149
+eco:B0683 1 148
+
+Cluster 873
+bsu:YTXB 1 213
+eco:B1750 1 252
+syn:SLR0305 1 209
+
+Cluster 874
+bsu:YWQA 1 922
+syn:SLL1366 1 1039
+bsu:YQHH 1 557
+eco:B0059 1 968
+
+Cluster 875
+bsu:YYDA 1 159
+eco:B0636 1 155
+
+Cluster 876
+mja:MJ0373 1 161
+eco:B3983 1 142
+bsu:RPLK 1 141
+syn:SLL1743 1 141
+
+Cluster 877
+bsu:SDHB 1 253
+eco:B4153 1 244
+eco:B0724 1 238
+syn:SLL1625 1 331
+syn:SLL0823 1 245
+mja:MJ0092(1) 1 125
+
+Cluster 878
+bsu:YCBG 1 233
+eco:B3226 1 263
+
+Cluster 879
+bsu:FLID 1 498
+eco:B1924 1 468
+
+Cluster 880
+bsu:ETFB 1 257
+eco:B0041 1 268
+eco:B1697 1 254
+
+Cluster 881
+eco:B0875 1 231
+syn:SLR2057 1 247
+bsu:GLPF 1 274
+eco:B3927 1 281
+
+Cluster 882
+eco:B2285 1 166
+syn:SLL1220 1 173
+
+Cluster 883
+bsu:YVFV 1 238
+eco:B0306 1 239
+eco:B2978 1 761
+bsu:YSFD 1 444
+syn:SLL1831 1 460
+eco:B2243 1 396
+mja:MJ0092(2) 126 489
+
+Cluster 884
+mja:MJ1582 1 249
+eco:B4378 1 211
+syn:SLL1786 1 261
+bsu:YABD 1 255
+eco:B1100 1 265
+
+Cluster 885
+eco:B2280 1 184
+syn:SLL0521 1 198
+
+Cluster 886
+bsu:YFKN(2) 654 1462
+syn:SLL0654 577 1170
+bsu:YHCR 630 1217
+eco:B0480 1 550
+
+Cluster 887
+bsu:HISI 1 209
+eco:B2026 1 203
+mja:MJ0302 1 95
+mja:MJ1430 1 127
+syn:SLR0608 1 230
+
+Cluster 888
+eco:B3740 1 207
+bsu:GIDB 1 239
+syn:SLR0072 1 264
+
+Cluster 889
+bsu:NRGB 1 116
+syn:SSL0707 1 85
+mja:MJ0059 1 112
+mja:MJ1344 1 112
+eco:B0450 1 112
+eco:B2553 1 112
+
+Cluster 890
+bsu:YHJE 1 207
+eco:B1752 1 235
+
+Cluster 891
+mja:MJ0736 1 222
+syn:SLR1198 1 211
+bsu:AHPC 1 187
+eco:B0605 1 187
+bsu:YKUU 1 180
+syn:SLL0755 1 200
+
+Cluster 892
+eco:B2457 1 111
+syn:SLR0436 1 118
+
+Cluster 893
+bsu:YHDZ 1 247
+eco:B1120 1 279
+
+Cluster 894
+eco:B3738 1 271
+bsu:ATPB 1 244
+syn:SLL1322 1 276
+
+Cluster 895
+syn:SSL2084 1 77
+bsu:ACPA 1 77
+eco:B1094 1 78
+
+Cluster 896
+mja:MJ0718 1 402
+syn:SLR1457 1 399
+bsu:YWRB 1 197
+bsu:YWRA 1 178
+
+Cluster 897
+bsu:RESB 1 542
+syn:SLR2087 1 458
+
+Cluster 898
+mja:MJ0933 1 238
+syn:SLL0875 1 258
+
+Cluster 899
+eco:B2532 1 246
+syn:SLR0120 1 240
+eco:B4403 1 228
+mja:MJ1476 1 230
+
+Cluster 900
+eco:B1216 1 366
+bsu:YFKE 1 351
+syn:SLR1336 1 372
+
+Cluster 901
+eco:B1912 1 182
+bsu:PGSA 1 193
+syn:SLL1522 1 179
+
+Cluster 902
+bsu:YBFP 1 295
+eco:B1531 1 129
+eco:B4062 1 107
+eco:B0300 1 239
+eco:B4396 1 289
+
+Cluster 903
+eco:B2287 1 220
+syn:SLR1280 1 248
+eco:B2489 1 252
+eco:B2719 1 255
+mja:MJ0516 1 148
+mja:MJ1363 1 151
+
+Cluster 904
+syn:SLR0014 1 234
+bsu:SAPB 1 232
+eco:B3508 1 215
+
+Cluster 905
+eco:B2260 1 451
+syn:SLR0492 1 497
+
+Cluster 906
+eco:B0828 1 321
+syn:SLL0422 1 329
+
+Cluster 907
+eco:B4303 1 268
+mja:MJ1115 1 261
+syn:SLL0634 1 287
+
+Cluster 908
+syn:SLL1870 1 226
+bsu:YJKB 1 250
+eco:B0490 1 225
+
+Cluster 909
+bsu:YOCE 1 352
+syn:SLR1350 1 351
+syn:SLL1441 1 359
+
+Cluster 910
+bsu:PGI 1 451
+mja:MJ1605 1 401
+eco:B4025 1 549
+syn:SLR1349 1 531
+
+Cluster 911
+syn:SLL0057 1 249
+bsu:GRPE 1 187
+eco:B2614 1 197
+
+Cluster 912
+bsu:YUXG 1 689
+eco:B2705 1 259
+syn:SLR1208 1 657
+
+Cluster 913
+bsu:YUAG 1 509
+eco:B3051 1 553
+syn:SLL1021 1 673
+
+Cluster 914
+bsu:YWKE 1 288
+syn:SLL1237 1 299
+eco:B1212 1 277
+eco:B2330 1 421
+
+Cluster 915
+mja:MJ0930 1 210
+syn:SLR1467 1 222
+syn:SLL0916 1 217
+
+Cluster 916
+syn:SLL0876 1 211
+bsu:RUVA 1 201
+eco:B1861 1 203
+
+Cluster 917
+bsu:YDHC 1 224
+eco:B1540 1 228
+
+Cluster 918
+syn:SLR0401 1 384
+eco:B0854 1 370
+eco:B1123 1 348
+
+Cluster 919
+bsu:YVDR 1 106
+eco:B4148 1 155
+
+Cluster 920
+eco:B3547 1 402
+bsu:YBFB 1 416
+bsu:YCXA 1 409
+
+Cluster 921
+eco:B2019 1 299
+mja:MJ1204 1 288
+bsu:HISG 1 213
+syn:SLL0900 1 210
+
+Cluster 922
+eco:B2413 1 253
+syn:SLR1980 1 297
+
+Cluster 923
+eco:B3185 1 85
+bsu:RPMA 1 94
+syn:SSR2799 1 87
+
+Cluster 924
+eco:B3294 1 127
+bsu:RPLQ 1 120
+syn:SLL1819 1 116
+
+Cluster 925
+bsu:YVGT 1 202
+eco:B0157 1 207
+eco:B3646 1 223
+
+Cluster 926
+bsu:YUBE 1 282
+eco:B1081 1 313
+
+Cluster 927
+bsu:YHEB 1 377
+syn:SLL0412 1 419
+
+Cluster 928
+bsu:DEGS 132 385
+eco:B3668 1 501
+
+Cluster 929
+syn:SLR0722 1 303
+bsu:YQEU 1 256
+eco:B2946 1 252
+
+Cluster 930
+syn:SLL0764 1 373
+mja:MJ1267 1 257
+eco:B3455 1 255
+syn:SLR0467 1 267
+mja:MJ1268 1 191
+eco:B3454 1 241
+syn:SLR1881 1 240
+syn:SLL0374 1 249
+eco:B3201 1 241
+syn:SLR0251 1 252
+eco:B4228(1) 1 289
+eco:B1513(1) 1 289
+bsu:YUFO(1) 1 285
+eco:B2547(1) 1 289
+eco:B4087(1) 1 289
+eco:B1900(1) 1 285
+eco:B3567(1) 1 285
+eco:B2149(1) 1 291
+bsu:RBSA(1) 1 278
+eco:B3749(1) 1 280
+
+Cluster 931
+eco:B3481 1 133
+mja:MJ0549 1 141
+
+Cluster 932
+mja:MJ0461 1 208
+syn:SLL1804 1 240
+bsu:RPSC 1 218
+eco:B3314 1 233
+
+Cluster 933
+eco:B3421 1 408
+mja:MJ0682(2) 587 968
+
+Cluster 934
+eco:B1978(1) 388 983
+syn:SLR0364(1) 820 1316
+
+Cluster 935
+eco:B0680 1 554
+mja:MJ1377 1 553
+eco:B0144 1 308
+eco:B2400 1 471
+bsu:GLTX 1 483
+syn:SLL0179 1 483
+
+Cluster 936
+eco:B3059 1 205
+bsu:YNES 1 193
+syn:SLL1973 1 222
+
+Cluster 937
+eco:B3985 1 165
+bsu:RPLJ 1 166
+syn:SLL1745 1 173
+
+Cluster 938
+eco:B3420 1 146
+mja:MJ0025(1) 1 130
+
+Cluster 939
+bsu:FLGC 1 150
+eco:B1074 1 134
+
+Cluster 940
+eco:B2680 1 88
+bsu:YDER(1) 1 93
+
+Cluster 941
+bsu:YVQH 1 225
+eco:B1304 1 222
+syn:SLL0617 1 267
+syn:SLR1188 1 223
+
+Cluster 942
+eco:B4228(2) 290 417
+eco:B1513(2) 290 511
+bsu:YUFO(2) 286 510
+eco:B2547(2) 290 503
+eco:B4087(2) 290 510
+eco:B1900(2) 286 504
+eco:B3567(2) 286 513
+eco:B2149(2) 292 506
+bsu:RBSA(2) 279 493
+eco:B3749(2) 281 501
+mja:MJ1242(2) 295 539
+mja:MJ1662(2) 299 555
+
+Cluster 943
+mja:MJ0475 1 217
+syn:SLL1812 1 173
+bsu:RPSE 1 166
+eco:B3303 1 167
+
+Cluster 944
+eco:B3401 1 294
+bsu:YACC 1 291
+syn:SLL1988 1 302
+
+Cluster 945
+mja:MJ1464 1 373
+bsu:YLQF 1 282
+syn:SLR0267 1 279
+
+Cluster 946
+eco:B1662 1 213
+bsu:RIBB 1 215
+syn:SLL0300 1 226
+
+Cluster 947
+eco:B1275 1 324
+eco:B1987 1 316
+bsu:YOAU 1 290
+bsu:YVBU 1 292
+
+Cluster 948
+bsu:YVCN 1 254
+eco:B1463 1 281
+
+Cluster 949
+eco:B3304 1 117
+bsu:RPLR 1 120
+syn:SLL1811 1 120
+
+Cluster 950
+syn:SLR0902(1) 1 171
+mja:MJ1135 1 152
+bsu:YDIG 1 170
+eco:B0783 1 161
+
+Cluster 951
+syn:SLR0883 1 481
+syn:SLL1872 1 463
+bsu:YWTF 1 322
+bsu:YVHJ 1 391
+bsu:LYTR 1 306
+
+Cluster 952
+bsu:HEMH 1 310
+eco:B0475 1 320
+syn:SLR0839 1 318
+
+Cluster 953
+eco:B0543 1 110
+bsu:EBRB 1 117
+bsu:EBRA 1 105
+
+Cluster 954
+mja:MJ1606 1 521
+syn:SLL1393 1 491
+eco:B3429 1 477
+bsu:GLGA 1 484
+syn:SLL0945 1 477
+
+Cluster 955
+bsu:FLIQ 1 89
+eco:B1949 1 89
+
+Cluster 956
+eco:B2131 1 305
+bsu:OPUBC 1 306
+bsu:OPUCC 1 303
+
+Cluster 957
+mja:MJ1368 1 249
+syn:SLR1454 1 276
+eco:B2424 1 277
+syn:SLR1453 1 286
+eco:B0764 1 229
+bsu:YVGM 1 186
+syn:SLL0739(1) 1 217
+
+Cluster 958
+eco:B3108 1 188
+mja:MJ1025 1 388
+
+Cluster 959
+bsu:YHFK 1 214
+syn:SLL1218 1 219
+
+Cluster 960
+eco:B3449 1 247
+bsu:YQIK 1 239
+bsu:GLPQ 1 293
+bsu:YHDW 1 243
+
+Cluster 961
+syn:SLR0741 1 224
+eco:B3724 1 241
+mja:MJ1009 1 236
+
+Cluster 962
+eco:B1776 1 358
+eco:B4267 1 343
+eco:B2091 1 346
+bsu:YDJL 1 346
+eco:B4358 1 345
+bsu:YJMD 1 339
+eco:B1580 1 339
+bsu:TDH 1 347
+eco:B3616 1 341
+bsu:GUTB 1 353
+eco:B1774 1 347
+eco:B2545 1 364
+eco:B0356 1 369
+syn:SLL0990 1 369
+
+Cluster 963
+mja:MJ1133 1 421
+bsu:YCLC 1 473
+eco:B3843 1 497
+syn:SLL0936 1 501
+
+Cluster 964
+bsu:YMFC 1 241
+eco:B2101 1 248
+
+Cluster 965
+bsu:YGAG 1 145
+syn:SLR1738 1 139
+
+Cluster 966
+bsu:KDGA 1 196
+eco:B1850 1 213
+syn:SLL0107 1 206
+
+Cluster 967
+eco:B2294 1 170
+mja:MJECS11 1 195
+
+Cluster 968
+mja:MJ0559 1 276
+eco:B2744 1 253
+syn:SLL1108 1 275
+
+Cluster 969
+syn:SLR1549 1 187
+bsu:DEF 1 160
+eco:B3287 1 169
+
+Cluster 970
+bsu:MAF 1 189
+eco:B3248 1 197
+eco:B1087 1 207
+syn:SLL0905 1 195
+
+Cluster 971
+eco:B0630 1 191
+syn:SLR0994 1 227
+
+Cluster 972
+bsu:COTA 1 513
+eco:B0123 1 516
+eco:B3017 1 470
+
+Cluster 973
+eco:B0430 1 204
+bsu:CTAE 1 207
+bsu:QOXC 1 204
+syn:SLR1138 1 233
+syn:SLR2083 1 198
+
+Cluster 974
+eco:B3610 1 83
+syn:SSR2061 1 88
+syn:SLR1562 1 109
+
+Cluster 975
+syn:SSL3441 1 67
+bsu:INFA 1 72
+eco:B0884 1 72
+
+Cluster 976
+eco:B3662 1 451
+eco:B0396 1 394
+bsu:YTBD 1 396
+bsu:YFHI 1 397
+eco:B1657 1 389
+eco:B1528 1 396
+bsu:YBCL 1 390
+bsu:YDHL 1 425
+syn:SLR0616 1 418
+bsu:YVMA 1 403
+bsu:YCEJ 1 390
+bsu:YWFA 1 412
+
+Cluster 977
+syn:SLR1093 1 195
+bsu:FOLK 1 167
+eco:B0142 1 159
+
+Cluster 978
+syn:SLL0750 1 383
+eco:B0695(2) 374 894
+syn:SLL1003 1 661
+syn:SLR1324 118 420
+syn:SLL1475 1 297
+syn:SLL1124(2) 1080 1371
+syn:SLR0222(2) 884 1178
+bsu:YVRG 1 573
+syn:SLL1590 1 350
+
+Cluster 979
+eco:B2106 1 274
+mja:MJ1092 1 214
+
+Cluster 980
+bsu:YTXM 1 274
+eco:B2263 1 252
+
+Cluster 981
+mja:MJ0771 1 230
+syn:SLR1879 1 242
+
+Cluster 982
+mja:MJ0634 1 620
+bsu:YODO 1 471
+eco:B4146 1 342
+
+Cluster 983
+eco:B2573 1 191
+bsu:SIGW 1 187
+syn:SLR1545 1 223
+
+Cluster 984
+syn:SLL0355 1 330
+eco:B3943 1 312
+bsu:YOAV 1 292
+bsu:YVBV 1 305
+
+Cluster 985
+bsu:YWBF 1 399
+eco:B0343 1 417
+
+Cluster 986
+bsu:YTVA 1 128
+syn:SLR0359(1) 1 416
+
+Cluster 987
+eco:B1923 1 498
+bsu:YVZB 1 160
+bsu:HAG 1 304
+
+Cluster 988
+bsu:HUTG 1 319
+syn:SLL1077 1 390
+eco:B2937 1 306
+bsu:YWHG 1 290
+mja:MJ0309 1 284
+
+Cluster 989
+eco:B3416 1 694
+syn:SLL1676 1 505
+
+Cluster 990
+mja:MJ0305 1 395
+eco:B1592 1 438
+syn:SLL1864(1) 1 434
+eco:B0155 1 473
+syn:SLL0855 1 451
+
+Cluster 991
+bsu:YLLB 1 143
+eco:B0081 1 152
+
+Cluster 992
+mja:MJ0910 1 174
+syn:SLR1777(2) 367 676
+
+Cluster 993
+bsu:YKFA 1 234
+eco:B1192 1 304
+syn:SLR1534 1 301
+
+Cluster 994
+bsu:YUXJ 1 356
+eco:B1053 1 408
+bsu:YWOG 1 396
+syn:SLL1154 1 418
+mja:MJ1560 1 386
+bsu:BMR 1 389
+bsu:BLT 1 400
+
+Cluster 995
+eco:B4235 1 450
+syn:SLL0887 1 446
+
+Cluster 996
+eco:B2494 1 487
+syn:SLR1971 1 283
+
+Cluster 997
+mja:MJ0616 1 157
+syn:SLL0901 1 176
+bsu:PURE 1 162
+eco:B0523 1 169
+
+Cluster 998
+bsu:YUSZ 1 280
+eco:B0493 1 269
+
+Cluster 999
+bsu:YQXK 1 294
+mja:MJ0043 544 785
+
+Cluster 1000
+bsu:YQIX 1 255
+bsu:YCKB 1 287
+bsu:YXEM 1 264
+bsu:YCKK 1 268
+eco:B1920 1 266
+eco:B2309 1 260
+eco:B2310 1 260
+eco:B0860 1 243
+eco:B0863 1 243
+eco:B0811 1 248
+syn:SLL1270(1) 1 295
+
+Cluster 1001
+eco:B1412 1 201
+bsu:YOCJ 1 208
+bsu:YVAB 1 211
+
+Cluster 1002
+mja:MJ0671 1 224
+syn:SLR0066 1 368
+bsu:RIBG 1 361
+eco:B0414 1 367
+
+Cluster 1003
+eco:B4244 1 153
+mja:MJ1406 1 149
+
+Cluster 1004
+syn:SLL1789 1 519
+bsu:RPOC(2) 537 1199
+eco:B3988(2) 628 1407
+mja:MJ1042 913 1341
+
+Cluster 1005
+eco:B3289 1 429
+bsu:YLOM 1 447
+syn:SLR0679 1 446
+eco:B1835 1 481
+mja:MJ0026 1 274
+
+Cluster 1006
+bsu:FLIY 289 378
+eco:B1946 1 137
+
+Cluster 1007
+bsu:YQEK 1 186
+syn:SLR1885 1 192
+
+Cluster 1008
+eco:B2908 1 441
+syn:SLL0136 1 441
+mja:MJ0806 1 347
+bsu:YKVY 1 363
+bsu:YQHT 1 353
+eco:B2385 1 361
+
+Cluster 1009
+syn:SLL1525 1 332
+bsu:UDK 1 211
+eco:B2066 1 231
+
+Cluster 1010
+eco:B1107 1 341
+bsu:YBBD 1 642
+syn:SLL1538 1 538
+
+Cluster 1011
+syn:SLR0879 1 132
+bsu:YUSH 1 127
+eco:B2904 1 129
+
+Cluster 1012
+syn:SLR0315 1 244
+bsu:YXJF 1 257
+bsu:YXBG 1 262
+
+Cluster 1013
+eco:B0712 1 310
+bsu:YCSJ(2) 230 578
+
+Cluster 1014
+eco:B4290 1 302
+bsu:YFMC 1 315
+bsu:YHFQ 1 348
+bsu:YFIY 1 325
+syn:SLR1319 1 315
+syn:SLR1491 1 330
+syn:SLR1492 1 311
+
+Cluster 1015
+bsu:FLGL 1 298
+eco:B1083 1 317
+
+Cluster 1016
+bsu:YTWI 1 154
+eco:B1789 1 148
+
+Cluster 1017
+bsu:YTJA 1 75
+syn:SSL0331 1 79
+
+Cluster 1018
+eco:B1582 1 108
+bsu:YFJF 1 109
+syn:SLL0793 1 108
+
+Cluster 1019
+syn:SLL1040 1 765
+syn:SLL0985 1 704
+syn:SLR0765 1 617
+bsu:YKUT 1 267
+eco:B0808 493 786
+
+Cluster 1020
+bsu:NADA 1 368
+mja:MJ0407 1 307
+eco:B0750 1 347
+syn:SLL0622 1 318
+
+Cluster 1021
+bsu:YQJQ 1 259
+eco:B1539 1 248
+
+Cluster 1022
+bsu:YDFK 1 229
+eco:B2966 1 235
+
+Cluster 1023
+bsu:YUID 1 158
+syn:SLR1394 1 151
+
+Cluster 1024
+eco:B2972 1 310
+bsu:COMC 1 248
+syn:SLR1120 1 269
+
+Cluster 1025
+syn:SLR2079 1 327
+eco:B0485 1 310
+eco:B1524 1 308
+bsu:YBGJ 1 327
+bsu:YLAM 1 309
+
+Cluster 1026
+syn:SLR0992 1 153
+bsu:CSPR 1 160
+eco:B3606 1 157
+
+Cluster 1027
+bsu:YTJB 1 157
+eco:B2687 1 171
+
+Cluster 1028
+bsu:YTZF 1 157
+eco:B2183 1 231
+
+Cluster 1029
+eco:B2557(1) 1 993
+mja:MJ1264 1 733
+bsu:PURQ 1 742
+syn:SLL1056 1 777
+
+Cluster 1030
+bsu:YJDI 1 159
+eco:B0481 1 159
+
+Cluster 1031
+eco:B3959 1 258
+bsu:ARGB 1 258
+mja:MJ0069 1 300
+syn:SLR1898 1 297
+
+Cluster 1032
+syn:SLR1523 1 219
+eco:B3558 1 283
+eco:B0299 1 288
+eco:B0372 1 288
+eco:B1026 1 288
+eco:B0541 1 288
+eco:B2089 1 288
+
+Cluster 1033
+bsu:YRVI 1 119
+eco:B3887 1 145
+
+Cluster 1034
+mja:MJ1312 1 321
+syn:SLR1464 1 265
+
+Cluster 1035
+syn:SLL1377 1 479
+bsu:YDAM 1 420
+eco:B1022 1 441
+
+Cluster 1036
+syn:SLR0556 1 218
+bsu:YLME 1 230
+eco:B2951 1 234
+
+Cluster 1037
+eco:B1654 1 115
+syn:SLR1846 1 107
+
+Cluster 1038
+bsu:YHJN 1 384
+eco:B0715 1 363
+
+Cluster 1039
+bsu:YWCJ 1 256
+eco:B3367 1 184
+
+Cluster 1040
+bsu:AROH 1 127
+syn:SLL0109 1 127
+
+Cluster 1041
+mja:MJ1101 1 408
+syn:SLL0207 1 393
+bsu:SPSI 1 246
+eco:B2039 1 293
+eco:B3789 1 293
+
+Cluster 1042
+bsu:PSD 1 263
+eco:B4160 1 322
+
+Cluster 1043
+bsu:RBSD 1 131
+eco:B3748 1 151
+
+Cluster 1044
+bsu:YHEM 1 282
+syn:SLR0032 1 305
+eco:B3770 1 309
+mja:MJ1008 1 288
+
+Cluster 1045
+eco:B1976 1 278
+syn:SLR2042 1 275
+
+Cluster 1046
+bsu:RSBU 1 335
+syn:SLR2031 1 452
+
+Cluster 1047
+mja:MJ1322 1 1005
+syn:SLR1048 1 1006
+bsu:YIRY 1 1130
+eco:B0397 1 1048
+
+Cluster 1048
+bsu:UREB 1 124
+syn:SLL0420 1 105
+
+Cluster 1049
+mja:MJ0813 1 249
+syn:SLR0969(2) 382 627
+
+Cluster 1050
+mja:MJ0055 1 227
+eco:B3041 1 217
+bsu:RIBA(1) 1 202
+syn:SLL1894(1) 1 205
+
+Cluster 1051
+eco:B0696 1 190
+syn:SLR1730 1 190
+
+Cluster 1052
+eco:B2288 1 147
+syn:SLR1279 1 120
+
+Cluster 1053
+eco:B2813 1 365
+syn:SLL0016 1 383
+
+Cluster 1054
+eco:B1175 1 270
+bsu:MIND 1 268
+syn:SLL0289 1 266
+mja:MJ0169 1 263
+mja:MJ0547 1 264
+
+Cluster 1055
+mja:MJ0057 1 426
+mja:MJ1521 1 422
+eco:B1191 1 536
+syn:SLL0556 1 631
+
+Cluster 1056
+bsu:FTSX 1 296
+eco:B3462 1 352
+
+Cluster 1057
+bsu:YVYE 1 217
+eco:B3848 1 205
+
+Cluster 1058
+mja:MJ0918 1 266
+eco:B1262(1) 1 254
+bsu:TRPC 1 250
+syn:SLR0546 1 295
+
+Cluster 1059
+eco:B2828 1 291
+bsu:LGT 1 269
+syn:SLL1187 1 283
+
+Cluster 1060
+eco:B3967 1 289
+bsu:YRPC 1 265
+bsu:RACE 1 272
+syn:SLR1746 1 279
+
+Cluster 1061
+eco:B1208 1 283
+bsu:YABH 1 289
+syn:SLL0711 1 315
+
+Cluster 1062
+syn:SLL1680 1 176
+bsu:YPPQ 1 143
+eco:B1778 1 137
+
+Cluster 1063
+bsu:YDFC 1 306
+eco:B1959 1 306
+
+Cluster 1064
+eco:B0340 1 156
+syn:SLR0899 1 149
+
+Cluster 1065
+bsu:YTCF 1 128
+mja:MJ0315 1 135
+
+Cluster 1066
+syn:SLR1564 1 258
+bsu:SIGB 1 264
+bsu:SIGG 1 260
+bsu:SIGF 1 255
+
+Cluster 1067
+eco:B4226 1 176
+syn:SLR1622 1 233
+
+Cluster 1068
+bsu:YJCK 1 181
+eco:B1066 1 194
+
+Cluster 1069
+eco:B1857 1 328
+bsu:YCDH 1 319
+syn:SLR2043 1 338
+
+Cluster 1070
+bsu:YXJB 1 282
+eco:B1822 1 269
+
+Cluster 1071
+eco:B1766 1 618
+syn:SLL1703 1 610
+syn:SLR0021 1 277
+bsu:YTEI 1 335
+mja:MJ0651 1 311
+
+Cluster 1072
+mja:MJ0913 1 403
+eco:B3639 1 430
+bsu:YLOI 1 406
+syn:SLL0250 1 402
+
+Cluster 1073
+bsu:DAPB 1 267
+syn:SLL1058 1 275
+eco:B0031 1 273
+mja:MJ0422 1 290
+
+Cluster 1074
+eco:B3794 1 246
+bsu:TAGA 1 256
+syn:SLR1271 1 246
+
+Cluster 1075
+syn:SLR0900 1 390
+mja:MJ0666 1 398
+mja:MJ0886(1) 1 393
+bsu:MOEA 1 430
+eco:B0827 1 411
+
+Cluster 1076
+bsu:XYLR 1 350
+eco:B0676 1 406
+eco:B1594 1 406
+bsu:GLCK 1 321
+syn:SLR0329 1 327
+
+Cluster 1077
+bsu:YLMA 1 264
+eco:B0760 1 490
+
+Cluster 1078
+mja:MJ0999 1 542
+bsu:GROEL 1 544
+eco:B4143 1 548
+syn:SLR2076 1 541
+syn:SLL0416 1 552
+
+Cluster 1079
+eco:B2067 1 1105
+syn:SLL0779(2) 395 620
+syn:SLL1687(2) 451 693
+syn:SLR0302(2) 177 453
+
+Cluster 1080
+mja:MJ0262(2) 453 1155
+syn:SLR0744 1 1001
+bsu:INFB 1 716
+eco:B3168 1 890
+
+Cluster 1081
+eco:B0885 1 234
+syn:SLL0869 1 198
+
+Cluster 1082
+mja:MJ0830 1 252
+syn:SLR1717 1 268
+
+Cluster 1083
+eco:B1223 1 463
+eco:B1469 1 462
+bsu:NASA 1 421
+bsu:NARK 1 395
+
+Cluster 1084
+eco:B1749 1 268
+bsu:EXOA 1 252
+syn:SLL1854 1 275
+
+Cluster 1085
+mja:MJ1314 1 307
+syn:SLR1925 1 342
+
+Cluster 1086
+syn:SLL0023 1 447
+eco:B2988 1 619
+eco:B3038 1 386
+eco:B4186 1 387
+
+Cluster 1087
+syn:SLR0820 1 478
+syn:SLL1535 1 243
+bsu:YVFC 1 202
+eco:B2047 1 464
+
+Cluster 1088
+eco:B0657 1 512
+syn:SLR0819 1 519
+
+Cluster 1089
+bsu:YLMH 1 257
+syn:SLL1252 1 259
+
+Cluster 1090
+eco:B2747 1 236
+bsu:YACM 1 232
+syn:SLR0951 1 230
+
+Cluster 1091
+bsu:CHER 1 258
+eco:B1884 1 286
+
+Cluster 1092
+bsu:YSGA 1 248
+syn:SLR1673 1 274
+
+Cluster 1093
+bsu:YLOP 1 648
+syn:SLR0152 1 631
+
+Cluster 1094
+eco:B3113 1 150
+eco:B4243 1 141
+bsu:YABJ 1 125
+syn:SLR0709 1 130
+
+Cluster 1095
+bsu:YISP 1 274
+syn:SLR1255 1 337
+
+Cluster 1096
+syn:SLL1746 1 128
+bsu:RPLL 1 123
+eco:B3986 1 121
+
+Cluster 1097
+mja:MJ1335 1 143
+syn:SLL0083 1 194
+eco:B0222 1 192
+eco:B3149 1 196
+
+Cluster 1098
+bsu:YTOA 1 171
+eco:B3279 1 256
+mja:MJ0304 1 159
+syn:SLL1636 1 190
+
+Cluster 1099
+eco:B0963 1 155
+bsu:YPJF 1 137
+syn:SLL0036(1) 1 123
+
+Cluster 1100
+eco:B3172 1 447
+mja:MJ0429 1 395
+bsu:ARGG 1 403
+syn:SLR0585 1 400
+
+Cluster 1101
+eco:B0655 1 302
+syn:SLL0224 1 298
+syn:SLL1762 1 382
+
+Cluster 1102
+syn:SLR1369 1 293
+bsu:CDSA 1 269
+eco:B0175 1 249
+
+Cluster 1103
+bsu:ADAA 1 211
+eco:B2213(1) 1 187
+
+Cluster 1104
+mja:MJ0300 1 296
+syn:SLL0998 1 345
+eco:B2157 1 293
+bsu:YWFK 1 299
+syn:SLL1594 1 316
+syn:SLL0030 1 304
+
+Cluster 1105
+eco:B0486 1 430
+mja:MJ0609 1 435
+bsu:YKBA 1 438
+eco:B3370 1 462
+bsu:YFNA 1 461
+bsu:YHDG 1 465
+bsu:YBEC 1 539
+bsu:YVEA 1 520
+
+Cluster 1106
+bsu:YLBK 1 260
+eco:B1234 1 314
+
+Cluster 1107
+bsu:FLGK 1 507
+eco:B1082 1 547
+
+Cluster 1108
+bsu:YURB 1 173
+eco:B0286 1 229
+
+Cluster 1109
+bsu:YITJ(1) 1 314
+eco:B4019 1 1227
+syn:SLR0212 1 1195
+
+Cluster 1110
+syn:SLL1223 1 238
+eco:B2283 1 232
+bsu:YJGC(1) 1 257
+bsu:YRHE(1) 1 260
+
+Cluster 1111
+eco:B2023 1 196
+syn:SLR0084 1 210
+bsu:HISH 1 212
+mja:MJ0506 1 198
+
+Cluster 1112
+bsu:YTFP 1 318
+eco:B3492 1 400
+syn:SLL0586 1 408
+
+Cluster 1113
+eco:B4245 1 311
+mja:MJ1581 1 306
+bsu:PYRB 1 304
+syn:SLR1476 1 331
+
+Cluster 1114
+bsu:ASNH 1 747
+mja:MJ1056 1 516
+bsu:YISO 1 591
+bsu:ASNB 1 632
+eco:B0674 1 554
+mja:MJ1116 1 544
+
+Cluster 1115
+syn:SLL0210 1 326
+bsu:YUBB 1 276
+eco:B3057 1 273
+
+Cluster 1116
+mja:MJ1130 1 535
+syn:SLR0807 1 348
+bsu:YDIE 1 346
+eco:B3064 1 337
+
+Cluster 1117
+bsu:YJBU 1 336
+bsu:MOEB 1 339
+syn:SLL1536(1) 1 254
+eco:B0826 1 249
+eco:B3992 1 245
+
+Cluster 1118
+bsu:AZLB 1 157
+eco:B0889 1 164
+
+Cluster 1119
+bsu:YURL 1 284
+eco:B3374 1 261
+
+Cluster 1120
+syn:SLR1356 1 328
+syn:SLR1984 1 305
+bsu:YPFD 1 382
+eco:B0911 1 557
+
+Cluster 1121
+bsu:YRKR 1 139
+eco:B4030 1 136
+
+Cluster 1122
+eco:B1830 1 682
+bsu:CTPA 1 466
+bsu:YVJB 1 480
+syn:SLR0008 1 427
+syn:SLR0257 1 462
+syn:SLR1751 1 423
+
+Cluster 1123
+bsu:YFKF 1 391
+eco:B0898 1 382
+
+Cluster 1124
+eco:B2599(2) 105 386
+mja:MJ0637 1 272
+bsu:PHEA 1 285
+syn:SLL1662 1 297
+
+Cluster 1125
+eco:B2021 1 356
+syn:SLL1958 1 367
+bsu:HISC 1 360
+mja:MJ0955 1 373
+
+Cluster 1126
+bsu:GLPP 1 192
+eco:B2768 1 191
+
+Cluster 1127
+mja:MJ0438 1 381
+bsu:YPSC 1 385
+eco:B0948 1 702
+syn:SLR0064 1 384
+
+Cluster 1128
+syn:SLL0018 1 359
+eco:B1773 1 278
+bsu:FBAA 1 285
+bsu:IOLJ 1 290
+eco:B2096 1 286
+eco:B3137 1 286
+
+Cluster 1129
+eco:B1180 1 219
+bsu:YISK 1 301
+mja:MJ1656 1 237
+syn:SLR1877 1 276
+
+Cluster 1130
+bsu:YTCB 1 316
+mja:MJ1055 1 326
+mja:MJ0211 1 305
+syn:SLR0809 1 328
+
+Cluster 1131
+bsu:DAPG 1 404
+bsu:LYSC 1 408
+syn:SLR0657 1 600
+bsu:YCLM 1 454
+eco:B0002 1 820
+eco:B3940 1 810
+eco:B4024 1 449
+mja:MJ0571 1 473
+
+Cluster 1132
+syn:SLL1099 1 399
+bsu:TUFA 1 396
+eco:B3339 1 394
+eco:B3980 1 394
+eco:B3590 1 614
+mja:MJ0495 1 469
+
+Cluster 1133
+bsu:YHAQ 1 298
+mja:MJ1023 1 262
+bsu:ECSA 1 247
+bsu:YTHP 1 236
+bsu:NATA 1 246
+syn:SLR1901 1 326
+syn:SLR1113 1 332
+syn:SLL0489 1 342
+eco:B0794(2) 313 583
+eco:B3486(2) 263 496
+eco:B0127 1 308
+bsu:YFIL 1 311
+syn:SLL0759 1 347
+bsu:YDBJ 1 308
+bsu:YHCH 1 305
+bsu:YXLF 1 295
+syn:SLL0415 1 354
+
+Cluster 1134
+bsu:YHCK 1 359
+eco:B1956 1 569
+
+Cluster 1135
+bsu:YKGB 1 349
+eco:B0767 1 331
+
+Cluster 1136
+bsu:GREA 1 157
+eco:B3181 1 153
+
+Cluster 1137
+syn:SLR1099 1 206
+mja:MJ0102 1 184
+bsu:YCLB 1 204
+eco:B2311 1 189
+
+Cluster 1138
+syn:SLR0553 1 201
+bsu:YTAG 1 197
+eco:B0103 1 206
+
+Cluster 1139
+mja:MJ0267 1 389
+eco:B1378(1) 1 390
+syn:SLL0741(1) 1 396
+
+Cluster 1140
+eco:B2249 1 400
+bsu:CINA 1 416
+syn:SLR0427 1 416
+
+Cluster 1141
+eco:B2152 1 385
+bsu:YRKO 1 405
+bsu:YXAH 1 402
+
+Cluster 1142
+eco:B3286 1 253
+bsu:SMF 1 297
+syn:SLR1197 1 398
+
+Cluster 1143
+bsu:YQGI 1 294
+mja:MJ1013 1 281
+eco:B3726 1 296
+syn:SLR1249 1 290
+syn:SLL0682 1 287
+
+Cluster 1144
+syn:SLL0898 1 369
+bsu:YLOQ 1 298
+eco:B4161 1 337
+
+Cluster 1145
+eco:B1338 1 441
+bsu:AMHX 1 389
+bsu:YKUR 1 374
+bsu:YHAA 1 396
+syn:SLR1653 1 416
+syn:SLL0100 1 393
+bsu:HIPO 1 416
+bsu:YXEP 1 380
+
+Cluster 1146
+syn:SLR0896 1 461
+bsu:YOJI 1 452
+eco:B1663 1 457
+bsu:YISQ 1 455
+eco:B1985 1 547
+mja:MJ0709 1 450
+bsu:YOEA 1 463
+bsu:YPNP 1 445
+
+Cluster 1147
+bsu:YQIG 1 372
+eco:B3081 1 672
+
+Cluster 1148
+eco:B1534 1 395
+bsu:YHJO 1 401
+bsu:YQJV 1 410
+
+Cluster 1149
+bsu:YWPB 1 132
+eco:B0180 1 151
+syn:SLL1605 1 166
+
+Cluster 1150
+eco:B2567 1 226
+bsu:RNCS 1 249
+syn:SLR1646 1 231
+
+Cluster 1151
+eco:B3072 1 506
+eco:B1421 1 546
+eco:B1885 1 533
+eco:B1886 1 553
+eco:B4355 1 551
+syn:SLL1294 579 953
+syn:SLR1044 496 869
+syn:SLL0041 518 891
+bsu:YVAQ 1 566
+bsu:YOAH 1 534
+bsu:TLPC 1 573
+bsu:MCPC 1 654
+bsu:MCPA 1 661
+bsu:TLPA 1 662
+bsu:TLPB 1 662
+bsu:MCPB 1 662
+
+Cluster 1152
+mja:MJ1359 1 242
+syn:SLL1595 1 568
+syn:SLR1942 1 505
+syn:SLR0758 1 519
+
+Cluster 1153
+bsu:GUAA 1 513
+eco:B2507 1 525
+mja:MJ1131 1 310
+mja:MJ1575 1 188
+syn:SLR0213 1 542
+
+Cluster 1154
+bsu:KSGA 1 292
+mja:MJ1029 1 275
+eco:B0051 1 273
+syn:SLL0708 1 284
+
+Cluster 1155
+eco:B2153 1 222
+bsu:MTRA 1 190
+syn:SLR0426 1 234
+
+Cluster 1156
+eco:B0478(1) 1 405
+eco:B0047(1) 1 392
+eco:B3350(1) 1 393
+bsu:YHAU 1 408
+syn:SLL0689 1 461
+
+Cluster 1157
+bsu:FLIR 1 259
+eco:B1950 1 261
+
+Cluster 1158
+eco:B1603 1 510
+syn:SLR1239 1 530
+bsu:ALD 1 378
+syn:SLL1682 1 360
+
+Cluster 1159
+syn:SLR1821 1 366
+bsu:YLUC 1 422
+eco:B0176 1 450
+
+Cluster 1160
+eco:B0522 1 355
+bsu:PURK 1 379
+syn:SLL0578 1 388
+
+Cluster 1161
+mja:MJ1309 1 481
+eco:B2276 1 425
+syn:SLL0223 1 521
+
+Cluster 1162
+eco:B2606 1 115
+bsu:RPLS 1 118
+syn:SLL1740 1 122
+
+Cluster 1163
+eco:B1269 1 291
+bsu:YPUL 1 229
+syn:SLR0361 1 249
+
+Cluster 1164
+eco:B1517 1 291
+mja:MJ0400 1 273
+
+Cluster 1165
+bsu:DEOR 1 313
+eco:B4295 1 266
+
+Cluster 1166
+bsu:UREA 1 105
+syn:SLR1256 1 100
+
+Cluster 1167
+bsu:SPSG 1 339
+mja:MJ1062 1 484
+
+Cluster 1168
+eco:B3130 1 154
+syn:SLR0725 1 138
+
+Cluster 1169
+syn:SLL1631 1 164
+bsu:YAAJ 1 161
+eco:B2559 1 178
+
+Cluster 1170
+bsu:YRHG 1 266
+eco:B0904 1 285
+eco:B2492 1 282
+
+Cluster 1171
+syn:SLR1199 1 563
+bsu:MUTL 1 627
+eco:B4170 1 615
+
+Cluster 1172
+bsu:YITK 1 163
+eco:B0426 1 169
+
+Cluster 1173
+eco:B2914 1 219
+mja:MJ1603 1 226
+syn:SLR0194 1 235
+
+Cluster 1174
+mja:MJ0613 1 344
+eco:B1633 1 211
+bsu:NTH 1 219
+syn:SLR1822 1 219
+
+Cluster 1175
+bsu:ADK 1 217
+eco:B0474 1 214
+syn:SLL1059 1 181
+syn:SLL1815 1 187
+
+Cluster 1176
+bsu:YTGI 1 167
+eco:B1324 1 168
+
+Cluster 1177
+eco:B0383 1 494
+bsu:PHOB 1 462
+bsu:PHOA 1 461
+
+Cluster 1178
+eco:B2128 1 243
+bsu:OPUBB 1 217
+bsu:OPUCB 1 217
+bsu:OPUBD 1 226
+bsu:OPUCD 1 229
+
+Cluster 1179
+bsu:YCLK 1 473
+eco:B2078 1 467
+syn:SLR0533 1 405
+
+Cluster 1180
+bsu:YRRL 1 360
+eco:B1097 1 340
+
+Cluster 1181
+bsu:YQHS 1 148
+syn:SLL1112 1 152
+
+Cluster 1182
+bsu:YUSA 1 274
+eco:B0197 1 271
+eco:B3661 1 272
+
+Cluster 1183
+eco:B0078 1 163
+mja:MJ0161 1 172
+bsu:ILVN 1 174
+syn:SLL0065 1 188
+
+Cluster 1184
+bsu:YHDE 1 146
+eco:B4178 1 141
+
+Cluster 1185
+syn:SLR0646 1 486
+bsu:PBP 1 491
+eco:B3182 1 477
+
+Cluster 1186
+eco:B2487 1 555
+eco:B2721 1 569
+mja:MJ0515 1 380
+mja:MJ1027 1 377
+eco:B2286 1 600
+syn:SLR0261 1 394
+
+Cluster 1187
+mja:MJ0216 1 465
+bsu:ATPD 1 473
+eco:B3732 1 460
+syn:SLR1329 1 483
+bsu:FLII 1 440
+eco:B1941 1 457
+
+Cluster 1188
+mja:MJ0179 1 242
+eco:B3317 1 273
+bsu:RPLB 1 277
+syn:SLL1802 1 276
+
+Cluster 1189
+bsu:YVTB 1 224
+bsu:HTRA 1 449
+bsu:YYXA 1 400
+syn:SLL1679 1 394
+syn:SLR1204 1 452
+syn:SLL1427 1 416
+eco:B3235 1 355
+eco:B0161 1 474
+eco:B3234 1 455
+
+Cluster 1190
+bsu:YKNA 1 156
+syn:SLL0051 1 159
+
+Cluster 1191
+bsu:YVGP 1 670
+eco:B4065 1 549
+syn:SLR1727 1 527
+syn:SLL0273 1 540
+
+Cluster 1192
+mja:MJ0493 1 283
+eco:B0109 1 297
+bsu:NADC 1 289
+syn:SLR0936 1 295
+
+Cluster 1193
+eco:B1242 1 215
+bsu:YVBG 1 211
+mja:MJ0972 1 228
+mja:MJ1677 1 205
+
+Cluster 1194
+eco:B1204 1 194
+bsu:SPOVC 1 188
+syn:SLR0922 1 194
+
+Cluster 1195
+bsu:YQJM 1 338
+eco:B1650 1 365
+
+Cluster 1196
+mja:MJ0022 1 362
+syn:SLR1538 1 364
+
+Cluster 1197
+syn:SLL1261 1 218
+bsu:TSF 1 293
+eco:B0170 1 283
+
+Cluster 1198
+eco:B2620 1 160
+bsu:YVAI 1 156
+syn:SLR1639 1 154
+
+Cluster 1199
+syn:SLR1584 1 234
+syn:SLR1837 1 234
+syn:SLL0797 1 234
+syn:SLL0789 1 232
+eco:B1130 1 223
+eco:B3025 1 219
+eco:B4113 1 222
+
+Cluster 1200
+eco:B2838 1 420
+mja:MJ1097 1 438
+bsu:LYSA 1 439
+syn:SLL0504 1 469
+
+Cluster 1201
+eco:B3179 1 209
+mja:MJ1376 1 245
+
+Cluster 1202
+eco:B2500 1 212
+bsu:PURN 1 195
+syn:SLR0477 1 217
+
+Cluster 1203
+eco:B1109 1 434
+syn:SLR0851 1 445
+bsu:YJLD 1 392
+bsu:YUMB 1 406
+
+Cluster 1204
+bsu:NRDE 1 700
+bsu:YOSO(2) 447 786
+bsu:YOSN 1 240
+eco:B2234 1 761
+eco:B2675 1 714
+syn:SLR1164 1 767
+
+Cluster 1205
+eco:B1221 1 216
+eco:B2193 1 215
+bsu:YHCZ 1 214
+bsu:YVQC 1 211
+bsu:YFIK 1 220
+bsu:YXJL 1 218
+bsu:DEGU 1 229
+syn:SLR0312 1 209
+
+Cluster 1206
+mja:MJ0542(2) 450 1188
+eco:B2829 1 748
+eco:B2383(1) 1 682
+eco:B3947(1) 1 563
+bsu:PTSI 1 550
+eco:B2416 1 575
+
+Cluster 1207
+bsu:YVOA 1 243
+eco:B0730 1 240
+eco:B3684 1 238
+
+Cluster 1208
+eco:B2024 1 246
+mja:MJ1532 1 237
+bsu:HISA 1 245
+syn:SLR0652 1 256
+
+Cluster 1209
+eco:B1135 1 207
+syn:SLR0612 1 185
+
+Cluster 1210
+mja:MJ0824 1 298
+bsu:NARA 1 341
+eco:B0781 1 329
+syn:SLR0901 1 327
+
+Cluster 1211
+bsu:YTGA 1 306
+syn:SLL1598 1 330
+
+Cluster 1212
+bsu:PYRF 1 239
+eco:B1281 1 245
+syn:SLL0838 1 231
+
+Cluster 1213
+eco:B0090 1 355
+bsu:MURG 1 363
+syn:SLR1656 1 371
+
+Cluster 1214
+mja:MJ0698 1 197
+eco:B2022(2) 168 356
+bsu:HISB 1 194
+syn:SLR0500 1 210
+
+Cluster 1215
+eco:B2388 1 321
+syn:SLL0593 1 355
+
+Cluster 1216
+mja:MJ1197 1 624
+syn:SLL0078 1 603
+eco:B1719 1 642
+bsu:THRS 1 643
+bsu:THRZ 1 638
+
+Cluster 1217
+eco:B0765 1 352
+syn:SLL0240 1 218
+
+Cluster 1218
+bsu:YOXD 1 238
+eco:B2426 1 285
+
+Cluster 1219
+mja:MJ0681 1 274
+eco:B2465 1 667
+eco:B2935 1 663
+bsu:TKT 1 667
+syn:SLL1070 1 670
+
+Cluster 1220
+eco:B4334 1 257
+mja:MJ0004 1 243
+
+Cluster 1221
+bsu:YULD 1 104
+eco:B3901 1 104
+
+Cluster 1222
+bsu:YPPP 1 177
+eco:B4219 1 212
+syn:SLL1394 1 222
+
+Cluster 1223
+eco:B2518 1 143
+mja:MJ1265 1 140
+bsu:NDK 1 149
+syn:SLL1852 1 149
+
+Cluster 1224
+bsu:YFNG 1 301
+syn:SLR0984 1 360
+
+Cluster 1225
+mja:MJ1191 1 288
+syn:SLL1224 1 182
+
+Cluster 1226
+mja:MJ0679 1 316
+eco:B0420 1 620
+bsu:YQIE 1 633
+syn:SLL1945 1 640
+
+Cluster 1227
+bsu:YVBY 1 240
+eco:B0308 1 282
+
+Cluster 1228
+eco:B3387 1 278
+mja:MJ0598 1 289
+syn:SLR1803 1 309
+
+Cluster 1229
+eco:B0413 1 149
+bsu:YTCG 1 152
+syn:SLR0780 1 161
+
+Cluster 1230
+mja:MJ1367 1 297
+bsu:OPUAA 1 418
+eco:B2677 1 400
+eco:B2129 1 308
+bsu:OPUBA 1 381
+bsu:OPUCA 1 380
+syn:SLL1878 1 368
+syn:SLR1224 1 408
+eco:B4035 1 371
+eco:B3450 1 369
+syn:SLR0747 1 363
+bsu:YURJ 1 367
+bsu:MSMX 1 365
+eco:B1318 1 322
+eco:B2422 1 365
+syn:SLR1455 1 355
+eco:B1441 1 337
+eco:B0262 1 352
+eco:B0855 1 404
+eco:B1126 1 378
+syn:SLL0739(2) 218 615
+
+Cluster 1231
+eco:B3194 1 260
+syn:SLR1045 1 263
+syn:SLR1344 1 283
+
+Cluster 1232
+syn:SLL0767 1 117
+bsu:RPLT 1 119
+eco:B1716 1 118
+
+Cluster 1233
+bsu:YCSO 1 246
+eco:B0272 1 252
+eco:B1827 1 263
+
+Cluster 1234
+syn:SLL0194 1 254
+eco:B3839 1 258
+bsu:YCBT 1 245
+bsu:YDIJ 1 254
+
+Cluster 1235
+syn:SLL1374 1 544
+eco:B4120 1 469
+bsu:YJMB 1 459
+eco:B3876 1 487
+eco:B3877 1 468
+eco:B0270 1 460
+eco:B3657 1 479
+eco:B1616 1 457
+bsu:YDJD 1 463
+bsu:YNAJ 1 463
+
+Cluster 1236
+eco:B4034 1 396
+bsu:YVFK 1 421
+bsu:YVDG 1 417
+
+Cluster 1237
+eco:B3351 1 184
+bsu:YDEQ 1 197
+bsu:YRKL 1 174
+bsu:YWRO 1 175
+
+Cluster 1238
+eco:B1286(1) 1 571
+syn:SLL1910(1) 1 657
+bsu:YVAJ(1) 1 632
+eco:B4179(1) 1 663
+
+Cluster 1239
+bsu:YLOC 1 291
+eco:B3644 1 287
+
+Cluster 1240
+mja:MJ0667 1 503
+bsu:PDP 1 434
+eco:B4382 1 440
+
+Cluster 1241
+eco:B3452 1 295
+bsu:ARAP 1 313
+bsu:YURN 1 292
+bsu:AMYD 1 303
+bsu:YESP 1 309
+syn:SLR1202 1 298
+
+Cluster 1242
+bsu:NAGA 1 396
+eco:B0677 1 382
+
+Cluster 1243
+bsu:YCEA 1 280
+syn:SLL1600 1 306
+eco:B1859 1 261
+syn:SLR2045 1 281
+
+Cluster 1244
+bsu:YWQM 1 293
+eco:B2577 1 308
+
+Cluster 1245
+bsu:YFLK 1 221
+eco:B3910 1 234
+
+Cluster 1246
+bsu:YAAE 1 196
+mja:MJ1661 1 186
+
+Cluster 1247
+mja:MJ1387 1 379
+syn:SLR1411 1 422
+
+Cluster 1248
+eco:B3638 1 224
+bsu:YSXA 1 231
+syn:SLL0766 1 243
+
+Cluster 1249
+bsu:BIOW 1 244
+mja:MJ1297 1 237
+
+Cluster 1250
+mja:MJ0649 1 463
+eco:B3365(1) 1 418
+bsu:NASD(1) 1 415
+bsu:NASB(1) 1 402
+
+Cluster 1251
+eco:B2257 1 550
+syn:SLR1820 1 490
+
+Cluster 1252
+bsu:YLPA 1 300
+eco:B3111 1 275
+eco:B1814(2) 181 454
+eco:B2797(2) 181 455
+
+Cluster 1253
+eco:B2668 1 174
+syn:SLR1261 1 179
+
+Cluster 1254
+syn:SLL1023 1 401
+mja:MJ0210 1 364
+bsu:SUCC 1 385
+eco:B0728 1 388
+
+Cluster 1255
+eco:B0160 1 505
+syn:SLL0398 1 440
+
+Cluster 1256
+eco:B0223 1 255
+mja:MJ1515 1 355
+
+Cluster 1257
+eco:B3774 1 491
+mja:MJ1543 1 348
+bsu:ILVC 1 342
+syn:SLL1363 1 367
+
+Cluster 1258
+mja:MJ0238 1 197
+syn:SLR0055 1 163
+bsu:PABA 1 194
+eco:B3360 1 187
+
+Cluster 1259
+eco:B0400 1 431
+syn:SLL0698 1 663
+bsu:PHOR 1 579
+bsu:RESE 1 589
+bsu:YYCG 1 611
+
+Cluster 1260
+eco:B3607 1 273
+bsu:CYSE 1 217
+syn:SLR1348 1 249
+
+Cluster 1261
+bsu:YJBQ(1) 1 418
+mja:MJ1275 1 388
+syn:SLR0415 1 698
+
+Cluster 1262
+syn:SLL0217(1) 1 410
+syn:SLL0550(1) 1 405
+syn:SLL0219(1) 1 424
+syn:SLL1521(1) 1 427
+mja:MJ0748 1 416
+eco:B2710(1) 1 394
+mja:MJ0534 1 391
+mja:MJ0732 1 393
+
+Cluster 1263
+bsu:YLOO 1 254
+syn:SLL1771 1 254
+
+Cluster 1264
+bsu:AMYX 1 718
+eco:B3431 1 657
+syn:SLR0237 1 746
+syn:SLR1857 1 707
+
+Cluster 1265
+eco:B1190 1 356
+eco:B4053 1 359
+syn:SLR0827 1 400
+bsu:DAL 1 389
+bsu:YNCD 1 394
+
+Cluster 1266
+mja:MJ0035 1 250
+bsu:YURY 1 261
+eco:B1682 1 248
+syn:SLR0075 1 256
+
+Cluster 1267
+eco:B2028 1 388
+mja:MJ1054 1 392
+bsu:YTCA 1 428
+syn:SLR1299 1 453
+bsu:TUAD 1 461
+bsu:YWQF 1 440
+
+Cluster 1268
+mja:MJ1649 1 387
+mja:MJ1653 1 385
+bsu:YWBD 1 396
+eco:B0967 1 367
+
+Cluster 1269
+eco:B2137 1 253
+bsu:YWFD 1 255
+bsu:YCDF 1 258
+bsu:GDH 1 261
+
+Cluster 1270
+mja:MJ0091 1 302
+eco:B3196 1 325
+syn:SLR0681 1 433
+
+Cluster 1271
+mja:MJ0020 1 417
+bsu:ANSA 1 329
+eco:B1767 1 338
+
+Cluster 1272
+eco:B2743 1 208
+mja:MJ0172 1 215
+
+Cluster 1273
+bsu:YSFB 1 368
+eco:B0162 1 391
+
+Cluster 1274
+bsu:YWFO 1 433
+mja:MJ1154 1 451
+
+Cluster 1275
+eco:B1439(2) 258 468
+eco:B4340(2) 258 470
+bsu:YDFD(2) 270 482
+bsu:YISW 1 213
+
+Cluster 1276
+bsu:WPRA 1 894
+syn:SLR0535 1 613
+
+Cluster 1277
+eco:B1000 1 306
+syn:SLL1933 1 307
+syn:SLR0093 1 332
+
+Cluster 1278
+mja:MJ0860 1 327
+eco:B0421 1 299
+bsu:YQID 1 272
+syn:SLR0739 1 302
+
+Cluster 1279
+syn:SLR1647 1 259
+mja:MJ0938 1 250
+bsu:YJKA 1 250
+eco:B0491 1 268
+
+Cluster 1280
+bsu:YQGH 1 309
+mja:MJ1014 1 315
+eco:B3727 1 319
+syn:SLR1248 1 328
+syn:SLL0681 1 317
+
+Cluster 1281
+syn:SLL1035 1 216
+bsu:UPP 1 209
+eco:B2498 1 217
+
+Cluster 1282
+syn:SLR1542 1 161
+bsu:YACN 1 158
+eco:B2746 1 159
+
+Cluster 1283
+eco:B2315 1 422
+bsu:FOLC 1 430
+syn:SLL1612 1 428
+
+Cluster 1284
+mja:MJ1598 1 350
+syn:SLL1500 1 369
+
+Cluster 1285
+eco:B0096 1 305
+syn:SLL1508 1 276
+
+Cluster 1286
+mja:MJ0487 1 480
+bsu:PHES 1 344
+eco:B1714 1 327
+syn:SLL0454 1 331
+
+Cluster 1287
+bsu:YULB 1 258
+eco:B1770 1 252
+
+Cluster 1288
+bsu:HISZ 1 391
+syn:SLR1560 1 401
+
+Cluster 1289
+bsu:AMYC 1 276
+syn:SLR0531 1 298
+
+Cluster 1290
+bsu:NARI 1 223
+eco:B1227 1 225
+eco:B1465 1 226
+
+Cluster 1291
+mja:MJ0966 1 444
+syn:SLL1084 1 865
+syn:SLL0424 1 534
+
+Cluster 1292
+syn:SLL1742 1 205
+bsu:NUSG 1 177
+eco:B3982 1 181
+
+Cluster 1293
+bsu:CITT 1 226
+eco:B0620 1 226
+
+Cluster 1294
+bsu:YKRW 1 414
+mja:MJ1235 1 425
+syn:SLR0009 1 470
+
+Cluster 1295
+eco:B1055 1 350
+bsu:YBFQ 1 322
+syn:SLL0765 1 278
+
+Cluster 1296
+mja:MJ1366 1 291
+eco:B1207 1 315
+bsu:PRS 1 317
+syn:SLL0469 1 333
+
+Cluster 1297
+eco:B1692 1 288
+syn:SLR1559 1 290
+bsu:AROD 1 280
+mja:MJ1084 1 282
+
+Cluster 1298
+eco:B3195 1 269
+syn:SLL1041 1 260
+syn:SLL1001 1 260
+
+Cluster 1299
+eco:B4032 1 296
+bsu:YVFM 1 283
+bsu:YVDI 1 278
+
+Cluster 1300
+eco:B0423 1 482
+bsu:YTBJ 1 358
+mja:MJ0931 1 381
+
+Cluster 1301
+bsu:DFRA 1 168
+eco:B0048 1 159
+
+Cluster 1302
+syn:SLL0493 1 228
+bsu:YKQB 1 221
+bsu:YUAA 1 222
+
+Cluster 1303
+mja:MJ0569 1 292
+eco:B3805 1 320
+bsu:HEMC 1 314
+syn:SLR1887 1 320
+
+Cluster 1304
+eco:B1710 1 183
+bsu:BSAA 1 160
+syn:SLR1171 1 169
+
+Cluster 1305
+bsu:LYTT 1 241
+eco:B2381 1 244
+
+Cluster 1306
+bsu:YWOC 1 189
+eco:B1867 1 199
+
+Cluster 1307
+eco:B1761 1 447
+syn:SLR0710 1 428
+bsu:YPCA 1 426
+bsu:YWEB 1 424
+
+Cluster 1308
+eco:B3634 1 159
+bsu:YLBI 1 161
+syn:SLR0847 1 159
+
+Cluster 1309
+bsu:YCGK 1 324
+eco:B3961 1 305
+
+Cluster 1310
+bsu:FLIF 1 536
+eco:B1938 1 552
+
+Cluster 1311
+bsu:YQEW 1 310
+eco:B4020 1 543
+
+Cluster 1312
+syn:SLR0676 1 177
+eco:B2750 1 201
+bsu:YISZ 1 199
+bsu:YLNC 1 197
+
+Cluster 1313
+eco:B3062 1 201
+mja:MJ0617 1 195
+
+Cluster 1314
+bsu:YHBH 1 392
+eco:B1784 1 427
+
+Cluster 1315
+mja:MJ1296 1 358
+eco:B0775 1 346
+bsu:BIOB 1 335
+syn:SLR1364 1 362
+
+Cluster 1316
+mja:MJ1119 1 295
+bsu:YUTL 1 284
+eco:B3809 1 275
+syn:SLR1665 1 279
+
+Cluster 1317
+bsu:THIK 1 272
+eco:B2104 1 262
+
+Cluster 1318
+bsu:YBXI 1 267
+syn:SLR0319 1 304
+
+Cluster 1319
+mja:MJ1507 1 399
+bsu:YKNZ 1 397
+syn:SLR0594 1 407
+eco:B0879(2) 244 648
+
+Cluster 1320
+bsu:ETFA 1 325
+eco:B0042 1 313
+eco:B1698 1 312
+
+Cluster 1321
+bsu:AROE 1 428
+syn:SLR0444 1 447
+eco:B0908 1 427
+mja:MJ0502 1 429
+
+Cluster 1322
+syn:SLL1841 1 433
+bsu:ACOC 1 398
+bsu:PDHC 1 442
+eco:B0115 1 630
+bsu:BFMBB 1 424
+bsu:ODHB 1 417
+eco:B0727 1 405
+
+Cluster 1323
+bsu:FLIM 1 332
+eco:B1945 1 334
+
+Cluster 1324
+bsu:MMGB 1 244
+eco:B1395 1 475
+
+Cluster 1325
+syn:SLR1380 1 336
+bsu:CYDB 1 338
+eco:B0734 1 379
+eco:B0979 1 378
+
+Cluster 1326
+bsu:PBPC 1 668
+eco:B0635 1 633
+
+Cluster 1327
+syn:SLL1557 1 302
+mja:MJ1246 1 294
+bsu:SUCD 1 300
+eco:B0729 1 289
+
+Cluster 1328
+eco:B1520 1 321
+syn:SLL1024 1 274
+
+Cluster 1329
+bsu:YHJP 1 575
+eco:B0069 1 551
+eco:B0445 1 566
+
+Cluster 1330
+bsu:SPMA 1 196
+syn:SLL1677 1 217
+
+Cluster 1331
+mja:MJ1126 1 402
+bsu:YNBA 1 334
+eco:B4173 1 426
+syn:SLR1521 1 534
+
+Cluster 1332
+eco:B3244 1 481
+syn:SLR1322 1 489
+mja:MJ0996 1 451
+syn:SLR0863 1 463
+
+Cluster 1333
+bsu:PFK 1 319
+eco:B3916 1 320
+syn:SLL1196 1 361
+syn:SLL0745 1 384
+
+Cluster 1334
+eco:B0182 1 382
+syn:SLR0015 1 394
+
+Cluster 1335
+bsu:YISY 1 268
+syn:SLR0314 1 276
+
+Cluster 1336
+mja:MJ1100 1 448
+syn:SLL1758 1 481
+bsu:YBBT 1 448
+eco:B3176 1 445
+
+Cluster 1337
+bsu:RIBC 1 316
+eco:B0025 1 313
+syn:SLR1882 1 284
+
+Cluster 1338
+bsu:FABD 1 317
+eco:B1092 1 309
+syn:SLR2023 1 293
+bsu:PKSC 1 288
+bsu:PKSE 1 650
+
+Cluster 1339
+syn:SLR0942 1 327
+eco:B0207 1 267
+eco:B3012 1 236
+bsu:YTBE 1 280
+bsu:YVGN 1 276
+
+Cluster 1340
+bsu:YURP 1 328
+eco:B3371 1 347
+
+Cluster 1341
+eco:B0600 1 386
+bsu:PATA 1 392
+bsu:YUGH 1 357
+bsu:ASPB 1 393
+syn:SLL0402 1 389
+mja:MJ0001 1 375
+mja:MJ0684 1 370
+
+Cluster 1342
+bsu:YSIB 1 258
+eco:B1393 1 255
+
+Cluster 1343
+syn:SLL1249(2) 289 513
+bsu:CMK 1 224
+eco:B0910 1 227
+
+Cluster 1344
+eco:B2219 1 608
+bsu:YKVD 1 506
+bsu:KINC(2) 144 428
+bsu:YKRQ(2) 460 738
+bsu:KINA(2) 336 606
+
+Cluster 1345
+bsu:YCSJ(1) 1 229
+eco:B0711 1 218
+
+Cluster 1346
+mja:MJ0879 1 279
+syn:SLR0749 1 311
+
+Cluster 1347
+syn:SLL0533 1 471
+bsu:TIG 1 424
+eco:B0436 1 432
+
+Cluster 1348
+bsu:YLOD 1 244
+eco:B3648 1 207
+syn:SLR1123 1 191
+
+Cluster 1349
+eco:B4147 1 188
+bsu:EFP 1 185
+syn:SLR0434 1 187
+
+Cluster 1350
+bsu:DHBC 1 398
+eco:B0593 1 391
+bsu:MENF 1 471
+syn:SLR0817 1 474
+
+Cluster 1351
+bsu:YWBG 1 241
+eco:B2142 1 231
+
+Cluster 1352
+eco:B2277 1 509
+syn:SLR1291 1 559
+syn:SLR0331 1 525
+syn:SLL1733 1 502
+syn:SLL0027 1 507
+bsu:YUFD 1 480
+eco:B2486 1 526
+
+Cluster 1353
+mja:MJ0827 1 199
+eco:B0489 1 305
+syn:SLR1128 1 321
+
+Cluster 1354
+bsu:YGAM 1 276
+eco:B0934 1 278
+mja:MJ0413 1 267
+eco:B0367 1 275
+syn:SLL1081 1 280
+
+Cluster 1355
+eco:B1876 1 577
+syn:SLL0502 1 584
+bsu:ARGS 1 556
+mja:MJ0237 1 566
+
+Cluster 1356
+eco:B0146 1 234
+syn:SLL2014 1 237
+
+Cluster 1357
+bsu:FLGE 1 264
+eco:B1078 1 260
+
+Cluster 1358
+bsu:YSNE 1 151
+eco:B1932 1 159
+
+Cluster 1359
+eco:B0039 1 380
+eco:B1695 1 401
+bsu:YUSJ 1 594
+bsu:YNGJ 1 380
+bsu:MMGC 1 378
+bsu:ACDA 1 379
+
+Cluster 1360
+eco:B3701 1 366
+bsu:DNAN 1 378
+syn:SLR0965 1 391
+
+Cluster 1361
+bsu:LEVE 1 162
+eco:B1817(2) 162 323
+
+Cluster 1362
+syn:SLR1871 1 295
+syn:SLR1245 1 302
+eco:B3243 1 309
+eco:B3521 1 323
+
+Cluster 1363
+bsu:SPSK(1) 1 269
+eco:B2040 1 299
+syn:SLL1395 1 280
+
+Cluster 1364
+bsu:TRKA 1 345
+syn:SLR0801 1 416
+
+Cluster 1365
+mja:MJ0165 1 256
+syn:SLL1489 1 279
+
+Cluster 1366
+syn:SLR1269 1 518
+bsu:YWRD 1 525
+bsu:GGT 1 587
+eco:B3447 1 580
+
+Cluster 1367
+eco:B1312 1 280
+bsu:YESQ 1 296
+bsu:YURM 1 300
+bsu:ARAQ 1 281
+syn:SLR1723 1 270
+
+Cluster 1368
+bsu:YCEI 1 400
+eco:B0353 1 418
+
+Cluster 1369
+bsu:YQIY 1 219
+eco:B0653 1 224
+
+Cluster 1370
+syn:SLL1546 1 540
+eco:B2502 1 513
+eco:B3779 1 494
+
+Cluster 1371
+bsu:YCSA 1 301
+eco:B1800 1 361
+mja:MJ0720 1 333
+mja:MJ1596 1 347
+
+Cluster 1372
+eco:B1260 1 268
+syn:SLR0966 1 264
+bsu:TRPA 1 267
+mja:MJ1038 1 284
+
+Cluster 1373
+eco:B0088 1 438
+bsu:MURD 1 451
+syn:SLL2010 1 452
+
+Cluster 1374
+mja:MJ0446 1 361
+syn:SLL1285 1 313
+
+Cluster 1375
+mja:MJ0867 1 427
+eco:B0835 1 441
+syn:SLR0082 1 443
+bsu:YQEV 1 451
+syn:SLL0996 1 451
+bsu:YMCB 1 509
+eco:B0661 1 474
+
+Cluster 1376
+eco:B4180 1 243
+bsu:YACO 1 249
+syn:SLR0955 1 384
+
+Cluster 1377
+eco:B2290 1 405
+mja:MJ1479 1 432
+
+Cluster 1378
+eco:B1270 1 196
+syn:SLR0260 1 203
+
+Cluster 1379
+mja:MJ1504 1 366
+syn:SLR0624 1 371
+bsu:YVYH 1 380
+eco:B3786 1 389
+
+Cluster 1380
+syn:SLR0974 1 177
+bsu:INFC 1 173
+eco:B1718 1 180
+
+Cluster 1381
+mja:MJ0442 1 221
+syn:SLL1432 1 285
+eco:B2727 1 290
+syn:SLL1079 1 229
+
+Cluster 1382
+eco:B3061 1 303
+mja:MJ1294 1 285
+
+Cluster 1383
+mja:MJ1142 1 349
+syn:SLL0086 1 396
+
+Cluster 1384
+mja:MJ0090 1 407
+bsu:YRRO 1 422
+eco:B2081 1 453
+
+Cluster 1385
+bsu:YHBA 1 435
+eco:B4166 1 379
+syn:SLL1348 1 289
+
+Cluster 1386
+eco:B3405 1 239
+bsu:PHOP 1 240
+bsu:YYCF 1 235
+syn:SLL0649 1 245
+syn:SLR0081 1 262
+bsu:YCBL 1 226
+bsu:YCLJ 1 227
+bsu:RESD 1 240
+
+Cluster 1387
+eco:B0052 1 329
+syn:SLL0660 1 349
+
+Cluster 1388
+bsu:YITD 1 252
+mja:MJ0255 1 251
+
+Cluster 1389
+eco:B1526 1 293
+bsu:YOFA 1 285
+bsu:YRDQ 1 288
+bsu:GLTR 1 296
+bsu:YUST 1 295
+
+Cluster 1390
+mja:MJ0561 1 345
+eco:B4177 1 432
+bsu:PURA 1 430
+syn:SLL1823 1 415
+
+Cluster 1391
+bsu:AROF 1 368
+eco:B2329 1 361
+mja:MJ1175 1 378
+syn:SLL1747 1 362
+
+Cluster 1392
+mja:MJ0542(1) 1 449
+eco:B1702 1 792
+syn:SLR0301 1 818
+bsu:PPS 1 325
+bsu:YVKC 1 309
+
+Cluster 1393
+mja:MJ0680 1 234
+eco:B3386 1 225
+bsu:YLOR 1 217
+syn:SLL0807 1 230
+
+Cluster 1394
+syn:SLL1327 1 314
+bsu:ATPG 1 287
+eco:B3733 1 287
+
+Cluster 1395
+bsu:YKOG 1 228
+syn:SLL0396 1 224
+eco:B0571 1 227
+eco:B1969 1 239
+
+Cluster 1396
+eco:B3336 1 158
+syn:SLR1890 1 176
+
+Cluster 1397
+bsu:YCKJ 1 234
+bsu:YCKA 1 226
+eco:B1918 1 222
+bsu:YXEN 1 224
+syn:SLL1270(2) 296 530
+
+Cluster 1398
+bsu:YWBI 1 301
+eco:B0338 1 299
+
+Cluster 1399
+eco:B2913 1 410
+bsu:SERA(1) 1 363
+mja:MJ1018(1) 1 363
+syn:SLL1908(1) 1 392
+
+Cluster 1400
+bsu:YCLP 1 252
+eco:B0151 1 265
+eco:B4287 1 255
+bsu:YFMF 1 266
+bsu:FHUC 1 269
+eco:B0588 1 271
+bsu:YUSV 1 275
+syn:SLR1318 1 268
+bsu:YVRA 1 442
+mja:MJ0873 1 290
+
+Cluster 1401
+eco:B0945(2) 76 336
+syn:SLR1418-2 1 294
+
+Cluster 1402
+eco:B0273 1 334
+eco:B4254 1 334
+syn:SLL0902 1 308
+bsu:ARGF 1 319
+mja:MJ0881 1 305
+
+Cluster 1403
+syn:SLR0989 1 253
+bsu:YRBC 1 240
+eco:B1864 1 246
+
+Cluster 1404
+eco:B0509 1 292
+eco:B3125 1 299
+bsu:YKWC 1 288
+syn:SLR0229 1 290
+
+Cluster 1405
+bsu:SIGD 1 254
+eco:B1922 1 239
+
+Cluster 1406
+bsu:HRCA 1 343
+syn:SLL1670 1 378
+
+Cluster 1407
+eco:B2785(2) 74 433
+syn:SLL1967(2) 80 463
+bsu:YEFA(2) 75 459
+bsu:YFJO(2) 80 466
+
+Cluster 1408
+eco:B0172 1 185
+bsu:FRR 1 185
+syn:SLL0145 1 182
+
+Cluster 1409
+mja:MJ1602 1 336
+bsu:HOM 1 433
+syn:SLL0455 1 433
+
+Cluster 1410
+bsu:YCSF 1 211
+eco:B0713 1 244
+
+Cluster 1411
+mja:MJ0203 1 350
+syn:SLR0838 1 341
+bsu:PURM 1 346
+eco:B2499 1 345
+
+Cluster 1412
+bsu:DACF 1 389
+eco:B2010 1 390
+eco:B0632 1 403
+eco:B0839 1 400
+
+Cluster 1413
+bsu:YTRE 1 231
+eco:B0495 1 228
+eco:B1117 1 228
+
+Cluster 1414
+eco:B0472 1 201
+bsu:RECR 1 198
+syn:SLR1426 1 232
+
+Cluster 1415
+syn:SLR0201 1 301
+mja:MJ0743 1 294
+mja:MJ0863 1 295
+
+Cluster 1416
+bsu:SODA 1 226
+eco:B3908 1 206
+eco:B1656 1 193
+syn:SLR1516 1 199
+
+Cluster 1417
+syn:SLL0817 1 303
+bsu:MIAA 1 314
+eco:B4171 1 316
+
+Cluster 1418
+mja:MJ0058 1 391
+mja:MJ1343 1 420
+bsu:NRGA 1 404
+eco:B0451 1 428
+syn:SLL0537 1 541
+syn:SLL1017 1 442
+syn:SLL0108 1 507
+
+Cluster 1419
+eco:B1711 1 326
+bsu:YVRB 1 353
+mja:MJ0087 1 349
+
+Cluster 1420
+mja:MJ0861 1 448
+syn:SLR0551 1 640
+bsu:YKQC 1 555
+bsu:YMFA 1 515
+
+Cluster 1421
+bsu:CLPQ 1 181
+eco:B3932 1 176
+
+Cluster 1422
+bsu:YHJL 1 441
+syn:SLR1666 1 385
+
+Cluster 1423
+eco:B1640 1 369
+syn:SLR1179 1 376
+
+Cluster 1424
+bsu:YCDI 1 231
+syn:SLR2044 1 289
+
+Cluster 1425
+eco:B0179 1 341
+syn:SLR0776 1 344
+
+Cluster 1426
+bsu:TAGH 1 527
+syn:SLR0982 1 430
+syn:SLR2108 1 371
+
+Cluster 1427
+syn:SLR1267 1 393
+eco:B0634 1 370
+bsu:YLAO 1 403
+bsu:SPOVE 1 366
+eco:B0089 1 414
+
+Cluster 1428
+bsu:YVDM 1 226
+eco:B1317 1 219
+
+Cluster 1429
+mja:MJ0640 1 324
+syn:SLL0787 1 322
+
+Cluster 1430
+bsu:MURC 1 432
+eco:B0091 1 491
+syn:SLR1423 1 505
+
+Cluster 1431
+mja:MJ1578 1 259
+syn:SLR0239 1 264
+
+Cluster 1432
+eco:B1236 1 302
+eco:B2042 1 297
+bsu:YTDA 1 272
+mja:MJ1334 1 283
+bsu:YNGB 1 297
+bsu:GTAB 1 292
+
+Cluster 1433
+bsu:YFHF 1 303
+eco:B2304 1 297
+syn:SLR1223 1 339
+
+Cluster 1434
+bsu:MSMR 1 344
+eco:B3075 1 327
+
+Cluster 1435
+bsu:PBPB 1 716
+bsu:SPOVD 1 645
+eco:B0084 1 588
+syn:SLL1833 1 607
+
+Cluster 1436
+eco:B2476 1 237
+mja:MJ1592 1 242
+bsu:PURC 1 241
+syn:SLR1226 1 264
+
+Cluster 1437
+syn:SLL1572 1 458
+bsu:DNAE(3) 726 1115
+eco:B0184(3) 756 1160
+
+Cluster 1438
+mja:MJ0143 1 392
+syn:SLR1808 1 463
+bsu:HEMA 1 455
+eco:B1210 1 418
+
+Cluster 1439
+bsu:SPOVR 1 468
+eco:B1188 1 510
+
+Cluster 1440
+bsu:YWDJ 1 460
+eco:B0513 1 435
+
+Cluster 1441
+bsu:YUSB 1 222
+eco:B0198 1 217
+
+Cluster 1442
+bsu:YBAL 1 352
+mja:MJ0283 1 290
+eco:B2113(2) 96 379
+syn:SLR0067(2) 77 353
+
+Cluster 1443
+mja:MJ1000 1 416
+bsu:HISS 1 424
+eco:B2514 1 424
+syn:SLR0357 1 447
+
+Cluster 1444
+eco:B3635 1 269
+bsu:MUTM 1 278
+syn:SLR1689 1 287
+
+Cluster 1445
+bsu:ALSR 1 302
+eco:B1595 1 297
+
+Cluster 1446
+syn:SLL1144 1 305
+bsu:YLXA 1 311
+eco:B0082 1 313
+
+Cluster 1447
+eco:B2052 1 321
+syn:SLL1213 1 312
+
+Cluster 1448
+eco:B1090 1 346
+bsu:PLSX 1 333
+syn:SLR1510 1 348
+
+Cluster 1449
+bsu:YHDT 1 461
+bsu:YUGS 1 434
+bsu:YHDP 1 444
+bsu:YQHB 1 442
+bsu:YRKA 1 434
+eco:B4218 1 447
+syn:SLL0260 1 448
+
+Cluster 1450
+eco:B2955 1 378
+bsu:HEMN 1 366
+syn:SLL1917 1 412
+
+Cluster 1451
+mja:MJ0291 1 409
+syn:SLR2102 1 504
+bsu:FTSY 1 329
+eco:B3464 1 497
+
+Cluster 1452
+syn:SLL0833 1 371
+eco:B1245 1 302
+bsu:APPC 1 303
+bsu:OPPC 1 305
+bsu:DPPC 1 320
+eco:B1485 1 298
+eco:B0832 1 303
+eco:B3542 1 300
+
+Cluster 1453
+mja:MJ0796 1 235
+mja:MJ1508 1 224
+bsu:YVRO 1 185
+eco:B0879(1) 1 243
+bsu:YKNY 1 230
+syn:SLR0544 1 266
+
+Cluster 1454
+mja:MJ1502 1 324
+syn:SLR0050 1 326
+bsu:YQJK 1 307
+eco:B2268 1 311
+
+Cluster 1455
+eco:B2594 1 326
+bsu:YLYB 1 273
+syn:SLR1629 1 327
+
+Cluster 1456
+syn:SLR0526 1 260
+bsu:PANB 1 277
+eco:B0134 1 264
+
+Cluster 1457
+eco:B3958 1 334
+mja:MJ1096 1 375
+bsu:ARGC 1 346
+syn:SLL0080 1 351
+
+Cluster 1458
+eco:B3426 1 501
+bsu:GLPD 1 555
+syn:SLL1085 1 553
+
+Cluster 1459
+bsu:YUFM 1 235
+eco:B4124 1 239
+
+Cluster 1460
+mja:MJ0937 1 444
+syn:SLR1159 1 419
+bsu:PURD 1 422
+eco:B4005 1 429
+
+Cluster 1461
+mja:MJ1555 1 438
+bsu:ASNS 1 430
+eco:B0930 1 466
+syn:SLL0495 1 513
+
+Cluster 1462
+syn:SLR1755 1 330
+bsu:GPSA 1 345
+eco:B3608 1 339
+
+Cluster 1463
+mja:MJ0486 1 322
+bsu:YTQA 1 322
+eco:B3211 1 309
+
+Cluster 1464
+eco:B2751 1 475
+mja:MJ0324 1 428
+
+Cluster 1465
+bsu:DHBA 1 261
+eco:B0596 1 248
+
+Cluster 1466
+bsu:APPB 1 317
+syn:SLL0312 1 337
+eco:B1244 1 306
+bsu:OPPB 1 311
+bsu:DPPB 1 308
+eco:B3477 1 314
+eco:B0831 1 306
+eco:B1486 1 340
+eco:B3543 1 339
+
+Cluster 1467
+bsu:YRAM 1 367
+eco:B0769 1 350
+
+Cluster 1468
+syn:SLR1176 1 439
+bsu:GLGC 1 380
+eco:B3430 1 431
+
+Cluster 1469
+bsu:GBSB 1 403
+eco:B2453 1 404
+eco:B2799 1 383
+eco:B3589 1 382
+
+Cluster 1470
+eco:B2264 1 556
+bsu:MEND 1 580
+syn:SLL0603 1 595
+
+Cluster 1471
+mja:MJ0965 1 253
+syn:SLL0378 1 263
+eco:B3368(2) 212 457
+bsu:NASF 1 483
+bsu:YLND 1 257
+
+Cluster 1472
+eco:B0181 1 262
+syn:SLL0379 1 295
+
+Cluster 1473
+eco:B0339 1 219
+syn:SLR1347 1 311
+
+Cluster 1474
+eco:B4044 1 459
+syn:SLR1543 1 472
+
+Cluster 1475
+bsu:YTGB 1 250
+syn:SLL1599 1 260
+
+Cluster 1476
+bsu:YURK 1 242
+eco:B3375 1 265
+
+Cluster 1477
+bsu:YURG 1 416
+mja:MJ0959 1 385
+syn:SLL1559 1 384
+
+Cluster 1478
+syn:SLL1249(1) 1 288
+bsu:PANC 1 286
+eco:B0133 1 283
+
+Cluster 1479
+bsu:CHEA 1 671
+eco:B1888 1 654
+syn:SLL1296(1) 1 778
+syn:SLR0322(1) 1 774
+syn:SLL0043(1) 611 1252
+
+Cluster 1480
+bsu:YDED 1 319
+eco:B3660 1 307
+
+Cluster 1481
+mja:MJ1372 1 280
+eco:B0174 1 253
+bsu:YLUA 1 260
+syn:SLL0506 1 249
+
+Cluster 1482
+bsu:FTSE 1 228
+eco:B3463 1 222
+
+Cluster 1483
+eco:B3835 1 546
+syn:SLR1919 1 566
+syn:SLL0005 1 681
+syn:SLL1770 1 585
+syn:SLL0095 1 567
+
+Cluster 1484
+mja:MJ1425 1 344
+bsu:YJMC 1 337
+eco:B0517 1 349
+
+Cluster 1485
+bsu:MMR 1 466
+eco:B2077 1 471
+eco:B3754 1 475
+
+Cluster 1486
+bsu:GLTA(1) 1 1183
+eco:B3212(1) 1 1205
+mja:MJ1351 166 510
+syn:SLL1502(1) 1 1217
+syn:SLL1499(1) 1 1234
+
+Cluster 1487
+bsu:YODS 1 229
+eco:B2221 1 220
+
+Cluster 1488
+syn:SLR0070 1 330
+bsu:FMT 1 317
+eco:B3288 1 315
+
+Cluster 1489
+bsu:YWBM 1 385
+eco:B1018 1 375
+
+Cluster 1490
+bsu:SQHC 1 556
+syn:SLR2089 1 647
+
+Cluster 1491
+mja:MJ1597 1 429
+eco:B2551 1 417
+bsu:GLYA 1 415
+syn:SLL1931 1 427
+
+Cluster 1492
+syn:SLL1005 1 269
+bsu:YABN 1 489
+eco:B2781 1 263
+
+Cluster 1493
+eco:B1277 1 196
+bsu:RIBA(2) 203 398
+syn:SLL1894(2) 206 556
+
+Cluster 1494
+syn:SLL1470 1 468
+bsu:LEUC 1 472
+eco:B0072 1 466
+mja:MJ0499 1 424
+mja:MJ1003 1 420
+
+Cluster 1495
+mja:MJ1652(1) 1 649
+syn:SLR2058 1 898
+bsu:TOPA(1) 1 596
+eco:B1274(1) 1 637
+
+Cluster 1496
+eco:B3146 1 286
+bsu:YABC 1 292
+syn:SLL0818 1 279
+
+Cluster 1497
+bsu:FLIG 1 338
+eco:B1939 1 331
+
+Cluster 1498
+mja:MJ0108 1 447
+eco:B1854 1 480
+syn:SLL0587 1 483
+eco:B1676 1 470
+bsu:PYKA 1 585
+syn:SLL1275 1 591
+
+Cluster 1499
+bsu:YRPE 1 251
+eco:B1973 1 216
+
+Cluster 1500
+bsu:YFHQ 1 369
+eco:B2961 1 350
+
+Cluster 1501
+eco:B0366 1 255
+bsu:YGAL 1 274
+mja:MJ0412 1 267
+syn:SLL1082 1 266
+
+Cluster 1502
+bsu:YCGA 1 396
+eco:B2298 1 513
+
+Cluster 1503
+mja:MJ1391 1 418
+bsu:YKRV 1 398
+bsu:YWFG 1 399
+syn:SLL0938 1 391
+eco:B2379 1 412
+syn:SLL0006 1 394
+
+Cluster 1504
+eco:B1638 1 218
+syn:SLL1440 1 230
+
+Cluster 1505
+syn:SLL1463 1 628
+syn:SLR1604 1 616
+syn:SLR1390 1 665
+syn:SLR0228 1 627
+bsu:FTSH 1 637
+eco:B3178 1 644
+mja:MJ1156(1) 1 406
+
+Cluster 1506
+mja:MJ0641 1 417
+eco:B2926 1 387
+bsu:PGK 1 394
+syn:SLR0394 1 374
+
+Cluster 1507
+eco:B4033 1 514
+bsu:YVFL 1 418
+bsu:YVDH 1 435
+
+Cluster 1508
+eco:B2048 1 456
+mja:MJ0399 1 449
+
+Cluster 1509
+mja:MJ1058 1 609
+syn:SLL1178 1 615
+
+Cluster 1510
+bsu:YJME 1 359
+eco:B4322 1 394
+
+Cluster 1511
+eco:B2566 1 301
+bsu:BEX 1 301
+syn:SLR0321 1 315
+
+Cluster 1512
+bsu:YUFT 1 774
+syn:SLL1732 1 615
+syn:SLL0026 1 634
+eco:B2278 1 613
+syn:SLR0844 1 681
+
+Cluster 1513
+bsu:YYAJ 1 451
+eco:B1769 1 452
+eco:B1775 1 459
+
+Cluster 1514
+bsu:QCRB 1 224
+syn:SLR0342 1 222
+
+Cluster 1515
+eco:B0149 1 844
+bsu:YWHE 1 647
+syn:SLR1710 1 749
+syn:SLL1434 1 650
+syn:SLL0002 1 885
+bsu:PBPD 1 624
+bsu:PBPF 1 714
+bsu:PONA 1 914
+
+Cluster 1516
+bsu:TRPD 1 337
+mja:MJ0234 1 336
+eco:B1263 1 531
+syn:SLR1867 1 348
+
+Cluster 1517
+bsu:YYBQ 1 309
+mja:MJ0608 1 307
+
+Cluster 1518
+eco:B0121 1 288
+bsu:YWHF 1 276
+mja:MJ0313 1 293
+
+Cluster 1519
+eco:B1725 1 286
+syn:SLR1563 1 295
+
+Cluster 1520
+eco:B0590 1 334
+bsu:FEUB 1 334
+bsu:FHUB 1 384
+bsu:YFMD 1 333
+bsu:YFIZ 1 333
+syn:SLR1316 1 343
+
+Cluster 1521
+syn:SLR1840 1 371
+eco:B0514 1 381
+bsu:YXAA 1 382
+eco:B3124 1 408
+
+Cluster 1522
+eco:B2049(1) 1 363
+syn:SLL1370 1 367
+
+Cluster 1523
+bsu:YVEM 1 598
+mja:MJ1061 1 333
+
+Cluster 1524
+bsu:YVCJ 1 295
+eco:B3205 1 284
+
+Cluster 1525
+bsu:GALE 1 339
+eco:B0759 1 338
+syn:SLR1067 1 340
+syn:SLL0244 1 338
+
+Cluster 1526
+eco:B2367 1 512
+eco:B2686 1 512
+bsu:LMRB 1 479
+bsu:YCNB 1 472
+bsu:YHCA 1 532
+
+Cluster 1527
+eco:B1812 1 453
+syn:SLR1979 1 485
+syn:SLR0738 1 508
+mja:MJ1075 1 474
+bsu:PABB 1 470
+bsu:TRPE 1 515
+
+Cluster 1528
+bsu:MURF 1 457
+eco:B0086 1 452
+syn:SLR1351 1 454
+
+Cluster 1529
+eco:B2478 1 292
+mja:MJ0244 1 289
+bsu:DAPA 1 290
+syn:SLR0550 1 301
+
+Cluster 1530
+mja:MJ0964 1 680
+syn:SLR0697(1) 1 742
+
+Cluster 1531
+bsu:YVFQ 1 269
+syn:SLR0440 1 267
+
+Cluster 1532
+eco:B2025 1 258
+bsu:HISF 1 252
+mja:MJ0411 1 272
+syn:SLL1893 1 261
+
+Cluster 1533
+bsu:YQHK 1 488
+bsu:YQHJ 1 448
+eco:B2903 1 957
+syn:SLR0293 1 983
+
+Cluster 1534
+syn:SLL1198 1 231
+bsu:TRMD 1 243
+eco:B2607 1 255
+
+Cluster 1535
+bsu:YPLQ 1 213
+eco:B2899 1 219
+
+Cluster 1536
+mja:MJ1421 1 443
+syn:SLL1501 1 482
+
+Cluster 1537
+eco:B1093 1 244
+bsu:FABG 1 246
+syn:SLR0886 1 247
+
+Cluster 1538
+eco:B4288 1 318
+bsu:FEUC 1 394
+bsu:FHUG 1 336
+bsu:YFHA 1 343
+bsu:YFME 1 333
+syn:SLR1317 1 349
+
+Cluster 1539
+bsu:YDER(2) 94 395
+eco:B2681 1 305
+
+Cluster 1540
+syn:SLR2136 1 403
+bsu:YQFY 1 377
+eco:B2515 1 372
+
+Cluster 1541
+mja:MJ0564 1 892
+syn:SLL0362 1 877
+bsu:ALAS 1 878
+eco:B2697 1 876
+
+Cluster 1542
+eco:B1232 1 280
+bsu:YKKE 1 300
+syn:SLL0070 1 284
+
+Cluster 1543
+mja:MJ1298 1 372
+syn:SLR0917 1 437
+eco:B3617 1 398
+bsu:KBL 1 392
+bsu:BIOF 1 389
+
+Cluster 1544
+syn:SLL0430 1 658
+bsu:HTPG 1 626
+eco:B0473 1 624
+
+Cluster 1545
+mja:MJ1048 1 726
+syn:SLL0830 1 669
+syn:SLR1463 1 695
+eco:B3340 1 704
+bsu:FUS 1 692
+syn:SLL1098 1 691
+
+Cluster 1546
+eco:B3439 1 231
+syn:SLL1773 1 232
+
+Cluster 1547
+eco:B0837 1 371
+syn:SLR1608 1 412
+
+Cluster 1548
+bsu:CCPA 1 334
+eco:B3934 1 341
+
+Cluster 1549
+eco:B1483 1 308
+eco:B3540 1 334
+bsu:OPPF 1 305
+eco:B1247 1 334
+bsu:APPF 1 329
+bsu:YKFD 1 327
+eco:B2180(2) 309 529
+eco:B0829(2) 323 612
+syn:SLL1927(2) 385 650
+
+Cluster 1550
+eco:B2253 1 390
+bsu:SPSC 1 389
+mja:MJ1066 1 386
+syn:SLR1615 1 378
+syn:SLR2114 1 345
+
+Cluster 1551
+syn:SLR1536 1 478
+bsu:RECQ 1 496
+bsu:YOCI 1 591
+eco:B3822 1 610
+
+Cluster 1552
+bsu:PROB 1 365
+bsu:PROJ 1 371
+eco:B0242 1 367
+syn:SLR2035 1 375
+
+Cluster 1553
+eco:B2730 1 322
+mja:MJ0676 1 335
+syn:SLL1462 1 345
+
+Cluster 1554
+mja:MJ1411 1 463
+bsu:YFMT 1 485
+bsu:ALDY 1 485
+eco:B1525 1 470
+syn:SLR0370 1 454
+bsu:YCBD 1 488
+bsu:IOLA 1 487
+eco:B1415 1 479
+bsu:YCNH 1 462
+eco:B2661 1 482
+eco:B1444 1 474
+eco:B3588 1 542
+eco:B0312 1 490
+eco:B1300 1 495
+bsu:GBSA 1 490
+bsu:DHAS 1 495
+eco:B1385 1 500
+
+Cluster 1555
+syn:SLL0834 1 564
+syn:SLR0096 1 556
+bsu:YVDB 1 530
+eco:B1206 1 550
+
+Cluster 1556
+eco:B1737 1 452
+bsu:YDHO 1 442
+bsu:YWBA 1 444
+bsu:LICC 1 452
+
+Cluster 1557
+bsu:YXJE 1 216
+eco:B2222 1 216
+
+Cluster 1558
+syn:SLL0844 1 358
+bsu:YRRA 1 312
+eco:B1133 1 383
+
+Cluster 1559
+eco:B2564 1 243
+syn:SLR1779 1 221
+
+Cluster 1560
+mja:MJ1319 1 492
+bsu:YHDH 1 451
+bsu:YOCR 1 445
+
+Cluster 1561
+eco:B2905 1 364
+bsu:YQHI 1 362
+syn:SLL0171 1 372
+
+Cluster 1562
+eco:B2517 1 384
+bsu:YLON 1 363
+syn:SLL0098 1 350
+
+Cluster 1563
+bsu:AROB 1 362
+eco:B3389 1 362
+syn:SLR2130 1 361
+
+Cluster 1564
+bsu:CHEB 1 357
+eco:B1883 1 349
+
+Cluster 1565
+eco:B1249 1 486
+bsu:YWNE 1 482
+bsu:YWIE 1 500
+
+Cluster 1566
+bsu:FTSA 1 440
+eco:B0094 1 420
+
+Cluster 1567
+bsu:UNG 1 225
+eco:B2580 1 229
+
+Cluster 1568
+bsu:YQXC 1 269
+syn:SLR0950 1 274
+
+Cluster 1569
+eco:B0403 1 605
+bsu:YVDF 1 589
+syn:SLL0842 1 508
+
+Cluster 1570
+eco:B3213 1 472
+eco:B2468(2) 186 659
+eco:B2887(2) 186 644
+bsu:GLTB 1 493
+syn:SLL1027 1 494
+
+Cluster 1571
+bsu:YWBN 1 416
+eco:B1019 1 423
+
+Cluster 1572
+bsu:SDHA 1 586
+mja:MJ0033 1 539
+eco:B4154 1 602
+eco:B0723 1 588
+syn:SLR1233 1 575
+
+Cluster 1573
+syn:SLR2094 1 345
+bsu:YWJI 1 321
+eco:B2930 1 321
+eco:B3925 1 336
+
+Cluster 1574
+eco:B4269 1 353
+syn:SLR1192 1 336
+bsu:ADHA 1 349
+eco:B0325 1 349
+
+Cluster 1575
+syn:SLL0861 1 305
+bsu:YBBI 1 304
+eco:B2428 1 298
+
+Cluster 1576
+bsu:YTTI 1 262
+eco:B2316 1 304
+syn:SLL0336 1 326
+
+Cluster 1577
+bsu:METB 1 224
+eco:B4013 1 309
+
+Cluster 1578
+bsu:YQIQ 1 301
+eco:B0331 1 296
+
+Cluster 1579
+eco:B1288 1 262
+bsu:YJBW 1 269
+syn:SLR1051 1 278
+
+Cluster 1580
+mja:MJ1431 1 359
+syn:SLL1659 1 392
+
+Cluster 1581
+bsu:HEME 1 353
+eco:B3997 1 354
+syn:SLR0536 1 350
+
+Cluster 1582
+bsu:KDUD 1 254
+eco:B2842 1 253
+
+Cluster 1583
+bsu:YBBF 1 446
+eco:B2429 1 474
+
+Cluster 1584
+mja:MJ0454 1 329
+bsu:YKRS 1 353
+syn:SLR1938 1 351
+
+Cluster 1585
+eco:B3011 1 387
+bsu:YUGK 1 390
+bsu:YUGJ 1 387
+
+Cluster 1586
+bsu:YVSH 1 469
+eco:B1605 1 460
+
+Cluster 1587
+bsu:PTA 1 323
+eco:B2297 1 714
+syn:SLR2132 1 697
+
+Cluster 1588
+bsu:YFNH 1 254
+syn:SLR0983 1 256
+
+Cluster 1589
+bsu:SIGL 1 436
+eco:B3202 1 477
+
+Cluster 1590
+eco:B3015 1 413
+mja:MJ1155 1 603
+
+Cluster 1591
+eco:B3706 1 454
+bsu:THDF 1 459
+syn:SLL1615 1 456
+
+Cluster 1592
+eco:B1896 1 474
+syn:SLL1566 1 499
+
+Cluster 1593
+bsu:FLIP 1 221
+eco:B1948 1 245
+
+Cluster 1594
+syn:SLR1129 1 674
+eco:B1084 1 464
+eco:B3247 1 495
+
+Cluster 1595
+bsu:RPH 1 245
+eco:B3643 1 228
+
+Cluster 1596
+eco:B0774 1 429
+bsu:BIOA 1 448
+mja:MJ1300 1 464
+
+Cluster 1597
+bsu:MTLD 1 366
+eco:B3600 1 382
+
+Cluster 1598
+bsu:YVDK 1 757
+eco:B1316 1 755
+
+Cluster 1599
+eco:B0150 1 747
+syn:SLL1406 1 828
+syn:SLL1409 1 863
+syn:SLR1490 1 853
+
+Cluster 1600
+mja:MJ0555 1 350
+eco:B3898 1 356
+bsu:YSDC 1 361
+bsu:YTOP 1 357
+
+Cluster 1601
+bsu:YRRU 1 231
+eco:B0159 1 232
+
+Cluster 1602
+eco:B2414 1 323
+syn:SLR1842 1 331
+bsu:CYSK 1 308
+bsu:YTKP 1 311
+
+Cluster 1603
+bsu:YUTB 1 268
+syn:SLL0868 1 303
+eco:B0628 1 321
+syn:SLR1598 1 289
+
+Cluster 1604
+eco:B1706 1 478
+syn:SLL1464 1 477
+
+Cluster 1605
+bsu:METS(1) 1 506
+syn:SLR0649 1 532
+eco:B2114(1) 1 514
+mja:MJ1263(1) 1 493
+
+Cluster 1606
+syn:SLR0542 1 198
+syn:SLL0534 1 226
+bsu:CLPP 1 197
+eco:B0437 1 207
+
+Cluster 1607
+eco:B1917 1 250
+bsu:YCKI 1 247
+bsu:HISP 1 259
+bsu:YXEO 1 249
+
+Cluster 1608
+mja:MJ0186 1 402
+bsu:ARGJ 1 406
+syn:SLL1883 1 419
+
+Cluster 1609
+bsu:DEOD 1 233
+eco:B4384 1 239
+
+Cluster 1610
+bsu:FOLD 1 283
+eco:B0529 1 288
+syn:SLL0753 1 294
+
+Cluster 1611
+syn:SLL0377(1) 1 544
+bsu:MFD(1) 1 512
+eco:B1114(1) 1 497
+
+Cluster 1612
+eco:B0032 1 382
+syn:SLL1498 1 424
+mja:MJ1019 1 354
+bsu:CARA 1 353
+bsu:PYRAA 1 364
+
+Cluster 1613
+eco:B0333 1 389
+bsu:MMGD 1 372
+bsu:CITZ 1 372
+syn:SLL0401 1 397
+
+Cluster 1614
+eco:B1496 1 561
+syn:SLL0182 1 661
+
+Cluster 1615
+syn:SLR1735 1 252
+bsu:GLNQ 1 242
+eco:B0652 1 241
+eco:B3271 1 252
+bsu:YQIZ 1 240
+eco:B0809 1 240
+
+Cluster 1616
+bsu:YRVN 1 421
+eco:B0892 1 447
+
+Cluster 1617
+bsu:YCLF 1 492
+eco:B1634 1 500
+eco:B3496 1 489
+
+Cluster 1618
+syn:SLL1520 1 584
+bsu:RECN 1 576
+eco:B2616 1 553
+
+Cluster 1619
+syn:SLL2001 1 508
+bsu:YUIE 1 500
+eco:B4260 1 503
+
+Cluster 1620
+syn:SLL1721 1 324
+bsu:PDHB 1 325
+bsu:BFMBAB 1 327
+
+Cluster 1621
+bsu:ILVA 1 422
+eco:B3772 1 514
+syn:SLR2072 1 508
+
+Cluster 1622
+bsu:NADB 1 531
+eco:B2574 1 540
+syn:SLL0631 1 553
+
+Cluster 1623
+eco:B0095 1 383
+bsu:FTSZ 1 382
+syn:SLL1633 1 430
+mja:MJ0370 1 364
+mja:MJ0622 1 403
+
+Cluster 1624
+bsu:RBSB 1 305
+eco:B3751 1 296
+
+Cluster 1625
+bsu:YFKL 1 396
+eco:B1690 1 404
+eco:B1691 1 423
+
+Cluster 1626
+bsu:ACKA 1 395
+syn:SLL1299 1 413
+eco:B2296 1 400
+eco:B3115 1 406
+
+Cluster 1627
+bsu:YDGK 1 402
+eco:B2182 1 396
+
+Cluster 1628
+eco:B3870 1 469
+syn:SLR1756 1 473
+bsu:GLNA 1 444
+mja:MJ1346 1 454
+
+Cluster 1629
+eco:B0695(1) 1 373
+syn:SLR1731 1 370
+
+Cluster 1630
+eco:B0381 1 364
+bsu:DDLA 1 354
+syn:SLR1874 1 354
+
+Cluster 1631
+bsu:YURC 1 745
+eco:B2866 1 752
+eco:B2881 1 956
+
+Cluster 1632
+eco:B2020 1 434
+syn:SLR1848 1 434
+bsu:HISD 1 427
+mja:MJ1456 1 429
+
+Cluster 1633
+bsu:FLHB 1 360
+eco:B1880 1 382
+
+Cluster 1634
+syn:SLL1358 1 394
+bsu:YOAN 1 392
+bsu:YVRK 1 385
+
+Cluster 1635
+eco:B0660 1 359
+bsu:PHOH 1 319
+syn:SLR2047 1 328
+
+Cluster 1636
+bsu:PRKA 1 631
+eco:B1783 1 644
+
+Cluster 1637
+bsu:YJMG 1 422
+eco:B4356 1 453
+
+Cluster 1638
+syn:SLR1392 1 614
+eco:B3409 1 773
+mja:MJ0566 1 668
+
+Cluster 1639
+bsu:OPUAB 1 282
+eco:B2678 1 354
+
+Cluster 1640
+bsu:PATB 1 387
+eco:B1622 1 390
+
+Cluster 1641
+bsu:ARGD 1 385
+eco:B1748 1 406
+eco:B3359 1 406
+mja:MJ0721 1 398
+syn:SLR1022 1 429
+
+Cluster 1642
+syn:SLL0467 1 366
+bsu:QUEA 1 342
+eco:B0405 1 356
+
+Cluster 1643
+eco:B2351 1 306
+syn:SLR1943 1 331
+bsu:YKCC 1 323
+syn:SLL0501 1 318
+
+Cluster 1644
+mja:MJ0160 1 472
+bsu:YERN 1 417
+syn:SLL1435 1 519
+
+Cluster 1645
+syn:SLR1250 1 271
+syn:SLL0684 1 266
+syn:SLL0683 1 269
+eco:B3725 1 257
+bsu:YQGJ 1 269
+bsu:YQGK 1 260
+mja:MJ1012 1 252
+
+Cluster 1646
+bsu:SPSJ 1 315
+syn:SLR0836 1 342
+eco:B2041 1 361
+eco:B3788 1 355
+
+Cluster 1647
+eco:B0521 1 297
+syn:SLL0573 1 308
+
+Cluster 1648
+bsu:YEEI 1 240
+eco:B1983 1 238
+
+Cluster 1649
+bsu:KDUI 1 275
+eco:B2843 1 278
+
+Cluster 1650
+syn:SLL1865 1 288
+bsu:PRFB 1 366
+eco:B2891 1 365
+
+Cluster 1651
+mja:MJ0669 1 367
+eco:B0797 1 454
+bsu:DEAD 1 479
+eco:B3162 1 646
+bsu:YDBR 1 511
+syn:SLR0083 1 492
+
+Cluster 1652
+eco:B0074 1 523
+bsu:LEUA 1 518
+syn:SLR0186 1 533
+mja:MJ0503 1 406
+mja:MJ1195 1 518
+mja:MJ1392 1 491
+
+Cluster 1653
+bsu:SERC 1 359
+eco:B0907 1 362
+
+Cluster 1654
+bsu:YVCT 1 325
+eco:B3553 1 328
+
+Cluster 1655
+bsu:YCCC 1 375
+eco:B2957 1 348
+
+Cluster 1656
+bsu:ARAB 1 560
+eco:B0063 1 566
+
+Cluster 1657
+bsu:LICT 1 277
+eco:B3723 1 278
+
+Cluster 1658
+mja:MJ0993 1 358
+eco:B2729 1 373
+syn:SLR1498 1 374
+
+Cluster 1659
+syn:SLL1076 1 972
+syn:SLL1614 1 905
+bsu:YLOB 1 890
+syn:SLR0822 1 953
+syn:SLL0672 1 945
+eco:B4242 1 898
+mja:MJ1226 1 805
+
+Cluster 1660
+eco:B0708 1 472
+syn:SLR0854 1 488
+
+Cluster 1661
+bsu:YQJS 1 293
+eco:B3974 1 316
+
+Cluster 1662
+eco:B2841 1 472
+eco:B2943 1 464
+bsu:YNCC 1 419
+bsu:YDJK 1 473
+bsu:YFIG 1 482
+bsu:YWTG 1 457
+bsu:YXCC 1 461
+
+Cluster 1663
+eco:B2312 1 505
+syn:SLL0757 1 495
+bsu:PURF 1 476
+mja:MJ0204 1 471
+
+Cluster 1664
+bsu:CYDD 1 575
+eco:B0886 1 573
+
+Cluster 1665
+eco:B4232 1 332
+syn:SLR0952 1 347
+
+Cluster 1666
+bsu:YCSN 1 300
+eco:B1647 1 298
+
+Cluster 1667
+bsu:LEVF 1 269
+eco:B1818 1 266
+
+Cluster 1668
+bsu:YHFP 1 330
+eco:B3253 1 324
+
+Cluster 1669
+bsu:YXER 1 370
+eco:B2452 1 408
+
+Cluster 1670
+bsu:DHBB 1 312
+eco:B0595 1 285
+
+Cluster 1671
+eco:B3787 1 420
+mja:MJ0428 1 427
+
+Cluster 1672
+bsu:YKOK 1 451
+syn:SLR1216 1 463
+
+Cluster 1673
+mja:MJ1420(3) 523 1102
+bsu:GLMS 1 600
+eco:B3729 1 609
+syn:SLL0220 1 631
+
+Cluster 1674
+mja:MJ1465 1 405
+bsu:THRC 1 352
+syn:SLL1172 1 382
+
+Cluster 1675
+syn:SLR0653 1 425
+bsu:SIGA 1 371
+eco:B3067 1 613
+
+Cluster 1676
+bsu:MURE 1 494
+eco:B0085 1 495
+syn:SLR0528 1 505
+
+Cluster 1677
+eco:B4335 1 390
+mja:MJ0007 1 373
+
+Cluster 1678
+mja:MJ0100(1) 1 387
+syn:SLR0689 1 398
+
+Cluster 1679
+syn:SLR1379 1 483
+bsu:CYDA 1 468
+eco:B0733 1 523
+eco:B0978 1 514
+
+Cluster 1680
+eco:B0173 1 398
+bsu:YLUB 1 388
+syn:SLL0019 1 394
+
+Cluster 1681
+eco:B0369 1 335
+mja:MJ0643 1 335
+bsu:HEMB 1 324
+syn:SLL1994 1 327
+
+Cluster 1682
+bsu:YFMJ 1 339
+eco:B1449 1 376
+
+Cluster 1683
+bsu:RUVB 1 254
+eco:B1860 1 336
+syn:SLL0613 1 361
+
+Cluster 1684
+syn:SLL0897 1 377
+bsu:DNAJ 1 372
+eco:B0015 1 376
+
+Cluster 1685
+syn:SLL0771 1 468
+bsu:ARAE 1 464
+eco:B4031 1 491
+
+Cluster 1686
+bsu:XYLB 1 499
+eco:B3564 1 484
+
+Cluster 1687
+syn:SLR0833(1) 1 386
+bsu:DNAC 1 454
+eco:B4052 1 471
+
+Cluster 1688
+mja:MJ0963 1 563
+syn:SLR0697(2) 743 1252
+
+Cluster 1689
+bsu:YYCB 1 402
+eco:B1791 1 393
+
+Cluster 1690
+bsu:ADHB 1 378
+eco:B0608 1 412
+
+Cluster 1691
+eco:B2511(1) 1 190
+bsu:YPHC(1) 1 167
+syn:SLR1974(1) 1 168
+
+Cluster 1692
+bsu:ACSA 1 572
+eco:B0335 1 628
+eco:B4069 1 652
+syn:SLL0542 1 653
+
+Cluster 1693
+syn:SLL0821(1) 1 863
+syn:SLL0267 1107 1578
+syn:SLR1305 371 840
+syn:SLR2077 1 732
+syn:SLR0359(3) 757 1244
+bsu:YKOW 1 749
+eco:B1285 1 661
+
+Cluster 1694
+bsu:CYDC 1 567
+eco:B0887 1 588
+
+Cluster 1695
+syn:SLL0373 1 433
+bsu:PROA 1 415
+eco:B0243 1 417
+
+Cluster 1696
+bsu:YVAA 1 358
+eco:B1624 1 359
+
+Cluster 1697
+syn:SLL1561(2) 466 990
+bsu:YCGN 1 515
+bsu:ROCA 1 515
+eco:B1014(2) 602 1320
+
+Cluster 1698
+mja:MJ0791 1 484
+eco:B3960 1 457
+bsu:ARGH 1 461
+syn:SLR1133 1 461
+
+Cluster 1699
+mja:MJ1160 1 434
+bsu:YERM 1 485
+syn:SLR0877 1 483
+
+Cluster 1700
+syn:SLL0899 1 456
+bsu:GCAD 1 456
+eco:B3730 1 456
+
+Cluster 1701
+bsu:YUSC 1 341
+eco:B0199 1 343
+
+Cluster 1702
+bsu:ACCA 1 325
+eco:B0185 1 319
+syn:SLL0728 1 326
+
+Cluster 1703
+mja:MJ0101 1 451
+syn:SLR1531 1 482
+bsu:FFH 1 446
+eco:B2610 1 453
+
+Cluster 1704
+bsu:LYTS 1 593
+eco:B2126 1 561
+
+Cluster 1705
+bsu:GLVA 1 449
+eco:B3681 1 212
+
+Cluster 1706
+eco:B0575 1 1047
+syn:SLR0794 1 1054
+bsu:YERP 1 1065
+syn:SLL0142 1 1075
+
+Cluster 1707
+syn:SLL1110 1 365
+bsu:PRFA 1 356
+eco:B1211 1 360
+
+Cluster 1708
+syn:SLL0865 1 626
+bsu:UVRC 1 598
+eco:B1913 1 588
+
+Cluster 1709
+eco:B3653 1 401
+syn:SLR1145 1 402
+
+Cluster 1710
+mja:MJ0484 1 495
+syn:SLR0618 1 527
+
+Cluster 1711
+eco:B0073 1 364
+bsu:LEUB 1 365
+syn:SLR1517 1 362
+
+Cluster 1712
+mja:MJ1026 1 438
+syn:SLR0118 1 459
+bsu:THIA 1 590
+eco:B3994 1 631
+
+Cluster 1713
+syn:SLR0615 1 580
+bsu:YHEI 1 585
+eco:B0448 1 590
+
+Cluster 1714
+bsu:PYRP 1 434
+eco:B2497 1 429
+
+Cluster 1715
+eco:B3251 1 367
+bsu:MREBH 1 335
+bsu:MREB 1 337
+
+Cluster 1716
+bsu:YSFC 1 470
+eco:B2979 1 499
+syn:SLL0404 1 492
+
+Cluster 1717
+bsu:YVBT 1 336
+eco:B3160 1 335
+
+Cluster 1718
+eco:B2463 1 759
+bsu:YTSJ 1 410
+syn:SLR0721 1 463
+
+Cluster 1719
+bsu:TOPB 1 727
+eco:B1763 1 653
+
+Cluster 1720
+bsu:LEVG 1 275
+eco:B1819 1 286
+
+Cluster 1721
+bsu:YQIB 1 448
+eco:B2509 1 456
+
+Cluster 1722
+eco:B2284 1 445
+syn:SLL1221 1 533
+
+Cluster 1723
+eco:B2436 1 299
+syn:SLL1185 1 340
+
+Cluster 1724
+bsu:KDGT 1 330
+eco:B3909 1 330
+
+Cluster 1725
+bsu:YULC 1 485
+eco:B3904 1 489
+
+Cluster 1726
+eco:B1062 1 348
+syn:SLR0406 1 342
+
+Cluster 1727
+syn:SLL1276 1 534
+eco:B0914 1 582
+bsu:YWJA 1 575
+bsu:YGAD 1 589
+bsu:YKNU 1 585
+bsu:YFIC 1 604
+bsu:YKNV 1 604
+
+Cluster 1728
+eco:B3189 1 419
+syn:SLR0017 1 438
+bsu:MURA 1 436
+bsu:MURZ 1 429
+
+Cluster 1729
+eco:B0401 1 439
+bsu:BRNQ 1 440
+bsu:BRAB 1 445
+
+Cluster 1730
+eco:B1380 1 329
+syn:SLR1556 1 333
+
+Cluster 1731
+eco:B2262 1 285
+bsu:MENB 1 271
+syn:SLL1127 1 275
+
+Cluster 1732
+eco:B0007 1 476
+bsu:YRBD 1 484
+bsu:YBGH 1 463
+bsu:ALST 1 465
+
+Cluster 1733
+bsu:ALSS 1 571
+syn:SLL1981 1 550
+
+Cluster 1734
+eco:B2786 1 918
+syn:SLR2098 441 1261
+
+Cluster 1735
+eco:B3702 1 467
+bsu:DNAA 1 446
+syn:SLL0848 1 447
+
+Cluster 1736
+bsu:YHXD 1 299
+eco:B3003 1 294
+
+Cluster 1737
+mja:MJ1480 1 423
+syn:SLL1336(2) 286 705
+
+Cluster 1738
+bsu:YUTK 1 404
+eco:B2161 1 416
+eco:B2164 1 416
+
+Cluster 1739
+bsu:LCFA 1 560
+eco:B1805 1 561
+
+Cluster 1740
+bsu:YYBF 1 404
+eco:B1596 1 417
+
+Cluster 1741
+eco:B2888 1 505
+bsu:YUNJ 1 449
+bsu:PBUX 1 438
+bsu:YUNK 1 430
+
+Cluster 1742
+bsu:TREP 1 470
+eco:B4240 1 473
+
+Cluster 1743
+bsu:YURH 1 412
+eco:B0516 1 411
+
+Cluster 1744
+bsu:YCNG 1 436
+eco:B1302 1 421
+eco:B2662 1 426
+
+Cluster 1745
+eco:B2660 1 444
+syn:SLL1495 1 397
+
+Cluster 1746
+bsu:YWOE 1 490
+eco:B0511 1 437
+
+Cluster 1747
+bsu:YUFL 1 533
+eco:B4125 1 543
+
+Cluster 1748
+syn:SLR0861 1 391
+eco:B1849 1 392
+bsu:PURT 1 384
+mja:MJ1486 1 393
+
+Cluster 1749
+bsu:YEBB 1 440
+mja:MJ0326 1 436
+eco:B3664 1 470
+eco:B3714 1 445
+
+Cluster 1750
+eco:B3560 1 303
+bsu:GLYQ 1 295
+syn:SLR0638 1 299
+
+Cluster 1751
+eco:B4389 1 460
+bsu:SMS 1 458
+syn:SLR0448 1 505
+
+Cluster 1752
+syn:SLR0963 1 635
+bsu:YVGQ 1 571
+eco:B2763 1 570
+
+Cluster 1753
+eco:B0526 1 461
+bsu:CYSS 1 466
+syn:SLR0958 1 483
+
+Cluster 1754
+bsu:YHEH 1 673
+eco:B0449 1 593
+
+Cluster 1755
+bsu:SMC(1) 1 846
+mja:MJ1643(1) 1 839
+syn:SLL1120(1) 1 861
+
+Cluster 1756
+bsu:FRUA(2) 159 635
+eco:B2167 1 563
+
+Cluster 1757
+eco:B3469 1 732
+bsu:YKVW 1 637
+syn:SLR0797 1 642
+
+Cluster 1758
+mja:MJ0232 1 427
+syn:SLR0752 1 432
+bsu:ENO 1 430
+eco:B2779 1 432
+
+Cluster 1759
+bsu:YDAP 1 574
+eco:B0871 1 572
+
+Cluster 1760
+bsu:MELA 1 432
+eco:B4119 1 451
+
+Cluster 1761
+bsu:YDAR 1 425
+eco:B2392 1 412
+
+Cluster 1762
+mja:MJ0603 1 445
+syn:SLL0017 1 411
+bsu:HEML 1 430
+eco:B0154 1 426
+
+Cluster 1763
+eco:B3935 1 732
+bsu:PRIA 1 805
+syn:SLL0270 1 831
+
+Cluster 1764
+eco:B1852 1 491
+bsu:YQJJ 1 489
+syn:SLR1843 1 509
+
+Cluster 1765
+eco:B2053 1 373
+syn:SLL1212 1 362
+
+Cluster 1766
+syn:SLR1165 1 390
+bsu:YITA 1 325
+bsu:YLNB 1 382
+
+Cluster 1767
+eco:B2501 1 688
+syn:SLL0290 1 728
+
+Cluster 1768
+eco:B3559 1 689
+bsu:GLYS 1 679
+syn:SLR0220 1 722
+
+Cluster 1769
+eco:B0873 1 552
+mja:MJ0765 1 548
+
+Cluster 1770
+bsu:PEPT 1 410
+eco:B1127 1 408
+
+Cluster 1771
+syn:SLL0927 1 409
+bsu:METK 1 400
+eco:B2942 1 384
+
+Cluster 1772
+bsu:OPUD 1 512
+eco:B0314 1 677
+
+Cluster 1773
+eco:B3771 1 605
+syn:SLR0452 1 561
+bsu:ILVD 1 558
+mja:MJ1276 1 561
+
+Cluster 1774
+syn:SLR1289 1 475
+bsu:CITC 1 423
+eco:B1136 1 416
+
+Cluster 1775
+eco:B3956 1 883
+syn:SLL0920 1 1034
+
+Cluster 1776
+syn:SLL2005(1) 1 437
+bsu:GRLB 1 627
+bsu:GYRB 1 638
+eco:B3699 1 804
+
+Cluster 1777
+eco:B0698 1 557
+syn:SLR1728 1 558
+
+Cluster 1778
+eco:B0890 616 1329
+bsu:SPOIIIE 1 787
+bsu:YTPT 1 702
+
+Cluster 1779
+eco:B1261 1 397
+bsu:TRPB 1 400
+mja:MJ1037 1 404
+syn:SLR0543 1 412
+
+Cluster 1780
+eco:B1095 1 413
+bsu:YJAY 1 413
+syn:SLL1069 1 416
+
+Cluster 1781
+bsu:YSHD 1 785
+syn:SLL1772 1 822
+
+Cluster 1782
+eco:B1101 1 477
+bsu:YBFS 1 475
+bsu:PTSG 1 515
+
+Cluster 1783
+syn:SLR0597 1 553
+bsu:PURH 1 512
+eco:B4006 1 529
+
+Cluster 1784
+bsu:NUPC 1 393
+eco:B2393 1 400
+
+Cluster 1785
+bsu:ANSB 1 475
+eco:B4139 1 493
+
+Cluster 1786
+bsu:BGLP 1 609
+eco:B3722 1 625
+
+Cluster 1787
+bsu:YJMI 1 480
+eco:B1521 1 483
+
+Cluster 1788
+mja:MJ1007 1 878
+eco:B4258 1 951
+bsu:VALS 1 880
+syn:SLR0557 1 910
+
+Cluster 1789
+eco:B3102 1 328
+syn:SLR0605 1 319
+
+Cluster 1790
+syn:SLR1137 1 551
+syn:SLR2082 1 544
+bsu:CTAD 1 622
+bsu:QOXB 1 649
+eco:B0431 1 663
+
+Cluster 1791
+syn:SLR1945 1 532
+bsu:PGM 1 511
+eco:B3612 1 514
+
+Cluster 1792
+syn:SLL1553(1) 1 149
+bsu:PHET(1) 1 148
+eco:B1713(1) 1 146
+
+Cluster 1793
+bsu:YHCL 1 463
+eco:B1729 1 463
+
+Cluster 1794
+mja:MJ0947 1 1039
+syn:SLL1362 1 988
+bsu:ILES 1 921
+eco:B0026 1 938
+
+Cluster 1795
+bsu:CLPY 1 467
+eco:B3931 1 443
+
+Cluster 1796
+bsu:YWDH 1 457
+syn:SLR0091 1 456
+
+Cluster 1797
+bsu:GABP 1 469
+eco:B2663 1 466
+
+Cluster 1798
+bsu:GID 1 435
+syn:SLL0204 1 456
+
+Cluster 1799
+bsu:GLTT 1 429
+eco:B4077 1 437
+
+Cluster 1800
+mja:MJ1388 1 415
+syn:SLL1234 1 425
+
+Cluster 1801
+bsu:YDBH 1 421
+eco:B3528 1 428
+
+Cluster 1802
+eco:B3867 1 459
+syn:SLL1876 1 466
+
+Cluster 1803
+bsu:YBBE 1 441
+eco:B2430 1 463
+
+Cluster 1804
+syn:SLR1672 1 495
+bsu:GLPK 1 496
+eco:B3926 1 502
+
+Cluster 1805
+bsu:RHO 1 427
+eco:B3783 1 419
+
+Cluster 1806
+bsu:PCKA 1 527
+eco:B3403 1 540
+
+Cluster 1807
+bsu:YQJR 1 448
+eco:B2366 1 442
+
+Cluster 1808
+bsu:LICH 1 442
+eco:B1734 1 450
+
+Cluster 1809
+eco:B2938 1 658
+syn:SLR1312 1 659
+syn:SLR0662 1 695
+
+Cluster 1810
+eco:B4375 1 529
+syn:SLR1228 1 547
+
+Cluster 1811
+syn:SLL0329 1 482
+bsu:GNTZ 1 468
+bsu:YQJI 1 406
+eco:B2029 1 468
+
+Cluster 1812
+eco:B3813 1 720
+bsu:YERF 1 739
+syn:SLL1143 1 793
+
+Cluster 1813
+bsu:YDCI 1 777
+eco:B3407 1 740
+
+Cluster 1814
+bsu:XYLA 1 445
+eco:B3565 1 440
+
+Cluster 1815
+eco:B1479 1 574
+bsu:MALS 1 566
+bsu:YWKA 1 582
+
+Cluster 1816
+bsu:CSTA 1 598
+eco:B0598 1 701
+eco:B4354 1 721
+
+Cluster 1817
+eco:B0438 1 424
+bsu:CLPX 1 420
+syn:SLL0535 1 445
+
+Cluster 1818
+bsu:DHBE 1 539
+eco:B0594 1 536
+
+Cluster 1819
+eco:B2890 1 505
+eco:B4129 1 505
+bsu:LYSS 1 499
+syn:SLR1550 1 510
+
+Cluster 1820
+bsu:YFLF 1 452
+eco:B0679 1 467
+
+Cluster 1821
+bsu:ILVB 1 574
+mja:MJ0277 1 591
+eco:B0077 1 604
+syn:SLR2088 1 621
+
+Cluster 1822
+eco:B3256 1 449
+syn:SLL0053 1 448
+bsu:ACCC 1 450
+mja:MJ1229 1 501
+
+Cluster 1823
+bsu:GLVC 1 527
+eco:B3683 1 455
+
+Cluster 1824
+bsu:CARB 1 1027
+bsu:PYRAB 1 1071
+eco:B0033 1 1073
+mja:MJ1378 1 482
+mja:MJ1381 1 618
+syn:SLL0370 1 1105
+
+Cluster 1825
+eco:B4296 1 449
+bsu:YOJA 1 444
+bsu:GNTP 1 448
+
+Cluster 1826
+bsu:YULE 1 424
+eco:B3903 1 419
+
+Cluster 1827
+bsu:YFKN(1) 1 653
+eco:B4213 1 647
+
+Cluster 1828
+eco:B3734 1 513
+bsu:ATPA 1 502
+syn:SLL1326 1 503
+
+Cluster 1829
+syn:SLR0018 1 466
+bsu:CITG 1 462
+eco:B1611 1 467
+
+Cluster 1830
+eco:B4208 1 470
+bsu:YDGF 1 458
+bsu:AAPA 1 459
+
+Cluster 1831
+eco:B0484 1 834
+bsu:YVGX 1 803
+syn:SLL1920 1 745
+
+Cluster 1832
+bsu:YJMA 1 473
+eco:B3092 1 470
+
+Cluster 1833
+syn:SLR0707 1 986
+bsu:POLA 1 880
+eco:B3863 1 928
+
+Cluster 1834
+bsu:ARAA 1 498
+eco:B0062 1 500
+
+Cluster 1835
+bsu:FLHA 1 677
+eco:B1879 1 692
+
+Cluster 1836
+bsu:YTNA 1 463
+eco:B0402 1 457
+
+Cluster 1837
+bsu:YBAR 1 478
+syn:SLR1229 1 498
+
+Cluster 1838
+eco:B1602 1 462
+syn:SLR1434 1 480
+
+Cluster 1839
+eco:B0260 1 475
+bsu:YBGF 1 470
+bsu:HUTM 1 475
+bsu:ROCC 1 470
+bsu:ROCE 1 467
+
+Cluster 1840
+bsu:YVFW 1 479
+eco:B0307 1 475
+
+Cluster 1841
+eco:B3650 1 702
+bsu:RELA 1 734
+syn:SLR1325 1 760
+
+Cluster 1842
+eco:B1866 1 590
+bsu:ASPS 1 592
+syn:SLR1720 1 599
+
+Cluster 1843
+bsu:MMGE 1 472
+eco:B0334 1 483
+
+Cluster 1844
+eco:B2733 1 853
+bsu:MUTS 1 858
+syn:SLL1165 1 912
+
+Cluster 1845
+syn:SLL1209 1 669
+bsu:YERG 1 668
+eco:B2411 1 671
+
+Cluster 1846
+eco:B2780 1 545
+mja:MJ1174 1 540
+bsu:CTRA 1 535
+syn:SLL1443 1 552
+
+Cluster 1847
+bsu:YJMJ 1 497
+eco:B3091 1 495
+
+Cluster 1848
+syn:SLL0202 1 635
+bsu:GIDA 1 628
+eco:B3741 1 629
+
+Cluster 1849
+bsu:YVFH 1 563
+eco:B2975 1 560
+eco:B3603 1 551
+
+Cluster 1850
+eco:B3498 1 680
+syn:SLR0659 1 713
+
+Cluster 1851
+bsu:MTLA 1 610
+eco:B3599 1 637
+
+Cluster 1852
+bsu:BGLH 1 481
+eco:B3721 1 470
+
+Cluster 1853
+bsu:GLGB 1 627
+eco:B3432 1 728
+syn:SLL0158 1 770
+
+Cluster 1854
+bsu:DNAK 1 611
+eco:B0014 1 638
+syn:SLL1932 1 788
+syn:SLL0170 1 636
+
+Cluster 1855
+bsu:YCBE 1 455
+eco:B2789 1 450
+
+Cluster 1856
+bsu:YBXG 1 462
+eco:B3795 1 461
+
+Cluster 1857
+bsu:XYNB 1 533
+eco:B0271 1 536
+
+Cluster 1858
+bsu:GLPT 1 444
+eco:B2240 1 452
+
+Cluster 1859
+eco:B3871 1 591
+bsu:YLAG 1 612
+syn:SLR1105 1 597
+
+Cluster 1860
+bsu:DHBF 1 1278
+eco:B0586(1) 1 1060
+
+Cluster 1861
+bsu:YCBF 1 455
+eco:B2787 1 446
+
+Cluster 1862
+bsu:TREA 1 561
+eco:B4239 1 551
+
+Cluster 1863
+eco:B0697 1 682
+syn:SLR1729 1 690
+
+Cluster 1864
+bsu:YCBH 1 510
+eco:B3128 1 523
+
+Cluster 1865
+bsu:BGLA 1 479
+eco:B2901 1 479
+
+Cluster 1866
+syn:SLL0616 1 932
+bsu:SECA 1 841
+eco:B0098 1 901
+
+Cluster 1867
+syn:SLR1265 1 626
+bsu:RPOC(1) 1 537
+eco:B3988(1) 1 626
+
+Cluster 1868
+bsu:YVGW 1 702
+syn:SLR0798 1 721
+
+Cluster 1869
+eco:B0642 1 860
+bsu:LEUS 1 804
+syn:SLL1074 1 869
+
+Cluster 1870
+bsu:KATB 1 686
+eco:B1732 1 753
+
+Cluster 1871
+mja:MJ0908 1 1232
+syn:SLR1211 1 1092
+
+Cluster 1872
+eco:B2569 1 599
+bsu:LEPA 1 612
+syn:SLR0604 1 603
+
+Cluster 1873
+syn:SLL0459 1 669
+bsu:UVRB 1 661
+eco:B0779 1 673
+
+Cluster 1874
+syn:SLR0417 1 860
+bsu:GYRA 1 821
+eco:B2231 1 875
+
+Cluster 1875
+eco:B2470 1 1037
+eco:B3514 1 1037
+eco:B0462 1 1049
+eco:B3266 1 1034
+syn:SLR2131 1 1061
+syn:SLR0369 1 1083
+
+Cluster 1876
+eco:B3942 1 726
+syn:SLL1987 1 754
+
+Cluster 1877
+bsu:CITB 1 909
+eco:B1276 1 891
+
+Cluster 1878
+syn:SLR1844 1 970
+bsu:UVRA 1 957
+eco:B4058 1 940
+
+Cluster 1879
+eco:B0118 1 865
+syn:SLR0665 1 868
+
+Cluster 1880
+bsu:NARG 1 1228
+eco:B1224 1 1247
+eco:B1468 1 1246
+

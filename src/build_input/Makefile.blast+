@@ -1,0 +1,32 @@
+NAME=myco
+#BLASTOPT=-searchsp 1000000000 -max_target_seqs 30000 -evalue 0.01 -use_sw_tback -outfmt 6 -num_threads 4
+BLASTOPT=-searchsp 1000000000 -max_target_seqs 30000 -evalue 0.01 -outfmt 6 -num_threads 4
+DOMCLUST_OPT=
+OSNAME=$(shell uname -m| sed 's/  */_/')
+BINDIR=../bin
+
+all:	$(NAME).hom $(NAME).gene
+
+$(NAME).pin:	$(NAME)
+	makeblastdb -in $< -dbtype prot
+
+$(NAME).blast:	$(NAME) $(NAME).pin
+	blastp -db $(NAME) -query $(NAME) $(BLASTOPT) -out $@
+
+$(NAME).hom:	$(NAME).blast
+	blast2homfile.pl -distconv $< > $@
+
+$(NAME).gene:	$(NAME)
+	fasta2genefile.pl $<
+
+clustering:	$(NAME).gene $(NAME).hom
+	$(BINDIR)/domclust $(DOMCLUST_OPT) $(NAME).hom $(NAME).gene| ../Script/addtit.pl -titfile=$(NAME).tit
+
+clusttree:      $(NAME).gene $(NAME).hom
+	$(BINDIR)/domclust $(DOMCLUST_OPT) $(NAME).hom $(NAME).gene -o1 | ../Script/addtit.pl -titfile=$(NAME).tit -format=tree > $(NAME).clusttree
+
+cleantmp:
+	-rm *.blast *.pin *.psq *.phr *.log 2> /dev/null
+
+clean:
+	-rm *.gene *.hom *.blast *.pin *.psq *.phr *.tit *.log 2> /dev/null

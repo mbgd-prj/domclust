@@ -1,0 +1,5343 @@
+([root]
+([cellular organisms]
+([Archaea]
+([Crenarchaeota]
+([Thermoprotei]
+([Desulfurococcales]
+([Desulfurococcaceae]
+([Aeropyrum]
+([Aeropyrum pernix]
+([Aeropyrum pernix K1]
+ape
+)))
+([Desulfurococcus]
+([Desulfurococcus kamchatkensis]
+([Desulfurococcus kamchatkensis 1221n]
+dka
+)))
+([Ignicoccus]
+([Ignicoccus hospitalis]
+([Ignicoccus hospitalis KIN4/I]
+iho
+)))
+([Staphylothermus]
+([Staphylothermus hellenicus]
+([Staphylothermus hellenicus DSM 12710]
+shc
+))
+([Staphylothermus marinus]
+([Staphylothermus marinus F1]
+smr
+)))
+([Thermosphaera]
+([Thermosphaera aggregans]
+([Thermosphaera aggregans DSM 11486]
+tag
+))))
+([Pyrodictiaceae]
+([Hyperthermus]
+([Hyperthermus butylicus]
+([Hyperthermus butylicus DSM 5456]
+hbu
+)))))
+([Sulfolobales]
+([Sulfolobaceae]
+([Metallosphaera]
+([Metallosphaera sedula]
+([Metallosphaera sedula DSM 5348]
+mse
+)))
+([Sulfolobus]
+([Sulfolobus acidocaldarius]
+([Sulfolobus acidocaldarius DSM 639]
+sai
+))
+([Sulfolobus islandicus]
+([Sulfolobus islandicus L.D.8.5]
+sii
+)
+([Sulfolobus islandicus L.S.2.15]
+sis
+)
+([Sulfolobus islandicus M.14.25]
+sia
+)
+([Sulfolobus islandicus M.16.27]
+sim
+)
+([Sulfolobus islandicus M.16.4]
+sid
+)
+([Sulfolobus islandicus Y.G.57.14]
+siy
+)
+([Sulfolobus islandicus Y.N.15.51]
+sin
+))
+([Sulfolobus solfataricus]
+([Sulfolobus solfataricus P2]
+sso
+))
+([Sulfolobus tokodaii]
+([Sulfolobus tokodaii 7]
+sto
+)))))
+([Thermoproteales]
+([Thermofilaceae]
+([Thermofilum]
+([Thermofilum pendens]
+([Thermofilum pendens Hrk 5]
+tpe
+))))
+([Thermoproteaceae]
+([Caldivirga]
+([Caldivirga maquilingensis]
+([Caldivirga maquilingensis IC-167]
+cma
+)))
+([Pyrobaculum]
+([Pyrobaculum aerophilum]
+([Pyrobaculum aerophilum IM2]
+pai
+))
+([Pyrobaculum arsenaticum]
+([Pyrobaculum arsenaticum DSM 13514]
+pas
+))
+([Pyrobaculum calidifontis]
+([Pyrobaculum calidifontis JCM 11548]
+pcl
+))
+([Pyrobaculum islandicum]
+([Pyrobaculum islandicum DSM 4184]
+pis
+)))
+([Thermoproteus]
+([Thermoproteus neutrophilus]
+([Thermoproteus neutrophilus V24Sta]
+tne
+)))))))
+([Euryarchaeota]
+([Archaeoglobi]
+([Archaeoglobales]
+([Archaeoglobaceae]
+([Archaeoglobus]
+([Archaeoglobus fulgidus]
+([Archaeoglobus fulgidus DSM 4304]
+afu
+))
+([Archaeoglobus profundus]
+([Archaeoglobus profundus DSM 5631]
+apo
+)))
+([Ferroglobus]
+([Ferroglobus placidus]
+([Ferroglobus placidus DSM 10642]
+fpl
+))))))
+([Halobacteria]
+([Halobacteriales]
+([Halobacteriaceae]
+([Haloarcula]
+([Haloarcula marismortui]
+([Haloarcula marismortui ATCC 43049]
+hma
+)))
+([Halobacterium]
+([Halobacterium salinarum]
+([Halobacterium salinarum R1; DSM 671]
+hsl
+)
+([Halobacterium sp. NRC-1]
+hal
+)))
+([Haloferax]
+([Haloferax volcanii]
+([Haloferax volcanii DS2]
+hvo
+)))
+([Halomicrobium]
+([Halomicrobium mukohataei]
+([Halomicrobium mukohataei DSM 12286]
+hmu
+)))
+([Haloquadratum]
+([Haloquadratum walsbyi]
+([Haloquadratum walsbyi DSM 16790 : HBSQ001]
+hwa
+)))
+([Halorhabdus]
+([Halorhabdus utahensis]
+([Halorhabdus utahensis DSM 12940]
+hut
+)))
+([Halorubrum]
+([Halorubrum lacusprofundi]
+([Halorubrum lacusprofundi ATCC 49239]
+hla
+)))
+([Haloterrigena]
+([Haloterrigena turkmenica]
+([Haloterrigena turkmenica DSM 5511]
+htu
+)))
+([Natrialba]
+([Natrialba magadii]
+([Natrialba magadii ATCC 43099]
+nmg
+)))
+([Natronomonas]
+([Natronomonas pharaonis]
+([Natronomonas pharaonis DSM 2160; Gabara]
+nph
+))))))
+([Methanobacteria]
+([Methanobacteriales]
+([Methanobacteriaceae]
+([Methanobrevibacter]
+([Methanobrevibacter ruminantium]
+([Methanobrevibacter ruminantium M1]
+mru
+))
+([Methanobrevibacter smithii]
+([Methanobrevibacter smithii ATCC 35061; PS; DSMZ 861]
+msi
+)))
+([Methanosphaera]
+([Methanosphaera stadtmanae]
+([Methanosphaera stadtmanae DSM 3091]
+mst
+)))
+([Methanothermobacter]
+([Methanothermobacter thermautotrophicus]
+([Methanothermobacter thermautotrophicus delta H]
+mth
+))))))
+([Methanococci]
+([Methanococcales]
+([Methanocaldococcaceae]
+([Methanocaldococcus]
+([Methanocaldococcus fervens]
+([Methanocaldococcus fervens AG86]
+mfe
+))
+([Methanocaldococcus infernus]
+([Methanocaldococcus infernus ME]
+mif
+))
+([Methanocaldococcus jannaschii]
+([Methanococcus jannaschii DSM 2661]
+mja
+))
+([Methanocaldococcus sp. FS406-22]
+([Methanocaldococcus sp. FS406-22]
+mfs
+))
+([Methanocaldococcus vulcanius]
+([Methanocaldococcus vulcanius M7]
+mvu
+))))
+([Methanococcaceae]
+([Methanococcus]
+([Methanococcus aeolicus]
+([Methanococcus aeolicus Nankai-3]
+mae
+))
+([Methanococcus maripaludis]
+([Methanococcus maripaludis C5]
+mmq
+)
+([Methanococcus maripaludis C6]
+mmx
+)
+([Methanococcus maripaludis C7]
+mmz
+)
+([Methanococcus maripaludis S2]
+mmp
+))
+([Methanococcus vannielii]
+([Methanococcus vannielii SB]
+mvn
+))
+([Methanococcus voltae]
+([Methanococcus voltae A3]
+mvo
+))))))
+([Methanomicrobia]
+([Methanocellales]
+([Methanocellaceae]
+([Methanocella]
+([Methanocella paludicola]
+([Methanocella paludicola SANAE]
+mpd
+)))))
+([Methanomicrobiales]
+([Methanocorpusculaceae]
+([Methanocorpusculum]
+([Methanocorpusculum labreanum]
+([Methanocorpusculum labreanum Z]
+mla
+))))
+([Methanomicrobiaceae]
+([Methanoculleus]
+([Methanoculleus marisnigri]
+([Methanoculleus marisnigri JR1]
+mem
+))))
+([Methanospirillaceae]
+([Methanospirillum]
+([Methanospirillum hungatei]
+([Methanospirillum hungatei JF-1]
+mhu
+))))
+([unclassified Methanomicrobiales]
+([Genera incertae sedis]
+([Candidatus Methanoregula]
+([Candidatus Methanoregula boonei]
+([Methanoregula boonei 6A8]
+mbn
+)))
+([Methanosphaerula]
+([Methanosphaerula palustris]
+([Methanosphaerula palustris E1-9c]
+mpl
+))))))
+([Methanosarcinales]
+([Methanosaetaceae]
+([Methanosaeta]
+([Methanosaeta thermophila]
+([Methanosaeta thermophila PT]
+mtp
+))))
+([Methanosarcinaceae]
+([Methanococcoides]
+([Methanococcoides burtonii]
+([Methanococcoides burtonii DSM 6242]
+mbu
+)))
+([Methanohalobium]
+([Methanohalobium evestigatum]
+([Methanohalobium evestigatum Z-7303]
+mev
+)))
+([Methanohalophilus]
+([Methanohalophilus mahii]
+([Methanohalophilus mahii DSM 5219]
+mmh
+)))
+([Methanosarcina]
+([Methanosarcina acetivorans]
+([Methanosarcina acetivorans C2A]
+mac
+))
+([Methanosarcina barkeri]
+([Methanosarcina barkeri fusaro]
+mba
+))
+([Methanosarcina mazei]
+([Methanosarcina mazei Goe1]
+mma
+))))))
+([Methanopyri]
+([Methanopyrales]
+([Methanopyraceae]
+([Methanopyrus]
+([Methanopyrus kandleri]
+([Methanopyrus kandleri AV19]
+mka
+))))))
+([Thermococci]
+([Thermococcales]
+([Thermococcaceae]
+([Pyrococcus]
+([Pyrococcus abyssi]
+([Pyrococcus abyssi GE5]
+pab
+))
+([Pyrococcus furiosus]
+([Pyrococcus furiosus DSM 3638]
+pfu
+))
+([Pyrococcus horikoshii]
+([Pyrococcus horikoshii OT3]
+pho
+)))
+([Thermococcus]
+([Thermococcus gammatolerans]
+([Thermococcus gammatolerans EJ3]
+tga
+))
+([Thermococcus kodakarensis]
+([Thermococcus kodakarensis KOD1]
+tko
+))
+([Thermococcus onnurineus]
+([Thermococcus onnurineus NA1]
+ton
+))
+([Thermococcus sibiricus]
+([Thermococcus sibiricus MM 739]
+tsi
+))))))
+([Thermoplasmata]
+([Thermoplasmatales]
+([Picrophilaceae]
+([Picrophilus]
+([Picrophilus torridus]
+([Picrophilus torridus DSM 9790]
+pto
+))))
+([Thermoplasmataceae]
+([Thermoplasma]
+([Thermoplasma acidophilum]
+([Thermoplasma acidophilum DSM 1728]
+tac
+))
+([Thermoplasma volcanium]
+([Thermoplasma volcanium GSS1]
+tvo
+))))))
+([environmental samples]
+([uncultured methanogenic archaeon RC-I]
+([uncultured methanogenic archaeon RC-I]
+rci
+)))
+([unclassified Euryarchaeota]
+([Aciduliprofundum]
+([Aciduliprofundum boonei]
+([Aciduliprofundum boonei T469]
+abi
+)))))
+([Korarchaeota]
+([Candidatus Korarchaeum]
+([Candidatus Korarchaeum cryptofilum]
+([Korarchaeum cryptofilum OPF8]
+kcr
+))))
+([Nanoarchaeota]
+([Nanoarchaeum]
+([Nanoarchaeum equitans]
+([Nanoarchaeum equitans Kin4-M]
+neq
+))))
+([Thaumarchaeota]
+([marine archaeal group 1]
+([Nitrosopumilales]
+([Nitrosopumilaceae]
+([Nitrosopumilus]
+([Nitrosopumilus maritimus]
+([Nitrosopumilus maritimus SCM1]
+nmr
+))))))))
+([Bacteria]
+([Actinobacteria]
+([Actinobacteria (class)]
+([Acidimicrobidae]
+([Acidimicrobiales]
+([Acidimicrobineae]
+([Acidimicrobiaceae]
+([Acidimicrobium]
+([Acidimicrobium ferrooxidans]
+([Acidimicrobium ferrooxidans DSM 10331]
+afo
+)))))))
+([Actinobacteridae]
+([Actinomycetales]
+([Actinomycineae]
+([Actinomycetaceae]
+([Arcanobacterium]
+([Arcanobacterium haemolyticum]
+([Arcanobacterium haemolyticum DSM 20595]
+ahe
+)))
+([Mobiluncus/Falcivibrio group]
+([Mobiluncus]
+([Mobiluncus curtisii]
+([Mobiluncus curtisii ATCC 43063]
+mcu
+))))))
+([Catenulisporineae]
+([Catenulisporaceae]
+([Catenulispora]
+([Catenulispora acidiphila]
+([Catenulispora acidiphila DSM 44928]
+cai
+)))))
+([Corynebacterineae]
+([Corynebacteriaceae]
+([Corynebacterium]
+([Corynebacterium aurimucosum]
+([Corynebacterium aurimucosum ATCC 700975]
+car
+))
+([Corynebacterium diphtheriae]
+([Corynebacterium diphtheriae NCTC13129]
+cdi
+))
+([Corynebacterium efficiens]
+([Corynebacterium efficiens YS-314]
+cef
+))
+([Corynebacterium glutamicum]
+([Corynebacterium glutamicum ATCC 13032]
+cgl
+)
+([Corynebacterium glutamicum DSM 20300; ATCC 13032]
+cgb
+)
+([Corynebacterium glutamicum R]
+cgt
+))
+([Corynebacterium jeikeium]
+([Corynebacterium jeikeium K411; NCTC 11915]
+cjk
+))
+([Corynebacterium kroppenstedtii]
+([Corynebacterium kroppenstedtii DSM 44385]
+ckp
+))
+([Corynebacterium urealyticum]
+([Corynebacterium urealyticum DSM 7109]
+cur
+))))
+([Gordoniaceae]
+([Gordonia]
+([Gordonia bronchialis]
+([Gordonia bronchialis DSM 43247]
+gbr
+))))
+([Mycobacteriaceae]
+([Mycobacterium]
+([Mycobacterium avium complex (MAC)]
+([Mycobacterium avium]
+([Mycobacterium avium 104]
+mav
+)
+([Mycobacterium avium K-10]
+mpa
+)))
+([Mycobacterium chelonae group]
+([Mycobacterium abscessus subgroup]
+([Mycobacterium abscessus]
+([Mycobacterium abscessus ATCC 19977]
+mab
+))))
+([Mycobacterium gilvum]
+([Mycobacterium gilvum PYR-GCK]
+mgi
+))
+([Mycobacterium leprae]
+([Mycobacterium leprae Br4923]
+mlb
+)
+([Mycobacterium leprae TN]
+mle
+))
+([Mycobacterium marinum]
+([Mycobacterium marinum M]
+mmi
+))
+([Mycobacterium smegmatis]
+([Mycobacterium smegmatis MC2 155]
+msm
+))
+([Mycobacterium sp. JLS]
+([Mycobacterium sp. JLS]
+mjl
+))
+([Mycobacterium sp. KMS]
+([Mycobacterium sp. KMS]
+mkm
+))
+([Mycobacterium sp. MCS]
+([Mycobacterium sp. MCS]
+mmc
+))
+([Mycobacterium tuberculosis complex]
+([Mycobacterium bovis]
+([Mycobacterium bovis AF2122/97]
+mbo
+)
+([Mycobacterium bovis BCG Pasteur 1173P2]
+mbb
+)
+([Mycobacterium bovis Tokyo 172]
+mbt
+))
+([Mycobacterium tuberculosis]
+([Mycobacterium tuberculosis CDC1551]
+mtc
+)
+([Mycobacterium tuberculosis F11]
+mtf
+)
+([Mycobacterium tuberculosis H37Ra; ATCC 25177]
+mra
+)
+([Mycobacterium tuberculosis H37Rv]
+mtu
+)
+([Mycobacterium tuberculosis KZN 1435]
+mtb
+)))
+([Mycobacterium ulcerans]
+([Mycobacterium ulcerans Agy99]
+mul
+))
+([Mycobacterium vanbaalenii]
+([Mycobacterium vanbaalenii PYR-1]
+mva
+))))
+([Nocardiaceae]
+([Nocardia]
+([Nocardia farcinica]
+([Nocardia farcinica IFM 10152]
+nfa
+)))
+([Rhodococcus]
+([Rhodococcus erythropolis]
+([Rhodococcus erythropolis PR4]
+rer
+))
+([Rhodococcus jostii]
+([Rhodococcus sp. RHA1]
+rha
+))
+([Rhodococcus opacus]
+([Rhodococcus opacus B4]
+rop
+))))
+([Segniliparaceae]
+([Segniliparus]
+([Segniliparus rotundus]
+([Segniliparus rotundus DSM 44985]
+srt
+))))
+([Tsukamurellaceae]
+([Tsukamurella]
+([Tsukamurella paurometabola]
+([Tsukamurella paurometabola DSM 20162]
+tpr
+)))))
+([Frankineae]
+([Acidothermaceae]
+([Acidothermus]
+([Acidothermus cellulolyticus]
+([Acidothermus cellulolyticus 11B; ATCC 43068]
+ace
+))))
+([Frankiaceae]
+([Frankia]
+([Frankia alni]
+([Frankia alni ACN14A]
+fal
+))
+([Frankia sp. CcI3]
+([Frankia sp. CcI3]
+fra
+))
+([Frankia sp. EAN1pec]
+([Frankia sp. EAN1.pec]
+fre
+))))
+([Geodermatophilaceae]
+([Geodermatophilus]
+([Geodermatophilus obscurus]
+([Geodermatophilus obscurus DSM 43160]
+gob
+))))
+([Nakamurellaceae]
+([Nakamurella]
+([Nakamurella multipartita]
+([Nakamurella multipartita DSM 44233]
+nml
+)))))
+([Glycomycineae]
+([Glycomycetaceae]
+([Stackebrandtia]
+([Stackebrandtia nassauensis]
+([Stackebrandtia nassauensis DSM 44728]
+sna
+)))))
+([Kineosporiineae]
+([Kineosporiaceae]
+([Kineococcus]
+([Kineococcus radiotolerans]
+([Kineococcus radiotolerans SRS30216]
+kra
+)))))
+([Micrococcineae]
+([Beutenbergiaceae]
+([Beutenbergia]
+([Beutenbergia cavernae]
+([Beutenbergia cavernae DSM 12333]
+bcv
+))))
+([Cellulomonadaceae]
+([Cellulomonas]
+([Cellulomonas flavigena]
+([Cellulomonas flavigena DSM 20109]
+cfl
+))))
+([Dermabacteraceae]
+([Brachybacterium]
+([Brachybacterium faecium]
+([Brachybacterium faecium DSM 4810]
+bfa
+))))
+([Dermacoccaceae]
+([Kytococcus]
+([Kytococcus sedentarius]
+([Kytococcus sedentarius DSM 20547]
+kse
+))))
+([Jonesiaceae]
+([Jonesia]
+([Jonesia denitrificans]
+([Jonesia denitrificans DSM 20603]
+jde
+))))
+([Microbacteriaceae]
+([Clavibacter]
+([Clavibacter michiganensis]
+([Clavibacter michiganensis subsp. michiganensis NCPPB 382]
+cmi
+)
+([Clavibacter michiganensis ATCC33113]
+cms
+)))
+([Leifsonia]
+([Leifsonia xyli]
+([Leifsonia xyli CTCB07]
+lxx
+))))
+([Micrococcaceae]
+([Arthrobacter]
+([Arthrobacter aurescens]
+([Arthrobacter aurescens TC1]
+aau
+))
+([Arthrobacter chlorophenolicus]
+([Arthrobacter chlorophenolicus A6]
+ach
+))
+([Arthrobacter sp. FB24]
+([Arthrobacter sp. FB24]
+art
+)))
+([Kocuria]
+([Kocuria rhizophila]
+([Kocuria rhizophila DC2201]
+krh
+)))
+([Micrococcus]
+([Micrococcus luteus]
+([Micrococcus luteus NCTC 2665]
+mlu
+)))
+([Renibacterium]
+([Renibacterium salmoninarum]
+([Renibacterium salmoninarum ATCC 33209]
+rsa
+)))
+([Rothia]
+([Rothia mucilaginosa]
+([Rothia mucilaginosa DY-18]
+rmu
+))))
+([Promicromonosporaceae]
+([Xylanimonas]
+([Xylanimonas cellulosilytica]
+([Xylanimonas cellulosilytica DSM 15894]
+xce
+))))
+([Sanguibacteraceae]
+([Sanguibacter]
+([Sanguibacter keddieii]
+([Sanguibacter keddieii DSM 10542]
+ske
+))))
+([unclassified Micrococcineae]
+([Tropheryma]
+([Tropheryma whipplei]
+([Tropheryma whipplei TW08/27]
+tws
+)
+([Tropheryma whipplei Twist]
+twh
+)))))
+([Micromonosporineae]
+([Micromonosporaceae]
+([Salinispora]
+([Salinispora arenicola]
+([Salinispora arenicola CNS-205]
+saq
+))
+([Salinispora tropica]
+([Salinispora tropica CNB-440]
+stp
+)))))
+([Propionibacterineae]
+([Nocardioidaceae]
+([Kribbella]
+([Kribbella flavida]
+([Kribbella flavida DSM 17836]
+kfl
+)))
+([Nocardioides]
+([Nocardioides sp. JS614]
+([Nocardioides sp. JS614]
+nca
+))))
+([Propionibacteriaceae]
+([Propionibacterium]
+([Propionibacterium acnes]
+([Propionibacterium acnes KPA171202]
+pac
+)
+([Propionibacterium acnes SK137]
+pak
+))
+([Propionibacterium freudenreichii]
+([Propionibacterium freudenreichii CIRM-B1AI]
+pfr
+)))))
+([Pseudonocardineae]
+([Actinosynnemataceae]
+([Actinosynnema]
+([Actinosynnema mirum]
+([Actinosynnema mirum DSM 43827]
+ami
+))))
+([Pseudonocardiaceae]
+([Saccharomonospora]
+([Saccharomonospora viridis]
+([Saccharomonospora viridis DSM 43017]
+svi
+)))
+([Saccharopolyspora]
+([Saccharopolyspora erythraea]
+([Saccharopolyspora erythraea NRRL 2338]
+sen
+)))
+([Thermobispora]
+([Thermobispora bispora]
+([Thermobispora bispora DSM 43833]
+tbi
+)))))
+([Streptomycineae]
+([Streptomycetaceae]
+([Streptomyces]
+([Streptomyces avermitilis]
+([Streptomyces avermitilis MA-4680]
+sma
+))
+([Streptomyces coelicolor]
+([Streptomyces coelicolor A3(2)]
+sco
+))
+([Streptomyces griseus group]
+([Streptomyces griseus]
+([Streptomyces griseus NBRC 13350]
+sgr
+)))
+([Streptomyces scabiei]
+([Streptomyces scabiei 87.22]
+scb
+)))))
+([Streptosporangineae]
+([Nocardiopsaceae]
+([Nocardiopsis]
+([Nocardiopsis dassonvillei]
+([Nocardiopsis dassonvillei DSM 43111]
+nda
+)))
+([Thermobifida]
+([Thermobifida fusca]
+([Thermobifida fusca YX]
+tfu
+))))
+([Streptosporangiaceae]
+([Streptosporangium]
+([Streptosporangium roseum]
+([Streptosporangium roseum DSM 43021]
+sro
+))))
+([Thermomonosporaceae]
+([Thermomonospora]
+([Thermomonospora curvata]
+([Thermomonospora curvata DSM 43183]
+tcu
+))))))
+([Bifidobacteriales]
+([Bifidobacteriaceae]
+([Bifidobacterium]
+([Bifidobacterium adolescentis]
+([Bifidobacterium adolescentis ATCC 15703]
+bad
+))
+([Bifidobacterium animalis]
+([Bifidobacterium animalis AD011]
+bla
+)
+([Bifidobacterium animalis Bl-04]
+blc
+)
+([Bifidobacterium animalis DSM 10140]
+blt
+))
+([Bifidobacterium dentium]
+([Bifidobacterium dentium Bd1]
+bde
+))
+([Bifidobacterium longum]
+([Bifidobacterium longum DJO10A]
+blj
+)
+([Bifidobacterium longum NCC2705]
+blo
+)
+([Bifidobacterium longum ATCC 15697]
+bln
+)
+([Bifidobacterium longum JDM301]
+bll
+)))
+([Gardnerella]
+([Gardnerella vaginalis]
+([Gardnerella vaginalis 409-05]
+gva
+))))))
+([Coriobacteridae]
+([Coriobacteriales]
+([Coriobacterineae]
+([Coriobacteriaceae]
+([Atopobium]
+([Atopobium parvulum]
+([Atopobium parvulum DSM 20469]
+apv
+)))
+([Cryptobacterium]
+([Cryptobacterium curtum]
+([Cryptobacterium curtum DSM 15641]
+ccu
+)))
+([Eggerthella]
+([Eggerthella lenta]
+([Eggerthella lenta DSM 2243]
+ele
+)))
+([Slackia]
+([Slackia heliotrinireducens]
+([Slackia heliotrinireducens DSM 20476]
+shi
+)))))))
+([Rubrobacteridae]
+([Rubrobacterales]
+([Rubrobacterineae]
+([Rubrobacteraceae]
+([Rubrobacter]
+([Rubrobacter xylanophilus]
+([Rubrobacter xylanophilus DSM 9941]
+rxy
+))))))
+([Solirubrobacterales]
+([Conexibacteraceae]
+([Conexibacter]
+([Conexibacter woesei]
+([Conexibacter woesei DSM 14684]
+cwo
+))))))))
+([Aquificae]
+([Aquificae (class)]
+([Aquificales]
+([Aquificaceae]
+([Aquifex]
+([Aquifex aeolicus]
+([Aquifex aeolicus VF5]
+aae
+)))
+([Hydrogenobacter]
+([Hydrogenobacter thermophilus]
+([Hydrogenobacter thermophilus TK-6]
+hth
+)))
+([Hydrogenobaculum]
+([Hydrogenobaculum sp. Y04AAS1]
+([Hydrogenobaculum sp. Y04AAS1]
+hya
+)))
+([Thermocrinis]
+([Thermocrinis albus]
+([Thermocrinis albus DSM 14484]
+tal
+))))
+([Hydrogenothermaceae]
+([Persephonella]
+([Persephonella marina]
+([Persephonella marina EX-H1]
+pmx
+)))
+([Sulfurihydrogenibium]
+([Sulfurihydrogenibium azorense]
+([Sulfurihydrogenibium azorense Az-Fu1]
+saf
+))
+([Sulfurihydrogenibium sp. YO3AOP1]
+([Sulfurihydrogenibium sp. YO3AOP1]
+sul
+)))))))
+([Bacteroidetes/Chlorobi group]
+([Bacteroidetes]
+([Bacteroidia]
+([Bacteroidales]
+([Bacteroidaceae]
+([Bacteroides]
+([Bacteroides fragilis]
+([Bacteroides fragilis ATCC 25285; NCTC 9343]
+bfs
+)
+([Bacteroides fragilis YCH46]
+bfr
+))
+([Bacteroides thetaiotaomicron]
+([Bacteroides thetaiotaomicron VPI-5482]
+bth
+))
+([Bacteroides vulgatus]
+([Bacteroides vulgatus ATCC 8482]
+bvu
+))))
+([Porphyromonadaceae]
+([Parabacteroides]
+([Parabacteroides distasonis]
+([Parabacteroides distasonis ATCC 8503]
+pdi
+)))
+([Porphyromonas]
+([Porphyromonas gingivalis]
+([Porphyromonas gingivalis ATCC 33277]
+pgn
+)
+([Porphyromonas gingivalis W83]
+pgi
+))))
+([Prevotellaceae]
+([Prevotella]
+([Prevotella ruminicola]
+([Prevotella ruminicola 23]
+pru
+))))
+([unclassified Bacteroidales]
+([Candidatus Azobacteroides]
+([Candidatus Azobacteroides pseudotrichonymphae]
+([Azobacteroides pseudotrichonymphae CFP2]
+aps
+))))))
+([Cytophagia]
+([Cytophagales]
+([Cytophagaceae]
+([Cytophaga]
+([Cytophaga hutchinsonii]
+([Cytophaga hutchinsonii ATCC 33406]
+chu
+)))
+([Dyadobacter]
+([Dyadobacter fermentans]
+([Dyadobacter fermentans DSM 18053]
+dfe
+)))
+([Spirosoma]
+([Spirosoma linguale]
+([Spirosoma linguale DSM 74]
+sli
+))))))
+([Flavobacteria]
+([Flavobacteriales]
+([Blattabacteriaceae]
+([Blattabacterium]
+([Blattabacterium sp. (Blattella germanica)]
+([Blattabacterium sp. Alboraia]
+bbl
+))
+([Blattabacterium sp. (Periplaneta americana)]
+([Blattabacterium sp. BPLAN]
+bpi
+))))
+([Flavobacteriaceae]
+([Capnocytophaga]
+([Capnocytophaga ochracea]
+([Capnocytophaga ochracea DSM 7271]
+coc
+)))
+([Croceibacter]
+([Croceibacter atlanticus]
+([Croceibacter atlanticus HTCC2559]
+cat
+)))
+([Flavobacterium]
+([Flavobacterium johnsoniae]
+([Flavobacterium johnsoniae UW101; ATCC 17061]
+fjo
+))
+([Flavobacterium psychrophilum]
+([Flavobacterium psychrophilum JIP02/86]
+fps
+)))
+([Gramella]
+([Gramella forsetii]
+([Gramella forsetii KT0803]
+gfo
+)))
+([Robiginitalea]
+([Robiginitalea biformata]
+([Robiginitalea biformata HTCC2501]
+rbi
+)))
+([Zunongwangia]
+([Zunongwangia profunda]
+([Zunongwangia profunda SMA-87]
+zpr
+)))
+([unclassified Flavobacteriaceae]
+([Flavobacteriaceae bacterium 3519-10]
+([Flavobacteriaceae bacterium 3519-10]
+fba
+))))
+([unclassified Flavobacteriales]
+([Candidatus Sulcia]
+([Candidatus Sulcia muelleri]
+([Sulcia muelleri DMIN]
+smh
+)
+([Sulcia muelleri GWSS]
+smg
+)
+([Sulcia muelleri SMDSEM]
+sms
+))))))
+([Sphingobacteria]
+([Sphingobacteriales]
+([Chitinophagaceae]
+([Chitinophaga]
+([Chitinophaga pinensis]
+([Chitinophaga pinensis DSM 2588]
+cpi
+))))
+([Rhodothermaceae]
+([Rhodothermus]
+([Rhodothermus marinus]
+([Rhodothermus marinus DSM 4252]
+rmr
+)))
+([Salinibacter]
+([Salinibacter ruber]
+([Salinibacter ruber M8]
+srm
+)
+([Salinibacter ruber DSM 13855; M31]
+sru
+))))
+([Sphingobacteriaceae]
+([Pedobacter]
+([Pedobacter heparinus]
+([Pedobacter heparinus DSM 2366]
+phe
+))))))
+([unclassified Bacteroidetes]
+([Candidatus Amoebophilus]
+([Candidatus Amoebophilus asiaticus]
+([Amoebophilus asiaticus 5a2]
+aas
+)))))
+([Chlorobi]
+([Chlorobia]
+([Chlorobiales]
+([Chlorobiaceae]
+([Chlorobaculum]
+([Chlorobaculum parvum]
+([Chlorobaculum parvum NCIB 8327]
+cpc
+))
+([Chlorobaculum tepidum]
+([Chlorobium tepidum TLS]
+cte
+)))
+([Chlorobium/Pelodictyon group]
+([Chlorobium]
+([Chlorobium chlorochromatii]
+([Chlorobium chlorochromatii CaD3]
+cch
+))
+([Chlorobium limicola]
+([Chlorobium limicola DSM 245]
+cli
+))
+([Chlorobium phaeobacteroides]
+([Chlorobium phaeobacteroides BS1]
+cpb
+)
+([Chlorobium phaeobacteroides DSM 266]
+cph
+))
+([Chlorobium phaeovibrioides]
+([Prosthecochloris vibrioformis DSM 265]
+pvi
+)))
+([Pelodictyon]
+([Pelodictyon luteolum]
+([Pelodictyon luteolum DSM 273]
+plt
+))
+([Pelodictyon phaeoclathratiforme]
+([Pelodictyon phaeoclathratiforme BU-1]
+pph
+))))
+([Chloroherpeton]
+([Chloroherpeton thalassium]
+([Chloroherpeton thalassium ATCC 35110]
+cts
+)))
+([Prosthecochloris]
+([Prosthecochloris aestuarii]
+([Prosthecochloris aestuarii DSM 271]
+paa
+))))))))
+([Chlamydiae/Verrucomicrobia group]
+([Chlamydiae]
+([Chlamydiae (class)]
+([Chlamydiales]
+([Chlamydiaceae]
+([Chlamydia]
+([Chlamydia muridarum]
+([Chlamydia muridarum MoPn]
+cmu
+))
+([Chlamydia trachomatis]
+([Chlamydia trachomatis 434/Bu]
+ctb
+)
+([Chlamydia trachomatis A/HAR-13]
+cta
+)
+([Chlamydia trachomatis Jali20]
+ctj
+)
+([Chlamydia trachomatis D/UW-3/CX]
+ctr
+)
+([Chlamydia trachomatis UCH-1]
+ctl
+)))
+([Chlamydophila]
+([Chlamydophila abortus]
+([Chlamydophila abortus S26/3]
+cab
+))
+([Chlamydophila caviae]
+([Chlamydophila caviae GPIC]
+cca
+))
+([Chlamydophila felis]
+([Chlamydophila felis Fe/C-56]
+cfe
+))
+([Chlamydophila pneumoniae]
+([Chlamydophila pneumoniae AR39]
+cpa
+)
+([Chlamydophila pneumoniae CWL029]
+cpn
+)
+([Chlamydophila pneumoniae J138]
+cpj
+)
+([Chlamydophila pneumoniae TW-183]
+cpt
+))))
+([Parachlamydiaceae]
+([Candidatus Protochlamydia]
+([Candidatus Protochlamydia amoebophila]
+([Protochlamydia amoebophila UWE25]
+pcu
+))))
+([Waddliaceae]
+([Waddlia]
+([Waddlia chondrophila]
+([Waddlia chondrophila WSU 86-1044]
+wch
+)))))))
+([Verrucomicrobia]
+([Opitutae]
+([Opitutales]
+([Opitutaceae]
+([Opitutus]
+([Opitutus terrae]
+([Opitutus terrae PB90-1]
+ote
+)))))
+([Puniceicoccales]
+([Puniceicoccaceae]
+([Coraliomargarita]
+([Coraliomargarita akajimensis]
+([Coraliomargarita akajimensis DSM 45221]
+caa
+))))))
+([Verrucomicrobiae]
+([Verrucomicrobiales]
+([Verrucomicrobiaceae]
+([Akkermansia]
+([Akkermansia muciniphila]
+([Akkermansia muciniphila ATCC BAA-835]
+amu
+))))))
+([unclassified Verrucomicrobia]
+([Methylacidiphilales]
+([Methylacidiphilaceae]
+([Methylacidiphilum]
+([Methylacidiphilum infernorum]
+([Methylacidiphilum infernorum V4]
+min
+))))))))
+([Chloroflexi]
+([Chloroflexi (class)]
+([Chloroflexales]
+([Chloroflexaceae]
+([Chloroflexus]
+([Chloroflexus aggregans]
+([Chloroflexus aggregans DSM 9485]
+cag
+))
+([Chloroflexus aurantiacus]
+([Chloroflexus aurantiacus J-10-fl]
+cau
+))
+([Chloroflexus sp. Y-400-fl]
+([Chloroflexus sp. Y-400-fl]
+chl
+)))
+([Roseiflexus]
+([Roseiflexus castenholzii]
+([Roseiflexus castenholzii DSM 13941]
+rca
+))
+([Roseiflexus sp. RS-1]
+([Roseiflexus sp. RS-1]
+rrs
+)))))
+([Herpetosiphonales]
+([Herpetosiphonaceae]
+([Herpetosiphon]
+([Herpetosiphon aurantiacus]
+([Herpetosiphon aurantiacus ATCC 23779]
+hau
+))))))
+([Dehalococcoidetes]
+([Dehalococcoides]
+([Dehalococcoides ethenogenes]
+([Dehalococcoides ethenogenes 195]
+det
+))
+([Dehalococcoides sp. BAV1]
+([Dehalococcoides sp. BAV1]
+deb
+))
+([Dehalococcoides sp. CBDB1]
+([Dehalococcoides sp. CBDB1]
+deh
+))
+([Dehalococcoides sp. GT]
+([Dehalococcoides sp. GT]
+deg
+))
+([Dehalococcoides sp. VS]
+([Dehalococcoides sp. VS]
+dev
+))))
+([Thermomicrobia (class)]
+([Sphaerobacteridae]
+([Sphaerobacterales]
+([Sphaerobacterineae]
+([Sphaerobacteraceae]
+([Sphaerobacter]
+([Sphaerobacter thermophilus]
+([Sphaerobacter thermophilus DSM 20745]
+sti
+)))))))
+([Thermomicrobiales]
+([Thermomicrobiaceae]
+([Thermomicrobium]
+([Thermomicrobium roseum]
+([Thermomicrobium roseum DSM 5159]
+tro
+)))))))
+([Cyanobacteria]
+([Chroococcales]
+([Cyanothece]
+([Cyanothece sp. ATCC 51142]
+([Cyanothece sp. ATCC 51142]
+cyt
+))
+([Cyanothece sp. PCC 7424]
+([Cyanothece sp. PCC 7424]
+cyc
+))
+([Cyanothece sp. PCC 7425]
+([Cyanothece sp. PCC 7425]
+cyn
+))
+([Cyanothece sp. PCC 8801]
+([Cyanothece sp. PCC 8801]
+cyp
+))
+([Cyanothece sp. PCC 8802]
+([Cyanothece sp. PCC 8802]
+cyh
+)))
+([Microcystis]
+([Microcystis aeruginosa]
+([Microcystis aeruginosa NIES-843]
+mar
+)))
+([Synechococcus]
+([Synechococcus elongatus]
+([Synechococcus elongatus PCC6301]
+syc
+)
+([Synechococcus elongatus PCC 7942]
+syf
+))
+([Synechococcus sp. CC9311]
+([Synechococcus sp. CC9311]
+syg
+))
+([Synechococcus sp. CC9605]
+([Synechococcus sp. CC9605]
+syd
+))
+([Synechococcus sp. CC9902]
+([Synechococcus sp. CC9902]
+sye
+))
+([Synechococcus sp. JA-2-3B'a(2-13)]
+([Synechococcus sp. JA-2-3B'a(2-13)]
+cyb
+))
+([Synechococcus sp. JA-3-3Ab]
+([Synechococcus sp. JA-3-3Ab]
+cya
+))
+([Synechococcus sp. PCC 7002]
+([Synechococcus sp. PCC 7002; ATCC 27264]
+syp
+))
+([Synechococcus sp. RCC307]
+([Synechococcus sp. RCC307]
+syr
+))
+([Synechococcus sp. WH 7803]
+([Synechococcus sp. WH 7803]
+syx
+))
+([Synechococcus sp. WH 8102]
+([Synechococcus sp. WH 8102]
+syw
+)))
+([Synechocystis]
+([Synechocystis sp. PCC 6803]
+([Synechocystis sp. PCC 6803]
+syn
+)))
+([Thermosynechococcus]
+([Thermosynechococcus elongatus]
+([Thermosynechococcus elongatus BP-1]
+tel
+)))
+([unclassified Chroococcales]
+([cyanobacterium UCYN-A]
+([Cyanobacterium UCYN-A ]
+cyu
+))))
+([Gloeobacteria]
+([Gloeobacterales]
+([Gloeobacter]
+([Gloeobacter violaceus]
+([Gloeobacter violaceus PCC 7421]
+gvi
+)))))
+([Nostocales]
+([Nostocaceae]
+([Anabaena]
+([Anabaena azollae]
+([Nostoc azollae 0708]
+naz
+))
+([Anabaena variabilis]
+([Anabaena variabilis ATCC 29413]
+ava
+)))
+([Nostoc]
+([Nostoc punctiforme]
+([Nostoc punctiforme PCC 73102]
+npu
+))
+([Nostoc sp. PCC 7120]
+([Nostoc sp. PCC 7120]
+ana
+)))))
+([Oscillatoriales]
+([Trichodesmium]
+([Trichodesmium erythraeum]
+([Trichodesmium erythraeum IMS101]
+ter
+))))
+([Prochlorales]
+([Prochlorococcaceae]
+([Prochlorococcus]
+([Prochlorococcus marinus]
+([Prochlorococcus marinus AS9601]
+pmb
+)
+([Prochlorococcus marinus MIT9211]
+pmj
+)
+([Prochlorococcus marinus MIT 9215]
+pmh
+)
+([Prochlorococcus marinus MIT 9301]
+pmg
+)
+([Prochlorococcus marinus MIT 9303]
+pmf
+)
+([Prochlorococcus marinus MIT 9312]
+pmi
+)
+([Prochlorococcus marinus MIT9313]
+pmt
+)
+([Prochlorococcus marinus MIT 9515]
+pmc
+)
+([Prochlorococcus marinus NATL1A]
+pme
+)
+([Prochlorococcus marinus NATL2A]
+pmn
+)
+([Prochlorococcus marinus CCMP1375; SS120]
+pma
+)
+([Prochlorococcus marinus subsp. pastoris MED4]
+pmm
+)))))
+([unclassified Cyanobacteria]
+([Acaryochloris]
+([Acaryochloris marina]
+([Acaryochloris marina MBIC11017]
+amr
+)))))
+([Deferribacteres]
+([Deferribacteres (class)]
+([Deferribacterales]
+([Deferribacteraceae]
+([Deferribacter]
+([Deferribacter desulfuricans]
+([Deferribacter desulfuricans SSM1]
+ddf
+)))
+([Denitrovibrio]
+([Denitrovibrio acetiphilus]
+([Denitrovibrio acetiphilus DSM 12809]
+dap
+)))))))
+([Deinococcus-Thermus]
+([Deinococci]
+([Deinococcales]
+([Deinococcaceae]
+([Deinococcus]
+([Deinococcus deserti]
+([Deinococcus deserti VCD115]
+ddr
+))
+([Deinococcus geothermalis]
+([Deinococcus geothermalis DSM 11300]
+dge
+))
+([Deinococcus radiodurans]
+([Deinococcus radiodurans R1]
+dra
+))))
+([Trueperaceae]
+([Truepera]
+([Truepera radiovictrix]
+([Truepera radiovictrix DSM 17093]
+tra
+)))))
+([Thermales]
+([Thermaceae]
+([Meiothermus]
+([Meiothermus ruber]
+([Meiothermus ruber DSM 1279]
+mrb
+))
+([Meiothermus silvanus]
+([Meiothermus silvanus DSM 9946]
+msv
+)))
+([Thermus]
+([Thermus thermophilus]
+([Thermus thermophilus HB27]
+tth
+)
+([Thermus thermophilus HB8]
+ttj
+)))))))
+([Dictyoglomi]
+([Dictyoglomia]
+([Dictyoglomales]
+([Dictyoglomaceae]
+([Dictyoglomus]
+([Dictyoglomus thermophilum]
+([Dictyoglomus thermophilum H-6-12]
+dth
+))
+([Dictyoglomus turgidum]
+([Dictyoglomus turgidum DSM 6724]
+dtu
+)))))))
+([Elusimicrobia]
+([Elusimicrobia (class)]
+([Elusimicrobiales]
+([Elusimicrobiaceae]
+([Elusimicrobium]
+([Elusimicrobium minutum]
+([Elusimicrobium minutum Pei191]
+emi
+))))))
+([environmental samples]
+([uncultured Termite group 1 bacterium]
+([uncultured Termite Rs-D17]
+rsd
+))))
+([Fibrobacteres/Acidobacteria group]
+([Acidobacteria]
+([Acidobacteria (class)]
+([Acidobacteriales]
+([Acidobacteriaceae]
+([Acidobacterium]
+([Acidobacterium capsulatum]
+([Acidobacterium capsulatum ATCC 51196 ATCC]
+aca
+))))))
+([Solibacteres]
+([Solibacterales]
+([Solibacteraceae]
+([Candidatus Solibacter]
+([Candidatus Solibacter usitatus]
+([Solibacter usitatus Ellin6076]
+sus
+))))))
+([unclassifed Acidobacteria]
+([Candidatus Koribacter]
+([Candidatus Koribacter versatilis]
+([Acidobacteria bacterium Ellin345]
+aba
+)))))
+([Fibrobacteres]
+([Fibrobacteres (class)]
+([Fibrobacterales]
+([Fibrobacteraceae]
+([Fibrobacter]
+([Fibrobacter succinogenes]
+([Fibrobacter succinogenes S85]
+fsu
+))))))))
+([Firmicutes]
+([Bacilli]
+([Bacillales]
+([Alicyclobacillaceae]
+([Alicyclobacillus]
+([Alicyclobacillus acidocaldarius]
+([Alicyclobacillus acidocaldarius DSM 446]
+aac
+)))
+([unclassified Alicyclobacillaceae]
+([Bacillus tusciae]
+([Bacillus tusciae DSM 2912]
+bts
+))))
+([Bacillaceae]
+([Anoxybacillus]
+([Anoxybacillus flavithermus]
+([Anoxybacillus flavithermus WK1]
+afl
+)))
+([Bacillus]
+([Bacillus cereus group]
+([Bacillus anthracis]
+([Bacillus anthracis Ames Ancestor; A2084]
+bar
+)
+([Bacillus anthracis A0248]
+bai
+)
+([Bacillus anthracis Ames]
+ban
+)
+([Bacillus anthracis CDC 684]
+bah
+)
+([Bacillus anthracis Sterne]
+bat
+))
+([Bacillus cereus]
+([Bacillus cereus 03BB102]
+bcx
+)
+([Bacillus cereus AH187]
+bcr
+)
+([Bacillus cereus AH820]
+bcu
+)
+([Bacillus cereus ATCC 10987]
+bca
+)
+([Bacillus cereus ATCC 14579]
+bce
+)
+([Bacillus cereus B4264]
+bcb
+)
+([Bacillus cereus E33L]
+bcz
+)
+([Bacillus cereus G9842]
+bcg
+)
+([Bacillus cereus Q1]
+bcq
+))
+([Bacillus cytotoxicus]
+([Bacillus cereus NVH 391-98]
+bcy
+))
+([Bacillus thuringiensis]
+([Bacillus thuringiensis serovar konkukian 97-27]
+btk
+)
+([Bacillus thuringiensis BMB171]
+btb
+)
+([Bacillus thuringiensis Al Hakam]
+btl
+))
+([Bacillus weihenstephanensis]
+([Bacillus weihenstephanensis KBAB4]
+bwe
+)))
+([Bacillus clausii]
+([Bacillus clausii KSM-K16]
+bcl
+))
+([Bacillus halodurans]
+([Bacillus halodurans C-125]
+bha
+))
+([Bacillus megaterium]
+([Bacillus megaterium DSM319]
+bmd
+)
+([Bacillus megaterium QM B1551]
+bmq
+))
+([Bacillus pseudofirmus]
+([Bacillus pseudofirmus OF4]
+bpf
+))
+([Bacillus pumilus]
+([Bacillus pumilus SAFR-032]
+bpu
+))
+([Bacillus selenitireducens]
+([Bacillus selenitireducens MLS10]
+bse
+))
+([Bacillus subtilis group]
+([Bacillus amyloliquefaciens]
+([Bacillus amyloliquefaciens FZB42]
+bay
+))
+([Bacillus licheniformis]
+([Bacillus licheniformis ATCC 14580; DSM 13]
+bli
+)
+([Bacillus licheniformis DSM 13; ATCC 14580]
+bld
+))
+([Bacillus subtilis]
+([Bacillus subtilis 168]
+bsu
+))))
+([Geobacillus]
+([Geobacillus kaustophilus]
+([Geobacillus kaustophilus HTA426]
+gka
+))
+([Geobacillus sp. C56-T3]
+([Geobacillus sp. C56-T3]
+gct
+))
+([Geobacillus sp. WCH70]
+([Geobacillus sp. WCH70]
+gwc
+))
+([Geobacillus sp. Y412MC10]
+([Geobacillus sp. Y412MC10]
+gym
+))
+([Geobacillus sp. Y412MC61]
+([Geobacillus sp. Y412MC61]
+gyc
+))
+([Geobacillus thermodenitrificans]
+([Geobacillus thermodenitrificans NG80-2]
+gtn
+)))
+([Lysinibacillus]
+([Lysinibacillus sphaericus]
+([Lysinibacillus sphaericus C3-41]
+lsp
+)))
+([Oceanobacillus]
+([Oceanobacillus iheyensis]
+([Oceanobacillus iheyensis HTE831]
+oih
+))))
+([Bacillales incertae sedis]
+([Bacillales Family XII. Incertae Sedis]
+([Exiguobacterium]
+([Exiguobacterium sibiricum]
+([Exiguobacterium sibiricum 255-15]
+esi
+))
+([Exiguobacterium sp. AT1b]
+([Exiguobacterium sp. AT1b]
+eat
+)))))
+([Listeriaceae]
+([Listeria]
+([Listeria innocua]
+([Listeria innocua Clip11262]
+lin
+))
+([Listeria monocytogenes]
+([Listeria monocytogenes 08-5578]
+lmn
+)
+([Listeria monocytogenes 08-5923]
+lmy
+)
+([Listeria monocytogenes Clip81459]
+lmc
+)
+([Listeria monocytogenes EGD-e]
+lmo
+)
+([Listeria monocytogenes HCC23]
+lmh
+)
+([Listeria monocytogenes 4b F2365]
+lmf
+))
+([Listeria seeligeri]
+([Listeria seeligeri SLCC3954]
+lsg
+))
+([Listeria welshimeri]
+([Listeria welshimeri serovar 6b SLCC5334]
+lwe
+))))
+([Paenibacillaceae]
+([Brevibacillus]
+([Brevibacillus brevis]
+([Brevibacillus brevis NBRC NBRC 100599]
+bbe
+)))
+([Paenibacillus]
+([Paenibacillus sp. JDR-2]
+([Paenibacillus sp. JDR-2]
+pjd
+))))
+([Staphylococcaceae]
+([Macrococcus]
+([Macrococcus caseolyticus]
+([Macrococcus caseolyticus JCSC5402]
+mcl
+)))
+([Staphylococcus]
+([Staphylococcus aureus]
+([Staphylococcus aureus RF122]
+sab
+)
+([Staphylococcus aureus COL]
+sac
+)
+([Staphylococcus aureus ED98]
+sad
+)
+([Staphylococcus aureus JH1]
+sah
+)
+([Staphylococcus aureus subsp. aureus JH9]
+saj
+)
+([Staphylococcus aureus MRSA252]
+sar
+)
+([Staphylococcus aureus MSSA476]
+sas
+)
+([Staphylococcus aureus MW2]
+sam
+)
+([Staphylococcus aureus Mu3]
+saw
+)
+([Staphylococcus aureus Mu50]
+sav
+)
+([Staphylococcus aureus N315]
+sau
+)
+([Staphylococcus aureus subsp. aureus NCTC 8325]
+sao
+)
+([Staphylococcus aureus subsp. aureus USA300; FPR3757]
+saa
+)
+([Staphylococcus aureus TCH1516]
+sax
+)
+([Staphylococcus aureus Newman]
+sae
+))
+([Staphylococcus carnosus]
+([Staphylococcus carnosus TM300]
+sca
+))
+([Staphylococcus epidermidis]
+([Staphylococcus epidermidis ATCC 12228]
+sep
+)
+([Staphylococcus epidermidis RP62A]
+ser
+))
+([Staphylococcus haemolyticus]
+([Staphylococcus haemolyticus JCSC1435]
+sha
+))
+([Staphylococcus lugdunensis]
+([Staphylococcus lugdunensis HKU09-01]
+slg
+))
+([Staphylococcus saprophyticus]
+([Staphylococcus saprophyticus ATCC 15305]
+ssp
+)))))
+([Lactobacillales]
+([Enterococcaceae]
+([Enterococcus]
+([Enterococcus faecalis]
+([Enterococcus faecalis V583]
+efa
+))))
+([Lactobacillaceae]
+([Lactobacillus]
+([Lactobacillus acidophilus]
+([Lactobacillus acidophilus NCFM]
+lac
+))
+([Lactobacillus brevis]
+([Lactobacillus brevis ATCC 367]
+lbr
+))
+([Lactobacillus casei group]
+([Lactobacillus casei]
+([Lactobacillus casei ATCC 334]
+lca
+)
+([Lactobacillus casei BL23]
+lcb
+)))
+([Lactobacillus crispatus]
+([Lactobacillus crispatus ST1]
+lcr
+))
+([Lactobacillus delbrueckii]
+([Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842]
+ldb
+)
+([Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365]
+lbu
+))
+([Lactobacillus fermentum]
+([Lactobacillus fermentum IFO 3956]
+lfe
+))
+([Lactobacillus gasseri]
+([Lactobacillus gasseri ATCC 33323]
+lga
+))
+([Lactobacillus helveticus]
+([Lactobacillus helveticus DPC 4571]
+lhe
+))
+([Lactobacillus johnsonii]
+([Lactobacillus johnsonii FI9785]
+ljf
+)
+([Lactobacillus johnsonii NCC 533]
+ljo
+))
+([Lactobacillus plantarum]
+([Lactobacillus plantarum JDM1]
+lpj
+)
+([Lactobacillus plantarum WCFS1]
+lpl
+))
+([Lactobacillus reuteri]
+([Lactobacillus reuteri DSM 20016]
+lre
+)
+([Lactobacillus reuteri JCM 1112]
+lrf
+))
+([Lactobacillus rhamnosus]
+([Lactobacillus rhamnosus GG]
+lrh
+)
+([Lactobacillus rhamnosus Lc 705]
+lrl
+))
+([Lactobacillus sakei]
+([Lactobacillus sakei 23K]
+lsa
+))
+([Lactobacillus salivarius]
+([Lactobacillus salivarius subsp. salivarius UCC118]
+lsl
+)))
+([Pediococcus]
+([Pediococcus pentosaceus]
+([Pediococcus pentosaceus ATCC 25745]
+ppe
+))))
+([Leuconostocaceae]
+([Leuconostoc]
+([Leuconostoc citreum]
+([Leuconostoc citreum KM20]
+lci
+))
+([Leuconostoc kimchii]
+([Leuconostoc kimchii IMSNU11154]
+lki
+))
+([Leuconostoc mesenteroides]
+([Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293]
+lme
+)))
+([Oenococcus]
+([Oenococcus oeni]
+([Oenococcus oeni PSU-1]
+ooe
+))))
+([Streptococcaceae]
+([Lactococcus]
+([Lactococcus lactis]
+([Lactococcus lactis subsp. cremoris MG1363]
+llm
+)
+([Lactococcus lactis subsp. cremoris SK11]
+llc
+)
+([Lactococcus lactis IL1403]
+lla
+)
+([Lactococcus lactis KF147]
+llk
+)))
+([Streptococcus]
+([Streptococcus agalactiae]
+([Streptococcus agalactiae NEM316]
+san
+)
+([Streptococcus agalactiae A909]
+sak
+)
+([Streptococcus agalactiae 2603V/R]
+sag
+))
+([Streptococcus dysgalactiae group]
+([Streptococcus dysgalactiae]
+([Streptococcus dysgalactiae GGS_124]
+sds
+))
+([Streptococcus equi]
+([Streptococcus equi 4047]
+seu
+)
+([Streptococcus equi H70]
+([Streptococcus equi MGCS10565]
+sez
+))))
+([Streptococcus gallolyticus]
+([Streptococcus gallolyticus UCN34]
+sga
+))
+([Streptococcus gordonii]
+([Streptococcus gordonii Challis]
+sgo
+))
+([Streptococcus mitis]
+([Streptococcus mitis B6]
+smb
+))
+([Streptococcus mutans]
+([Streptococcus mutans NN2025]
+smc
+)
+([Streptococcus mutans UA159]
+smu
+))
+([Streptococcus pneumoniae]
+([Streptococcus pneumoniae 70585]
+snm
+)
+([Streptococcus pneumoniae ATCC 700669]
+sne
+)
+([Streptococcus pneumoniae CGSP14]
+spw
+)
+([Streptococcus pneumoniae D39]
+spd
+)
+([Streptococcus pneumoniae G54]
+spx
+)
+([Streptococcus pneumoniae Hungary19A-6]
+spv
+)
+([Streptococcus pneumoniae JJA]
+sjj
+)
+([Streptococcus pneumoniae P1031]
+spp
+)
+([Streptococcus pneumoniae R6]
+spr
+)
+([Streptococcus pneumoniae TCH8431/19A]
+snc
+)
+([Streptococcus pneumoniae TIGR4]
+spn
+)
+([Streptococcus pneumoniae Taiwan19F-14]
+snt
+))
+([Streptococcus pyogenes]
+([Streptococcus pyogenes SF370]
+spy
+)
+([Streptococcus pyogenes MGAS5005]
+spz
+)
+([Streptococcus pyogenes MGAS2096]
+spj
+)
+([Streptococcus pyogenes MGAS9429]
+spk
+)
+([Streptococcus pyogenes MGAS8232]
+spm
+)
+([Streptococcus pyogenes MGAS10270]
+sph
+)
+([Streptococcus pyogenes MGAS6180]
+spb
+)
+([Streptococcus pyogenes MGAS315]
+spg
+)
+([Streptococcus pyogenes SSI-1]
+sps
+)
+([Streptococcus pyogenes MGAS10750]
+spi
+)
+([Streptococcus pyogenes NZ131]
+soz
+)
+([Streptococcus pyogenes Manfredo]
+spf
+)
+([Streptococcus pyogenes MGAS10394]
+spa
+))
+([Streptococcus sanguinis]
+([Streptococcus sanguinis SK36]
+ssa
+))
+([Streptococcus suis]
+([Streptococcus suis 05ZYH33]
+ssu
+)
+([Streptococcus suis 98HAH33]
+ssv
+)
+([Streptococcus suis BM407]
+ssb
+)
+([Streptococcus suis P1/7]
+ssi
+)
+([Streptococcus suis SC84]
+sss
+))
+([Streptococcus thermophilus]
+([Streptococcus thermophilus CNRZ1066]
+stc
+)
+([Streptococcus thermophilus LMD-9]
+ste
+)
+([Streptococcus thermophilus LMG 18311]
+stl
+))
+([Streptococcus uberis]
+([Streptococcus uberis 0140J]
+sub
+))))))
+([Clostridia]
+([Clostridiales]
+([Clostridiaceae]
+([Alkaliphilus]
+([Alkaliphilus metalliredigens]
+([Alkaliphilus metalliredigens QYMF]
+amt
+))
+([Alkaliphilus oremlandii]
+([Alkaliphilus oremlandii OhILAs]
+aoe
+)))
+([Clostridium]
+([Clostridium acetobutylicum]
+([Clostridium acetobutylicum ATCC 824]
+cac
+))
+([Clostridium beijerinckii]
+([Clostridium beijerinckii NCIMB 8052]
+cbe
+))
+([Clostridium botulinum]
+([Clostridium botulinum ATCC 19397]
+cba
+)
+([Clostridium botulinum A ATCC 3502]
+cbo
+)
+([Clostridium botulinum Hall]
+cbh
+)
+([Clostridium botulinum Kyoto]
+cby
+)
+([Clostridium botulinum Loch Maree]
+cbl
+)
+([Clostridium botulinum Eklund 17B]
+cbk
+)
+([Clostridium botulinum Okra]
+cbb
+)
+([Clostridium botulinum 657]
+cbi
+)
+([Clostridium botulinum Alaska E43]
+cbt
+)
+([Clostridium botulinum Langeland]
+cbf
+))
+([Clostridium cellulolyticum]
+([Clostridium cellulolyticum H10]
+cce
+))
+([Clostridium difficile]
+([Clostridium difficile 630]
+cdf
+)
+([Clostridium difficile CD196]
+cdc
+)
+([Clostridium difficile R20291]
+cdl
+))
+([Clostridium kluyveri]
+([Clostridium kluyveri DSM 555]
+ckl
+)
+([Clostridium kluyveri NBRC 12016]
+ckr
+))
+([Clostridium novyi]
+([Clostridium novyi NT]
+cno
+))
+([Clostridium perfringens]
+([Clostridium perfringens ATCC 13124]
+cpf
+)
+([Clostridium perfringens SM101]
+cpr
+)
+([Burkholderia cepacia AMMD]
+bam
+)
+([Clostridium perfringens 13]
+cpe
+))
+([Clostridium phytofermentans]
+([Clostridium phytofermentans ISDg]
+cpy
+))
+([Clostridium tetani]
+([Clostridium tetani Massachusetts]
+ctc
+))
+([Clostridium thermocellum]
+([Clostridium thermocellum ATCC 27405]
+cth
+))))
+([Clostridiales incertae sedis]
+([Clostridiales Family XI. Incertae Sedis]
+([Anaerococcus]
+([Anaerococcus prevotii]
+([Anaerococcus prevotii DSM 20548]
+apr
+)))
+([Finegoldia]
+([Finegoldia magna]
+([Finegoldia magna ATCC 29328]
+fma
+))))
+([Clostridiales Family XVIII. Incertae Sedis]
+([Symbiobacterium]
+([Symbiobacterium thermophilum]
+([Symbiobacterium thermophilum IAM 14863]
+sth
+)))))
+([Eubacteriaceae]
+([Eubacterium]
+([Eubacterium eligens]
+([Eubacterium eligens ATCC 27750]
+eel
+))
+([Eubacterium rectale]
+([Eubacterium rectale ATCC 33656]
+ere
+))))
+([Heliobacteriaceae]
+([Heliobacterium]
+([Heliobacterium modesticaldum]
+([Heliobacterium modesticaldum Ice1; ATCC 51547]
+hmo
+))))
+([Peptococcaceae]
+([Candidatus Desulforudis]
+([Candidatus Desulforudis audaxviator]
+([Desulforudis audaxviator MP104C]
+dau
+)))
+([Desulfitobacterium]
+([Desulfitobacterium hafniense]
+([Desulfitobacterium hafniense DCB-2]
+dhd
+)
+([Desulfitobacterium hafniense Y51]
+dsy
+)))
+([Desulfotomaculum]
+([Desulfotomaculum acetoxidans]
+([Desulfotomaculum acetoxidans DSM 771]
+dae
+))
+([Desulfotomaculum reducens]
+([Desulfotomaculum reducens MI-1]
+drm
+)))
+([Pelotomaculum]
+([Pelotomaculum thermopropionicum]
+([Pelotomaculum thermopropionicum SI]
+pth
+)))
+([Thermincola]
+([Thermincola sp. JR]
+([Thermincola sp. JR]
+tjr
+))))
+([Syntrophomonadaceae]
+([Syntrophomonas]
+([Syntrophomonas wolfei]
+([Syntrophomonas wolfei subsp. wolfei Goettingen]
+swo
+)))
+([Syntrophothermus]
+([Syntrophothermus lipocalidus]
+([Syntrophothermus lipocalidus DSM 12680]
+slp
+))))
+([Veillonellaceae]
+([Acidaminococcus]
+([Acidaminococcus fermentans]
+([Acidaminococcus fermentans DSM 20731]
+afn
+)))
+([Veillonella]
+([Veillonella parvula]
+([Veillonella parvula DSM 2008]
+vpr
+))))
+([unclassified Clostridiales]
+([Anaerocellum group]
+([Anaerocellum]
+([Anaerocellum thermophilum]
+([Anaerocellum thermophilum DSM 6725]
+ate
+))))
+([unclassified Clostridiales (miscellaneous)]
+([Clostridiales genomosp. BVAB3]
+([Clostridiales genomosp. UPII9-5]
+clo
+)))))
+([Halanaerobiales]
+([Halanaerobiaceae]
+([Halothermothrix]
+([Halothermothrix orenii]
+([Halothermothrix orenii H 168]
+hor
+)))))
+([Natranaerobiales]
+([Natranaerobiaceae]
+([Natranaerobius]
+([Natranaerobius thermophilus]
+([Natranaerobius thermophilus JW/NM-WN-LF]
+nth
+)))))
+([Thermoanaerobacterales]
+([Thermoanaerobacteraceae]
+([Carboxydothermus]
+([Carboxydothermus hydrogenoformans]
+([Carboxydothermus hydrogenoformans Z-2901]
+chy
+)))
+([Moorella group]
+([Ammonifex]
+([Ammonifex degensii]
+([Ammonifex degensii KC4]
+adg
+)))
+([Moorella]
+([Moorella thermoacetica]
+([Moorella thermoacetica ATCC 39073]
+mta
+))))
+([Thermoanaerobacter]
+([Thermoanaerobacter italicus]
+([Thermoanaerobacter italicus Ab9]
+tit
+))
+([Thermoanaerobacter mathranii]
+([Thermoanaerobacter mathranii A3]
+tmt
+))
+([Thermoanaerobacter pseudethanolicus]
+([Thermoanaerobacter pseudethanolicus ATCC 33223; 39E]
+tpd
+))
+([Thermoanaerobacter sp. X514]
+([Thermoanaerobacter sp. X514]
+tex
+))
+([Thermoanaerobacter tengcongensis]
+([Thermoanaerobacter tengcongensis MB4T]
+tte
+))))
+([Thermoanaerobacterales Family III. Incertae Sedis]
+([Caldicellulosiruptor]
+([Caldicellulosiruptor saccharolyticus]
+([Caldicellulosiruptor saccharolyticus DSM 8903]
+csc
+))))
+([Thermodesulfobiaceae]
+([Coprothermobacter]
+([Coprothermobacter proteolyticus]
+([Coprothermobacter proteolyticus DSM 5265]
+cpo
+)))))))
+([Fusobacteria]
+([Fusobacteria (class)]
+([Fusobacteriales]
+([Fusobacteriaceae]
+([Fusobacterium]
+([Fusobacterium nucleatum]
+([Fusobacterium nucleatum ATCC 25586]
+fnu
+)))
+([Leptotrichia]
+([Leptotrichia buccalis]
+([Leptotrichia buccalis DSM 1135]
+lba
+)))
+([Sebaldella]
+([Sebaldella termitidis]
+([Sebaldella termitidis ATCC 33386]
+str
+)))
+([Streptobacillus]
+([Streptobacillus moniliformis]
+([Streptobacillus moniliformis DSM 12112]
+smf
+)))))))
+([Gemmatimonadetes]
+([Gemmatimonadetes (class)]
+([Gemmatimonadales]
+([Gemmatimonadaceae]
+([Gemmatimonas]
+([Gemmatimonas aurantiaca]
+([Gemmatimonas aurantiaca T-27]
+gau
+)))))))
+([Nitrospirae]
+([Nitrospira (class)]
+([Nitrospirales]
+([Nitrospiraceae]
+([Thermodesulfovibrio]
+([Thermodesulfovibrio yellowstonii]
+([Thermodesulfovibrio yellowstonii DSM 11347]
+tye
+)))))))
+([Planctomycetes]
+([Planctomycetacia]
+([Planctomycetales]
+([Planctomycetaceae]
+([Pirellula]
+([Pirellula staleyi]
+([Pirellula staleyi DSM 6068]
+psl
+)))
+([Planctomyces]
+([Planctomyces limnophilus]
+([Planctomyces limnophilus DSM 3776]
+plm
+)))
+([Rhodopirellula]
+([Rhodopirellula baltica]
+([Rhodopirellula baltica 1]
+rba
+)))))))
+([Proteobacteria]
+([Alphaproteobacteria]
+([Caulobacterales]
+([Caulobacteraceae]
+([Caulobacter]
+([Caulobacter segnis]
+([Caulobacter segnis ATCC 21756]
+cse
+))
+([Caulobacter sp. K31]
+([Caulobacter sp. K31]
+cak
+))
+([Caulobacter vibrioides]
+([Caulobacter crescentus CB15]
+([Caulobacter crescentus NA1000]
+ccs
+))))
+([Phenylobacterium]
+([Phenylobacterium zucineum]
+([Phenylobacterium zucineum HLK1]
+pzu
+)))))
+([Rhizobiales]
+([Bartonellaceae]
+([Bartonella]
+([Bartonella bacilliformis]
+([Bartonella bacilliformis KC583; ATCC 35685]
+bbk
+))
+([Bartonella grahamii]
+([Bartonella grahamii as4aup]
+bgr
+))
+([Bartonella henselae]
+([Bartonella henselae Houston-1]
+bhe
+))
+([Bartonella quintana]
+([Bartonella quintana Toulouse]
+bqu
+))
+([Bartonella tribocorum]
+([Bartonella tribocorum CIP 105476]
+btr
+))))
+([Beijerinckiaceae]
+([Beijerinckia]
+([Beijerinckia indica]
+([Beijerinckia indica ATCC 9039]
+bid
+)))
+([Methylocella]
+([Methylocella silvestris]
+([Methylocella silvestris BL2]
+msl
+))))
+([Bradyrhizobiaceae]
+([Bradyrhizobium]
+([Bradyrhizobium japonicum]
+([Bradyrhizobium japonicum USDA 110]
+bja
+))
+([Bradyrhizobium sp. BTAi1]
+([Bradyrhizobium sp. BTAi1]
+bbt
+))
+([Bradyrhizobium sp. ORS278]
+([Bradyrhizobium sp. ORS278]
+bra
+)))
+([Nitrobacter]
+([Nitrobacter hamburgensis]
+([Nitrobacter hamburgensis X14]
+nha
+))
+([Nitrobacter winogradskyi]
+([Nitrobacter winogradskyi Nb-255]
+nwi
+)))
+([Oligotropha]
+([Oligotropha carboxidovorans]
+([Oligotropha carboxidovorans OM5]
+oca
+)))
+([Rhodopseudomonas]
+([Rhodopseudomonas palustris]
+([Rhodopseudomonas palustris BisA53]
+rpe
+)
+([Rhodopseudomonas palustris BisB18]
+rpc
+)
+([Rhodopseudomonas palustris BisB5]
+rpd
+)
+([Rhodopseudomonas palustris CGA009]
+rpa
+)
+([Rhodopseudomonas palustris HaA2]
+rpb
+)
+([Rhodopseudomonas palustris TIE-1]
+rpt
+))))
+([Brucellaceae]
+([Brucella]
+([Brucella abortus]
+([Brucella abortus S19]
+bmc
+)
+([Brucella abortus biovar 1 9-941]
+bmb
+)
+([Brucella melitensis biovar Abortus 2308]
+bmf
+))
+([Brucella canis]
+([Brucella canis ATCC 23365]
+bcs
+))
+([Brucella melitensis]
+([Brucella melitensis 16M]
+bme
+)
+([Brucella melitensis ATCC 23457]
+bmi
+))
+([Brucella microti]
+([Brucella microti CCM 4915]
+bmr
+))
+([Brucella ovis]
+([Brucella ovis ATCC 25840]
+bov
+))
+([Brucella suis]
+([Brucella suis 1330]
+bms
+)
+([Brucella suis ATCC 23445]
+bmt
+)))
+([Ochrobactrum]
+([Ochrobactrum anthropi]
+([Ochrobactrum anthropi ATCC 49188]
+oan
+))))
+([Methylobacteriaceae]
+([Methylobacterium]
+([Methylobacterium extorquens group]
+([Methylobacterium chloromethanicum]
+([Methylobacterium chloromethanicum CM4]
+mch
+))
+([Methylobacterium extorquens]
+([Methylobacterium extorquens AM1]
+mea
+)
+([Methylobacterium extorquens DM4]
+mdi
+)
+([Methylobacterium extorquens PA1]
+mex
+)))
+([Methylobacterium nodulans]
+([Methylobacterium nodulans ORS 2060]
+mno
+))
+([Methylobacterium populi]
+([Methylobacterium populi BJ001]
+mpo
+))
+([Methylobacterium radiotolerans]
+([Methylobacterium radiotolerans JCM 2831]
+mrd
+))
+([Methylobacterium sp. 4-46]
+([Methylobacterium sp. 4-46]
+met
+))))
+([Phyllobacteriaceae]
+([Chelativorans]
+([Chelativorans sp. BNC1]
+([Mesorhizobium sp. BNC1]
+mes
+)))
+([Mesorhizobium]
+([Mesorhizobium loti]
+([Mesorhizobium loti MAFF303099]
+mlo
+)))
+([Parvibaculum]
+([Parvibaculum lavamentivorans]
+([Parvibaculum lavamentivorans DS-1]
+pla
+))))
+([Rhizobiaceae]
+([Candidatus Liberibacter]
+([Candidatus Liberibacter asiaticus]
+([Liberibacter asiaticus psy62]
+las
+)))
+([Rhizobium/Agrobacterium group]
+([Agrobacterium]
+([Agrobacterium tumefaciens]
+([Agrobacterium radiobacter K84]
+ara
+)
+([Agrobacterium tumefaciens C58]
+atu
+))
+([Agrobacterium vitis]
+([Agrobacterium vitis S4]
+avi
+)))
+([Rhizobium]
+([Rhizobium etli]
+([Rhizobium etli CFN 42]
+ret
+)
+([Rhizobium etli CIAT 652]
+rec
+))
+([Rhizobium leguminosarum]
+([Rhizobium leguminosarum WSM1325]
+rlg
+)
+([Rhizobium leguminosarum WSM2304]
+rlt
+)
+([Rhizobium leguminosarum bv. viciae 3841]
+rle
+))
+([Rhizobium sp. NGR234]
+([Rhizobium sp. NGR234]
+rhi
+))))
+([Sinorhizobium/Ensifer group]
+([Sinorhizobium]
+([Sinorhizobium medicae]
+([Sinorhizobium medicae WSM419]
+smd
+))
+([Sinorhizobium meliloti]
+([Sinorhizobium meliloti 1021]
+sme
+)))))
+([Xanthobacteraceae]
+([Azorhizobium]
+([Azorhizobium caulinodans]
+([Azorhizobium caulinodans ORS 571]
+azc
+)))
+([Starkeya]
+([Starkeya novella]
+([Starkeya novella DSM 506]
+sno
+)))
+([Xanthobacter]
+([Xanthobacter autotrophicus]
+([Xanthobacter autotrophicus Py2]
+xau
+))))
+([unclassified Rhizobiales]
+([Candidatus Hodgkinia]
+([Candidatus Hodgkinia cicadicola]
+([Hodgkinia cicadicola Dsem]
+hci
+)))))
+([Rhodobacterales]
+([Hyphomonadaceae]
+([Hirschia]
+([Hirschia baltica]
+([Hirschia baltica ATCC 49814]
+hba
+)))
+([Hyphomonas]
+([Hyphomonas neptunium]
+([Hyphomonas neptunium ATCC 15444]
+hne
+)))
+([Maricaulis]
+([Maricaulis maris]
+([Maricaulis maris MCS10]
+mmr
+))))
+([Rhodobacteraceae]
+([Dinoroseobacter]
+([Dinoroseobacter shibae]
+([Dinoroseobacter shibae DFL 12]
+dsh
+)))
+([Jannaschia]
+([Jannaschia sp. CCS1]
+([Jannaschia sp. CCS1]
+jan
+)))
+([Paracoccus]
+([Paracoccus denitrificans]
+([Paracoccus denitrificans PD1222]
+pde
+)))
+([Rhodobacter]
+([Rhodobacter capsulatus]
+([Rhodobacter capsulatus SB 1003]
+rcp
+))
+([Rhodobacter sphaeroides]
+([Rhodobacter sphaeroides 2.4.1; ATCC BAA-808]
+rsp
+)
+([Rhodobacter sphaeroides ATCC 17025]
+rsq
+)
+([Rhodobacter sphaeroides ATCC 17029]
+rsh
+)
+([Rhodobacter sphaeroides KD131]
+rsk
+)))
+([Roseobacter]
+([Roseobacter denitrificans]
+([Roseobacter denitrificans OCh 114]
+rde
+)))
+([Ruegeria]
+([Ruegeria pomeroyi]
+([Silicibacter pomeroyi DSS-3]
+sil
+))
+([Ruegeria sp. TM1040]
+([Silicibacter sp. TM1040]
+sit
+)))))
+([Rhodospirillales]
+([Acetobacteraceae]
+([Acetobacter]
+([Acetobacter pasteurianus]
+([Acetobacter pasteurianus IFO 3283-01]
+apt
+)))
+([Acidiphilium]
+([Acidiphilium cryptum]
+([Acidiphilium cryptum JF-5]
+acr
+)))
+([Gluconacetobacter]
+([Gluconacetobacter diazotrophicus]
+([Gluconacetobacter diazotrophicus PAl 5]
+gdi
+)
+([Gluconacetobacter diazotrophicus PAl 5]
+gdj
+)))
+([Gluconobacter]
+([Gluconobacter oxydans]
+([Gluconobacter oxydans 621H]
+gox
+)))
+([Granulibacter]
+([Granulibacter bethesdensis]
+([Granulibacter bethesdensis CGDNIH1]
+gbe
+))))
+([Rhodospirillaceae]
+([Azospirillum]
+([Azospirillum sp. B510]
+([Azospirillum sp. B510]
+azl
+)))
+([Magnetospirillum]
+([Magnetospirillum magneticum]
+([Magnetospirillum magneticum AMB-1]
+mag
+)))
+([Rhodospirillum]
+([Rhodospirillum centenum]
+([Rhodospirillum centenum SW]
+rce
+))
+([Rhodospirillum rubrum]
+([Rhodospirillum rubrum ATCC 11170]
+rru
+)))))
+([Rickettsiales]
+([Anaplasmataceae]
+([Anaplasma]
+([Anaplasma centrale]
+([Anaplasma centrale Israel]
+acn
+))
+([Anaplasma marginale]
+([Anaplasma marginale Florida]
+amf
+)
+([Anaplasma marginale St. Maries]
+ama
+))
+([phagocytophilum group]
+([Anaplasma phagocytophilum]
+([Anaplasma phagocytophilum HZ]
+aph
+))))
+([Ehrlichia]
+([canis group]
+([Ehrlichia canis]
+([Ehrlichia canis Jake]
+ecn
+))
+([Ehrlichia chaffeensis]
+([Ehrlichia chaffeensis Arkansas]
+ech
+))
+([Ehrlichia ruminantium]
+([Ehrlichia ruminantium Gardel]
+erg
+)
+([Ehrlichia ruminantium Welgevonden(Pretoria)]
+eru
+)
+([Ehrlichia ruminantium Welgevonden(CIRAD)]
+erw
+))))
+([Neorickettsia]
+([Neorickettsia risticii]
+([Neorickettsia risticii Illinois]
+nri
+))
+([Neorickettsia sennetsu]
+([Neorickettsia sennetsu Miyayama]
+nse
+))))
+([Rickettsiaceae]
+([Rickettsieae]
+([Orientia]
+([Orientia tsutsugamushi]
+([Orientia tsutsugamushi Boryong]
+ots
+)
+([Orientia tsutsugamushi Ikeda]
+ott
+)))
+([Rickettsia]
+([spotted fever group]
+([Rickettsia africae]
+([Rickettsia africae ESF-5]
+raf
+))
+([Rickettsia akari]
+([Rickettsia akari Hartford]
+rak
+))
+([Rickettsia conorii]
+([Rickettsia conorii Malish 7]
+rco
+))
+([Rickettsia felis]
+([Rickettsia felis URRWXCal2; California 2]
+rfe
+))
+([Rickettsia massiliae]
+([Rickettsia massiliae MTU5]
+rms
+))
+([Rickettsia peacockii]
+([Rickettsia peacockii Rustic]
+rpk
+))
+([Rickettsia rickettsii]
+([Rickettsia rickettsii Sheila Smith]
+rri
+)
+([Rickettsia rickettsii Iowa]
+rrj
+)))
+([typhus group]
+([Rickettsia canadensis]
+([Rickettsia canadensis McKiel]
+rcm
+))
+([Rickettsia prowazekii]
+([Rickettsia prowazekii Madrid E]
+rpr
+))
+([Rickettsia typhi]
+([Rickettsia typhi Wilmington]
+rty
+)))
+([unclassified Rickettsia]
+([Rickettsia bellii]
+([Rickettsia bellii OSU 85-389]
+rbo
+)
+([Rickettsia bellii RML369-C]
+rbe
+)))))
+([Wolbachieae]
+([Wolbachia]
+([Wolbachia endosymbiont of Brugia malayi]
+([Wolbachia endosymbiont TRS]
+wbm
+))
+([Wolbachia endosymbiont of Culex quinquefasciatus]
+([Wolbachia endosymbiont wPip]
+wpi
+))
+([Wolbachia endosymbiont of Drosophila melanogaster]
+([Wolbachia endosymbiont wMel]
+wol
+))
+([Wolbachia sp. wRi]
+([Wolbachia sp. wRi]
+wri
+)))))
+([SAR11 cluster]
+([Candidatus Pelagibacter]
+([Candidatus Pelagibacter ubique]
+([Pelagibacter ubique HTCC1062]
+pub
+)))))
+([Sphingomonadales]
+([Erythrobacteraceae]
+([Erythrobacter]
+([Erythrobacter litoralis]
+([Erythrobacter litoralis HTCC2594]
+eli
+))))
+([Sphingomonadaceae]
+([Novosphingobium]
+([Novosphingobium aromaticivorans]
+([Novosphingobium aromaticivorans DSM 12444]
+nar
+)))
+([Sphingobium]
+([Sphingobium japonicum]
+([Sphingobium japonicum UT26S]
+sjp
+)))
+([Sphingomonas]
+([Sphingomonas wittichii]
+([Sphingomonas wittichii R1 RW1]
+swi
+)))
+([Sphingopyxis]
+([Sphingopyxis alaskensis]
+([Sphingopyxis alaskensis RB2256]
+sal
+)))
+([Zymomonas]
+([Zymomonas mobilis]
+([Zymomonas mobilis NCIB 11163]
+zmn
+)
+([Zymomonas mobilis ZM4; ATCC 31821]
+zmo
+)))))
+([unclassified Alphaproteobacteria]
+([SAR116 cluster]
+([Candidatus Puniceispirillum]
+([Candidatus Puniceispirillum marinum]
+([Puniceispirillum marinum IMCC1322]
+apb
+))))))
+([Betaproteobacteria]
+([Burkholderiales]
+([Alcaligenaceae]
+([Bordetella]
+([Bordetella avium]
+([Bordetella avium 197N]
+bav
+))
+([Bordetella bronchiseptica]
+([Bordetella bronchiseptica RB50]
+bbr
+))
+([Bordetella parapertussis]
+([Bordetella parapertussis 12822]
+bpa
+))
+([Bordetella pertussis]
+([Bordetella pertussis Tohama I]
+bpe
+))
+([Bordetella petrii]
+([Bordetella petrii DSM 12804]
+bpt
+))))
+([Burkholderiaceae]
+([Burkholderia]
+([Burkholderia cepacia complex]
+([Burkholderia ambifaria]
+([Burkholderia ambifaria MC40-6]
+bac
+))
+([Burkholderia cenocepacia]
+([Burkholderia cenocepacia AU 1054]
+bcn
+)
+([Burkholderia cenocepacia HI2424]
+bch
+)
+([Burkholderia cenocepacia J2315]
+bcj
+)
+([Burkholderia cenocepacia MC0-3]
+bcm
+))
+([Burkholderia multivorans]
+([Burkholderia multivorans ATCC 17616]
+bmu
+)
+([Burkholderia multivorans ATCC 17616]
+bmj
+))
+([Burkholderia sp. 383]
+([Burkholderia sp. 383]
+bur
+))
+([Burkholderia vietnamiensis]
+([Burkholderia vietnamiensis G4]
+bvi
+)))
+([Burkholderia glumae]
+([Burkholderia glumae BGR1]
+bgl
+))
+([Burkholderia phymatum]
+([Burkholderia phymatum STM815]
+bph
+))
+([Burkholderia phytofirmans]
+([Burkholderia phytofirmans PsJN]
+bpy
+))
+([Burkholderia sp. CCGE1002]
+([Burkholderia sp. CCGE1002]
+bge
+))
+([Burkholderia xenovorans]
+([Burkholderia xenovorans LB400]
+bxe
+))
+([pseudomallei group]
+([Burkholderia mallei]
+([Burkholderia mallei ATCC 23344]
+bma
+)
+([Burkholderia mallei NCTC 10229]
+bml
+)
+([Burkholderia mallei NCTC 10247]
+bmn
+)
+([Burkholderia mallei SAVP1]
+bmv
+))
+([Burkholderia pseudomallei]
+([Burkholderia pseudomallei a 1106a]
+bpl
+)
+([Burkholderia pseudomallei 1710b]
+bpm
+)
+([Burkholderia pseudomallei 668]
+bpd
+)
+([Burkholderia pseudomallei K96243]
+bps
+)
+([Burkholderia pseudomallei MSHR346]
+bpr
+))
+([Burkholderia thailandensis]
+([Burkholderia thailandensis E264; ATCC 700388]
+bte
+))))
+([Cupriavidus]
+([Cupriavidus metallidurans]
+([Ralstonia metallidurans CH34]
+rme
+))
+([Cupriavidus necator]
+([Ralstonia eutropha H16]
+reh
+))
+([Cupriavidus pinatubonensis]
+([Ralstonia eutropha JMP134]
+reu
+))
+([Cupriavidus taiwanensis]
+([Cupriavidus taiwanensis LMG 19424]
+cti
+)))
+([Polynucleobacter]
+([Polynucleobacter necessarius]
+([Polynucleobacter sp. QLW-P1DMWA-1]
+pnu
+)
+([Polynucleobacter necessarius STIR1]
+pne
+)))
+([Ralstonia]
+([Ralstonia pickettii]
+([Ralstonia pickettii 12D]
+rpf
+)
+([Ralstonia pickettii 12J]
+rpi
+))
+([Ralstonia solanacearum]
+([Ralstonia solanacearum GMI1000]
+rso
+))))
+([Comamonadaceae]
+([Acidovorax]
+([Acidovorax citrulli]
+([Acidovorax avenae subsp. citrulli AAC00-1]
+aav
+))
+([Acidovorax ebreus]
+([Diaphorobacter sp. TPSY]
+dia
+))
+([Acidovorax sp. JS42]
+([Acidovorax sp. JS42]
+ajs
+)))
+([Comamonas]
+([Comamonas testosteroni]
+([Comamonas testosteroni CNB-1]
+ctt
+)))
+([Delftia]
+([Delftia acidovorans]
+([Delftia acidovorans SPH-1]
+dac
+)))
+([Polaromonas]
+([Polaromonas naphthalenivorans]
+([Polaromonas naphthalenivorans CJ2]
+pna
+))
+([Polaromonas sp. JS666]
+([Polaromonas sp. JS666]
+pol
+)))
+([Rhodoferax]
+([Rhodoferax ferrireducens]
+([Rhodoferax ferrireducens T118; DSM 15236; ATCC BAA-621]
+rfr
+)))
+([Variovorax]
+([Variovorax paradoxus]
+([Variovorax paradoxus S110]
+vap
+)))
+([Verminephrobacter]
+([Verminephrobacter eiseniae]
+([Verminephrobacter eiseniae EF01-2]
+vei
+))))
+([Oxalobacteraceae]
+([Herminiimonas]
+([Herminiimonas arsenicoxydans]
+([Herminiimonas arsenicoxydans ]
+har
+)))
+([Janthinobacterium]
+([Janthinobacterium sp. Marseille]
+([Janthinobacterium sp. Marseille]
+mms
+))))
+([unclassified Burkholderiales]
+([Burkholderiales Genera incertae sedis]
+([Leptothrix]
+([Leptothrix cholodnii]
+([Leptothrix cholodnii SP-6]
+lch
+)))
+([Methylibium]
+([Methylibium petroleiphilum]
+([Methylibium petroleiphilum PM1]
+mpt
+)))
+([Thiomonas]
+([Thiomonas intermedia]
+([Thiomonas intermedia K12]
+tin
+))))))
+([Gallionellales]
+([Gallionellaceae]
+([Sideroxydans]
+([Sideroxydans lithotrophicus]
+([Sideroxydans lithotrophicus ES-1]
+slt
+)))))
+([Hydrogenophilales]
+([Hydrogenophilaceae]
+([Thiobacillus]
+([Thiobacillus denitrificans]
+([Thiobacillus denitrificans ATCC 25259]
+tbd
+)))))
+([Methylophilales]
+([Methylophilaceae]
+([Methylobacillus]
+([Methylobacillus flagellatus]
+([Methylobacillus flagellatus KT]
+mfa
+)))
+([Methylotenera]
+([Methylotenera mobilis]
+([Methylotenera mobilis JLW8]
+mmb
+))
+([Methylotenera sp. 301]
+([Methylotenera sp. 301]
+meh
+)))
+([Methylovorus]
+([Methylovorus sp. SIP3-4]
+([Methylovorus sp. SIP3-4]
+mei
+)))))
+([Neisseriales]
+([Neisseriaceae]
+([Chromobacterium group]
+([Chromobacterium]
+([Chromobacterium violaceum]
+([Chromobacterium violaceum ATCC 12472]
+cvi
+))))
+([Laribacter]
+([Laribacter hongkongensis]
+([Laribacter hongkongensis HLHK9]
+lhk
+)))
+([Neisseria]
+([Neisseria gonorrhoeae]
+([Neisseria gonorrhoeae FA 1090]
+ngo
+)
+([Neisseria gonorrhoeae NCCP11945]
+ngk
+))
+([Neisseria meningitidis]
+([Neisseria meningitidis 053442]
+nmn
+)
+([Neisseria meningitidis alpha14]
+nmi
+)
+([Neisseria meningitidis Z2491]
+nma
+)
+([Neisseria meningitidis MC58]
+nme
+)
+([Neisseria meningitidis FAM18]
+nmc
+)))))
+([Nitrosomonadales]
+([Nitrosomonadaceae]
+([Nitrosomonas]
+([Nitrosomonas europaea]
+([Nitrosomonas europaea ATCC 19718]
+neu
+))
+([Nitrosomonas eutropha]
+([Nitrosomonas eutropha C71]
+net
+)))
+([Nitrosospira]
+([Nitrosospira multiformis]
+([Nitrosospira multiformis ATCC 25196]
+nmu
+)))))
+([Rhodocyclales]
+([Rhodocyclaceae]
+([Aromatoleum]
+([Aromatoleum aromaticum]
+([Azoarcus sp. EbN1]
+eba
+)))
+([Azoarcus]
+([Azoarcus sp. BH72]
+([Azoarcus sp. BH72]
+azo
+)))
+([Dechloromonas]
+([Dechloromonas aromatica]
+([Dechloromonas aromatica RCB]
+dar
+)))
+([Thauera]
+([Thauera sp. MZ1T]
+([Thauera sp. MZ1T]
+tmz
+)))))
+([unclassified Betaproteobacteria]
+([Candidatus Accumulibacter]
+([Candidatus Accumulibacter phosphatis]
+([Accumulibacter phosphatis UW-1]
+app
+)))))
+([Gammaproteobacteria]
+([Acidithiobacillales]
+([Acidithiobacillaceae]
+([Acidithiobacillus]
+([Acidithiobacillus ferrooxidans]
+([Acidithiobacillus ferrooxidans ATCC 23270]
+afr
+)
+([Acidithiobacillus ferrooxidans ATCC 53993]
+afe
+)))))
+([Aeromonadales]
+([Aeromonadaceae]
+([Aeromonas]
+([Aeromonas hydrophila]
+([Aeromonas hydrophila subsp. hydrophila ATCC 7966]
+aha
+))
+([Aeromonas salmonicida]
+([Aeromonas salmonicida subsp. salmonicida A449]
+asa
+)))
+([Tolumonas]
+([Tolumonas auensis]
+([Tolumonas auensis DSM 9187]
+tau
+)))))
+([Alteromonadales]
+([Alteromonadaceae]
+([Alteromonas]
+([Alteromonas macleodii]
+([Alteromonas macleodii ]
+amc
+)))
+([Marinobacter]
+([Marinobacter hydrocarbonoclasticus]
+([Marinobacter aquaeolei VT8]
+maq
+)))
+([Saccharophagus]
+([Saccharophagus degradans]
+([Saccharophagus degradans 2-40]
+sde
+))))
+([Alteromonadales genera incertae sedis]
+([Teredinibacter]
+([Teredinibacter turnerae]
+([Teredinibacter turnerae T7901]
+ttu
+))))
+([Colwelliaceae]
+([Colwellia]
+([Colwellia psychrerythraea]
+([Colwellia psychrerythraea 34H; BAA-681]
+cps
+))))
+([Idiomarinaceae]
+([Idiomarina]
+([Idiomarina loihiensis]
+([Idiomarina loihiensis L2TR]
+ilo
+))))
+([Pseudoalteromonadaceae]
+([Pseudoalteromonas]
+([Pseudoalteromonas atlantica]
+([Pseudoalteromonas atlantica T6c]
+pat
+))
+([Pseudoalteromonas haloplanktis]
+([Pseudoalteromonas haloplanktis TAC125]
+pha
+))))
+([Psychromonadaceae]
+([Psychromonas]
+([Psychromonas ingrahamii]
+([Psychromonas ingrahamii 37]
+pin
+))))
+([Shewanellaceae]
+([Shewanella]
+([Shewanella amazonensis]
+([Shewanella amazonensis SB2B]
+saz
+))
+([Shewanella baltica]
+([Shewanella baltica OS155]
+sbl
+)
+([Shewanella baltica OS185]
+sbm
+)
+([Shewanella baltica OS195]
+sbn
+)
+([Shewanella baltica OS223]
+sbp
+))
+([Shewanella denitrificans]
+([Shewanella denitrificans OS217]
+sdn
+))
+([Shewanella frigidimarina]
+([Shewanella frigidimarina NCIMB 400]
+sfr
+))
+([Shewanella halifaxensis]
+([Shewanella halifaxensis HAW-EB4]
+shl
+))
+([Shewanella loihica]
+([Shewanella loihica PV-4]
+slo
+))
+([Shewanella oneidensis]
+([Shewanella oneidensis MR-1]
+son
+))
+([Shewanella pealeana]
+([Shewanella pealeana ATCC 700345]
+spl
+))
+([Shewanella piezotolerans]
+([Shewanella piezotolerans WP3]
+swp
+))
+([Shewanella putrefaciens]
+([Shewanella putrefaciens CN-32]
+spc
+))
+([Shewanella sediminis]
+([Shewanella sediminis HAW-EB3]
+sse
+))
+([Shewanella sp. ANA-3]
+([Shewanella sp. ANA-3]
+shn
+))
+([Shewanella sp. MR-4]
+([Shewanella sp. MR-4]
+she
+))
+([Shewanella sp. MR-7]
+([Shewanella sp. MR-7]
+shm
+))
+([Shewanella sp. W3-18-1]
+([Shewanella sp. W3-18-1]
+shw
+))
+([Shewanella violacea]
+([Shewanella violacea DSS12]
+svo
+))
+([Shewanella woodyi]
+([Shewanella woodyi ATCC 51908]
+swd
+)))))
+([Cardiobacteriales]
+([Cardiobacteriaceae]
+([Dichelobacter]
+([Dichelobacter nodosus]
+([Dichelobacter nodosus VCS1703A]
+dno
+)))))
+([Chromatiales]
+([Chromatiaceae]
+([Allochromatium]
+([Allochromatium vinosum]
+([Allochromatium vinosum DSM 180]
+alv
+)))
+([Nitrosococcus]
+([Nitrosococcus halophilus]
+([Nitrosococcus halophilus Nc4]
+nhl
+))
+([Nitrosococcus oceani]
+([Nitrosococcus oceani ATCC 19707]
+noc
+))))
+([Ectothiorhodospiraceae]
+([Alkalilimnicola]
+([Alkalilimnicola ehrlichii]
+([Alkalilimnicola ehrlichei MLHE-1]
+aeh
+)))
+([Halorhodospira]
+([Halorhodospira halophila]
+([Halorhodospira halophila SL1]
+hha
+)))
+([Thioalkalivibrio]
+([Thioalkalivibrio sp. HL-EbGR7]
+([Thioalkalivibrio sp. HL-EbGR7]
+tgr
+))
+([Thioalkalivibrio sp. K90mix]
+([Thioalkalivibrio sp. K90mix]
+tkm
+))))
+([Halothiobacillaceae]
+([Halothiobacillus]
+([Halothiobacillus neapolitanus]
+([Halothiobacillus neapolitanus c2]
+hna
+)))))
+([Enterobacteriales]
+([Enterobacteriaceae]
+([Buchnera]
+([Buchnera aphidicola]
+([Buchnera aphidicola APS]
+buc
+)
+([Buchnera aphidicola 5A]
+bap
+)
+([Buchnera aphidicola Tuc7]
+bau
+)
+([Buchnera aphidicola Bp (Baizongia pistaciae)]
+bab
+)
+([Buchnera aphidicola Cc]
+bcc
+)
+([Buchnera aphidicola Sg]
+bas
+)))
+([Candidatus Riesia]
+([Candidatus Riesia pediculicola]
+([Riesia pediculicola USDA]
+rip
+)))
+([Citrobacter]
+([Citrobacter koseri]
+([Citrobacter koseri ATCC BAA-895]
+cko
+))
+([Citrobacter rodentium]
+([Citrobacter rodentium ICC168]
+cro
+)))
+([Cronobacter]
+([Cronobacter sakazakii]
+([Enterobacter sakazakii ATCC BAA-894]
+esa
+))
+([Cronobacter turicensis]
+([Cronobacter turicensis ]
+ctu
+)))
+([Dickeya]
+([Dickeya dadantii]
+([Dickeya dadantii Ech586]
+ddc
+)
+([Dickeya dadantii Ech703]
+dda
+))
+([Dickeya zeae]
+([Dickeya zeae Ech1591]
+dze
+)))
+([Edwardsiella]
+([Edwardsiella ictaluri]
+([Edwardsiella ictaluri 93-146]
+eic
+))
+([Edwardsiella tarda]
+([Edwardsiella tarda EIB202]
+etr
+)))
+([Enterobacter]
+([Enterobacter cloacae complex]
+([Enterobacter cloacae]
+([Enterobacter cloacae ATCC 13047]
+enc
+)))
+([Enterobacter sp. 638]
+([Enterobacter sp. 638]
+ent
+)))
+([Erwinia]
+([Erwinia amylovora]
+([Erwinia amylovora ATCC 49946]
+eay
+)
+([Erwinia amylovora CFBP1430]
+eam
+))
+([Erwinia pyrifoliae]
+([Erwinia pyrifoliae Ep1/96]
+epy
+))
+([Erwinia tasmaniensis]
+([Erwinia tasmaniensis Et1/99]
+eta
+)))
+([Escherichia]
+([Escherichia coli]
+([Escherichia coli 536]
+ecp
+)
+([Escherichia coli 55989]
+eck
+)
+([Escherichia coli APEC O1]
+ecv
+)
+([Escherichia coli REL606]
+ebr
+)
+([Escherichia coli BL21(DE3)]
+ebd
+)
+([Escherichia coli ATCC 8739]
+ecl
+)
+([Escherichia coli CFT073]
+ecc
+)
+([Escherichia coli E24377A]
+ecw
+)
+([Escherichia coli ED1a]
+ecq
+)
+([Escherichia coli HS]
+ecx
+)
+([Escherichia coli IAI1]
+ecr
+)
+([Escherichia coli IAI39]
+ect
+)
+([Escherichia coli BW2952]
+ebw
+)
+([Escherichia coli K-12 DH10B]
+ecd
+)
+([Escherichia coli K-12 MG1655]
+eco
+)
+([Escherichia coli K-12 W3110]
+ecj
+)
+([Escherichia coli 12009]
+eoh
+)
+([Escherichia coli 11128]
+eoi
+)
+([Escherichia coli E2348/69]
+ecg
+)
+([Escherichia coli EC4115]
+ecf
+)
+([Escherichia coli Sakai]
+ecs
+)
+([Escherichia coli TW14359]
+etw
+)
+([Escherichia coli EDL933]
+ece
+)
+([Escherichia coli 11368]
+eoj
+)
+([Escherichia coli CB9615]
+eok
+)
+([Escherichia coli S88]
+ecz
+)
+([Escherichia coli SE11]
+ecy
+)
+([Escherichia coli SECEC SMS-3-5]
+ecm
+)
+([Escherichia coli UMN026]
+emu
+)
+([Escherichia coli UTI89]
+eci
+))
+([Escherichia fergusonii]
+([Escherichia fergusonii ATCC 35469]
+efe
+)))
+([Klebsiella]
+([Klebsiella pneumoniae]
+([Klebsiella pneumoniae 342]
+kpe
+)
+([Klebsiella pneumoniae NTUH-K2044]
+kpu
+)
+([Klebsiella pneumoniae ATCC 700721; MGH 78578]
+kpn
+))
+([Klebsiella variicola]
+([Klebsiella variicola At-22]
+kva
+)))
+([Pantoea]
+([Pantoea ananatis]
+([Pantoea ananatis LMG 20103]
+pam
+)))
+([Pectobacterium]
+([Pectobacterium atrosepticum]
+([Erwinia carotovora SCRI1043]
+eca
+))
+([Pectobacterium carotovorum]
+([Pectobacterium carotovorum PC1]
+pct
+))
+([Pectobacterium wasabiae]
+([Pectobacterium wasabiae WPP163]
+pwa
+)))
+([Photorhabdus]
+([Photorhabdus asymbiotica]
+([Photorhabdus asymbiotica ATCC 43949]
+pay
+))
+([Photorhabdus luminescens]
+([Photorhabdus luminescens TTO1]
+plu
+)))
+([Proteus]
+([Proteus mirabilis]
+([Proteus mirabilis HI4320]
+pmr
+)))
+([Salmonella]
+([Salmonella enterica]
+([Salmonella enterica RSK2980]
+ses
+)
+([Salmonella enterica SL483]
+sea
+)
+([Salmonella enterica SC-B67]
+sec
+)
+([Salmonella enterica CT_02021853]
+sed
+)
+([Salmonella enterica P125109]
+set
+)
+([Salmonella enterica 287/91]
+seg
+)
+([Salmonella enterica SL476]
+seh
+)
+([Salmonella enterica SL254]
+see
+)
+([Salmonella enterica AKU12601]
+sek
+)
+([Salmonella enterica ATCC 9150]
+spt
+)
+([Salmonella enterica SGSC4150; SPB7]
+spq
+)
+([Salmonella enterica RKS4594]
+sei
+)
+([Salmonella enterica CVM19633]
+sew
+)
+([Salmonella enterica CT18]
+sty
+)
+([Salmonella enterica Ty2]
+stt
+)
+([Salmonella typhimurium LT2; SGSC 1412; ATCC 700720]
+stm
+)))
+([Serratia]
+([Serratia proteamaculans]
+([Serratia proteamaculans 568]
+spe
+)))
+([Shigella]
+([Shigella boydii]
+([Shigella boydii BS512; CDC 3083-94]
+sbc
+)
+([Shigella boydii Sb227]
+sbo
+))
+([Shigella dysenteriae]
+([Shigella dysenteriae Sd197]
+sdy
+))
+([Shigella flexneri]
+([Shigella flexneri 2457T]
+sfx
+)
+([Shigella flexneri 301]
+sfl
+)
+([Shigella flexneri 5 8401]
+sfv
+))
+([Shigella sonnei]
+([Shigella sonnei Ss046]
+ssn
+)))
+([Sodalis]
+([Sodalis glossinidius]
+([Sodalis glossinidius morsitans]
+sgl
+)))
+([Wigglesworthia]
+([Wigglesworthia glossinidia]
+([Wigglesworthia glossinidia ]
+wbr
+)))
+([Xenorhabdus]
+([Xenorhabdus bovienii]
+([Xenorhabdus bovienii SS-2004]
+xbo
+)))
+([Yersinia]
+([Yersinia enterocolitica]
+([Yersinia enterocolitica subsp. enterocolitica 8081]
+yen
+))
+([Yersinia pestis]
+([Yersinia pestis Angola]
+ypg
+)
+([Yersinia pestis Antiqua]
+ypa
+)
+([Yersinia pestis CO92]
+ype
+)
+([Yersinia pestis KIM]
+ypk
+)
+([Yersinia pestis Nepal516]
+ypn
+)
+([Yersinia pestis Pestoides F]
+ypp
+)
+([Yersinia pestis Z176003]
+ypz
+)
+([Yersinia pestis 91001]
+ypm
+))
+([Yersinia pseudotuberculosis]
+([Yersinia pseudotuberculosis IP 31758]
+ypi
+)
+([Yersinia pseudotuberculosis IP 32953]
+yps
+)
+([Yersinia pseudotuberculosis PB1/+]
+ypb
+)
+([Yersinia pseudotuberculosis YPIII]
+ypy
+)))
+([unclassified Enterobacteriaceae]
+([ant, tsetse, mealybug, aphid, etc. endosymbionts]
+([ant endosymbionts]
+([Candidatus Blochmannia]
+([Candidatus Blochmannia floridanus]
+([Blochmannia floridanus ]
+bfl
+))
+([Candidatus Blochmannia pennsylvanicus]
+([Blochmannia pennsylvanicus BPEN]
+bpn
+))))
+([aphid secondary symbionts]
+([Candidatus Hamiltonella]
+([Candidatus Hamiltonella defensa]
+([Hamiltonella defensa T5A]
+hde
+))))))))
+([Legionellales]
+([Coxiellaceae]
+([Coxiella]
+([Coxiella burnetii]
+([Coxiella burnetii CbuG_Q212]
+cbg
+)
+([Coxiella burnetii CbuK_Q154]
+cbc
+)
+([Coxiella burnetii Dugway 7E9-12]
+cbd
+)
+([Coxiella burnetii RSA 331]
+cbs
+)
+([Coxiella burnetii RSA 493]
+cbu
+))))
+([Legionellaceae]
+([Legionella]
+([Legionella longbeachae]
+([Legionella longbeachae NSW150]
+llo
+))
+([Legionella pneumophila]
+([Legionella pneumophila 2300/99 Alcoy]
+lpa
+)
+([Legionella pneumophila Corby]
+lpc
+)
+([Legionella pneumophila Lens]
+lpf
+)
+([Legionella pneumophila Paris]
+lpp
+)
+([Legionella pneumophila Philadelphia 1]
+lpn
+)))))
+([Methylococcales]
+([Methylococcaceae]
+([Methylococcus]
+([Methylococcus capsulatus]
+([Methylococcus capsulatus Bath]
+mca
+)))))
+([Oceanospirillales]
+([Alcanivoracaceae]
+([Alcanivorax]
+([Alcanivorax borkumensis]
+([Alcanivorax borkumensis SK2]
+abo
+))))
+([Hahellaceae]
+([Hahella]
+([Hahella chejuensis]
+([Hahella chejuensis KCTC 2396]
+hch
+))))
+([Halomonadaceae]
+([Chromohalobacter]
+([Chromohalobacter salexigens]
+([Chromohalobacter salexigens DSM 3043]
+csa
+))))
+([Oceanospirillaceae]
+([Marinomonas]
+([Marinomonas sp. MWYL1]
+([Marinomonas sp. MWYL1]
+mmw
+)))))
+([Pasteurellales]
+([Pasteurellaceae]
+([Actinobacillus]
+([Actinobacillus pleuropneumoniae]
+([Actinobacillus pleuropneumoniae L20]
+apl
+)
+([Actinobacillus pleuropneumoniae JL03]
+apj
+)
+([Actinobacillus pleuropneumoniae AP76]
+apa
+))
+([Actinobacillus succinogenes]
+([Actinobacillus succinogenes 130Z]
+asu
+)))
+([Aggregatibacter]
+([Aggregatibacter actinomycetemcomitans]
+([Aggregatibacter actinomycetemcomitans D11S-1]
+aat
+))
+([Aggregatibacter aphrophilus]
+([Aggregatibacter aphrophilus NJ8700]
+aap
+)))
+([Basfia]
+([Mannheimia succiniciproducens]
+([Mannheimia succiniciproducens MBEL55E]
+msu
+)))
+([Haemophilus]
+([Haemophilus ducreyi]
+([Haemophilus ducreyi 35000HP]
+hdu
+))
+([Haemophilus influenzae]
+([Haemophilus influenzae 86-028NP]
+hit
+)
+([Haemophilus influenzae PittEE]
+hip
+)
+([Haemophilus influenzae PittGG]
+hiq
+)
+([Haemophilus influenzae Rd KW20]
+hin
+))
+([Haemophilus parasuis]
+([Haemophilus parasuis SH0165]
+hap
+)))
+([Histophilus]
+([Histophilus somni]
+([Haemophilus somnus 129Pt]
+hso
+)
+([Haemophilus somnus 2336]
+hsm
+)))
+([Pasteurella]
+([Pasteurella multocida]
+([Pasteurella multocida PM70]
+pmu
+)))))
+([Pseudomonadales]
+([Moraxellaceae]
+([Acinetobacter]
+([Acinetobacter baumannii]
+([Acinetobacter baumannii AB0057]
+abn
+)
+([Acinetobacter baumannii AB307-0294]
+abb
+)
+([Acinetobacter baumannii ACICU]
+abc
+)
+([Acinetobacter baumannii ATCC 17978]
+acb
+)
+([Acinetobacter baumannii AYE]
+aby
+)
+([Acinetobacter baumannii SDF]
+abm
+))
+([Acinetobacter sp. ADP1]
+([Acinetobacter sp. ADP1]
+aci
+)))
+([Moraxella]
+([Branhamella]
+([Moraxella catarrhalis]
+([Moraxella catarrhalis RH4]
+mct
+))))
+([Psychrobacter]
+([Psychrobacter arcticus]
+([Psychrobacter arcticus 273-4]
+par
+))
+([Psychrobacter cryohalolentis]
+([Psychrobacter cryohalolentis K5]
+pcr
+))
+([Psychrobacter sp. PRwf-1]
+([Psychrobacter sp. PRwf-1]
+prw
+))))
+([Pseudomonadaceae]
+([Azotobacter group]
+([Azotobacter]
+([Azotobacter vinelandii]
+([Azotobacter vinelandii DJ]
+avn
+))))
+([Cellvibrio]
+([Cellvibrio japonicus]
+([Cellvibrio japonicus Ueda107]
+cja
+)))
+([Pseudomonas]
+([Pseudomonas aeruginosa group]
+([Pseudomonas aeruginosa]
+([Pseudomonas aeruginosa LESB58]
+pag
+)
+([Pseudomonas aeruginosa PA7]
+pap
+)
+([Pseudomonas aeruginosa PAO1]
+pae
+)
+([Pseudomonas aeruginosa UCBPP-PA14]
+pau
+))
+([Pseudomonas mendocina]
+([Pseudomonas mendocina ymp]
+pmy
+)))
+([Pseudomonas entomophila]
+([Pseudomonas entomophila L48]
+pen
+))
+([Pseudomonas fluorescens group]
+([Pseudomonas fluorescens]
+([Pseudomonas fluorescens Pf-5]
+pfl
+)
+([Pseudomonas fluorescens PfO-1]
+pfo
+)
+([Pseudomonas fluorescens SBW25]
+pfs
+)))
+([Pseudomonas putida group]
+([Pseudomonas putida]
+([Pseudomonas putida F1]
+ppf
+)
+([Pseudomonas putida GB-1]
+ppg
+)
+([Pseudomonas putida KT2440]
+ppu
+)
+([Pseudomonas putida W619]
+ppw
+)))
+([Pseudomonas stutzeri group]
+([Pseudomonas stutzeri subgroup]
+([Pseudomonas stutzeri]
+([Pseudomonas stutzeri A1501]
+psa
+))))
+([Pseudomonas syringae group]
+([Pseudomonas syringae group genomosp. 1]
+([Pseudomonas syringae]
+([Pseudomonas syringae B728a]
+psb
+)))
+([Pseudomonas syringae group genomosp. 2]
+([Pseudomonas savastanoi]
+([Pseudomonas syringae 1448A; BAA-978]
+psp
+)))
+([Pseudomonas syringae group genomosp. 3]
+([Pseudomonas syringae DC3000]
+pst
+))))))
+([Thiotrichales]
+([Francisellaceae]
+([Francisella]
+([Francisella novicida]
+([Francisella tularensis subsp. novicida U112]
+ftn
+))
+([Francisella philomiragia]
+([Francisella philomiragia ATCC 25017]
+fph
+))
+([Francisella tularensis]
+([Francisella tularensis subsp. holarctica LVS]
+([Francisella tularensis FTA]
+fta
+)
+([Francisella tularensis subsp. holarctica OSU18]
+fth
+))
+([Francisella tularensis FSC147; GIEM 543]
+ftm
+)
+([Francisella tularensis subsp. tularensis FSC 198]
+ftf
+)
+([Francisella tularensis Schu 4]
+ftu
+)
+([Francisella tularensis subsp. tularensis WY96-3418]
+ftw
+))))
+([Piscirickettsiaceae]
+([Thiomicrospira]
+([Thiomicrospira crunogena]
+([Thiomicrospira crunogena XCL-2]
+tcx
+)))))
+([Vibrionales]
+([Vibrionaceae]
+([Aliivibrio]
+([Aliivibrio salmonicida]
+([Aliivibrio salmonicida LFI1238]
+vsa
+))
+([Vibrio fischeri]
+([Vibrio fischeri ES114]
+vfi
+)
+([Vibrio fischeri MJ11]
+vfm
+)))
+([Photobacterium]
+([Photobacterium profundum]
+([Photobacterium profundum SS9]
+ppr
+)))
+([Vibrio]
+([Vibrio cholerae]
+([Vibrio cholerae M66-2]
+vcm
+)
+([Vibrio cholerae MJ-1236]
+vcj
+)
+([Vibrio cholerae N16961]
+vch
+)
+([Vibrio cholerae O395]
+vco
+))
+([Vibrio harveyi group]
+([Vibrio harveyi]
+([Vibrio harveyi ATCC BAA-1116; BB120]
+vha
+))
+([Vibrio parahaemolyticus]
+([Vibrio parahaemolyticus O3:K6 RIMD 2210633]
+vpa
+)))
+([Vibrio sp. Ex25]
+([Vibrio sp. EX25]
+vex
+))
+([Vibrio splendidus]
+([Vibrio splendidus LGP32]
+vsp
+))
+([Vibrio vulnificus]
+([Vibrio vulnificus CMCP6]
+vvu
+)
+([Vibrio vulnificus YJ016]
+vvy
+)))))
+([Xanthomonadales]
+([Xanthomonadaceae]
+([Stenotrophomonas]
+([Stenotrophomonas maltophilia]
+([Stenotrophomonas maltophilia K279a]
+sml
+)
+([Stenotrophomonas maltophilia R551-3]
+smt
+)))
+([Xanthomonas]
+([Xanthomonas albilineans]
+([Xanthomonas albilineans GPE]
+xal
+))
+([Xanthomonas axonopodis]
+([Xanthomonas axonopodis 306]
+xac
+))
+([Xanthomonas campestris]
+([Xanthomonas campestris 8004]
+xcb
+)
+([Xanthomonas campestris ATCC 33913]
+xcc
+)
+([Xanthomonas campestris B100]
+xca
+))
+([Xanthomonas euvesicatoria]
+([Xanthomonas campestris 85-10]
+xcv
+))
+([Xanthomonas oryzae]
+([Xanthomonas oryzae KACC10331]
+xoo
+)
+([Xanthomonas oryzae pv. oryzae MAFF 311018]
+xom
+)
+([Xanthomonas oryzae PXO99A]
+xop
+)))
+([Xylella]
+([Xylella fastidiosa]
+([Xylella fastidiosa 9a5c]
+xfa
+)
+([Xylella fastidiosa M12]
+xfm
+)
+([Xylella fastidiosa M23]
+xfn
+)
+([Xylella fastidiosa Temecula1]
+xft
+)))))
+([unclassified Gammaproteobacteria]
+([Candidatus Baumannia]
+([Candidatus Baumannia cicadellinicola]
+([Baumannia cicadellinicola Hc (Homalodisca coagulata)]
+bci
+)))
+([Candidatus Carsonella]
+([Candidatus Carsonella ruddii]
+([Carsonella ruddii PV]
+crp
+)))
+([Kangiella]
+([Kangiella koreensis]
+([Kangiella koreensis DSM 16069]
+kko
+)))
+([sulfur-oxidizing symbionts]
+([Calyptogena okutanii thioautotrophic gill symbiont]
+([Vesicomyosocius okutanii HA]
+vok
+))
+([Candidatus Ruthia magnifica]
+([Ruthia magnifica Cm]
+rma
+)))))
+([delta/epsilon subdivisions]
+([Deltaproteobacteria]
+([Bdellovibrionales]
+([Bdellovibrionaceae]
+([Bdellovibrio]
+([Bdellovibrio bacteriovorus]
+([Bdellovibrio bacteriovorus HD100; DSM 50701; ATCC 1535; I]
+bba
+)))))
+([Desulfobacterales]
+([Desulfobacteraceae]
+([Desulfatibacillum]
+([Desulfatibacillum alkenivorans]
+([Desulfatibacillum alkenivorans AK-01]
+dal
+)))
+([Desulfobacterium]
+([Desulfobacterium autotrophicum]
+([Desulfobacterium autotrophicum HRM2]
+dat
+)))
+([Desulfococcus]
+([Desulfococcus oleovorans]
+([Desulfococcus oleovorans Hxd3]
+dol
+))))
+([Desulfobulbaceae]
+([Desulfotalea]
+([Desulfotalea psychrophila]
+([Desulfotalea psychrophila LSv54]
+dps
+)))
+([Desulfurivibrio]
+([Desulfurivibrio alkaliphilus]
+([Desulfurivibrio alkaliphilus AHT2]
+dak
+)))))
+([Desulfovibrionales]
+([Desulfohalobiaceae]
+([Desulfohalobium]
+([Desulfohalobium retbaense]
+([Desulfohalobium retbaense DSM 5692]
+drt
+))))
+([Desulfomicrobiaceae]
+([Desulfomicrobium]
+([Desulfomicrobium baculatum]
+([Desulfomicrobium baculatum DSM 4028]
+dba
+))))
+([Desulfovibrionaceae]
+([Desulfovibrio]
+([Desulfovibrio desulfuricans]
+([Desulfovibrio desulfuricans ATCC 27774]
+dds
+)
+([Desulfovibrio desulfuricans G20]
+dde
+))
+([Desulfovibrio magneticus]
+([Desulfovibrio magneticus RS-1]
+dma
+))
+([Desulfovibrio salexigens]
+([Desulfovibrio salexigens DSM 2638]
+dsa
+))
+([Desulfovibrio vulgaris]
+([Desulfovibrio vulgaris subsp. vulgaris DP4]
+dvl
+)
+([Desulfovibrio vulgaris Miyazaki F]
+dvm
+)
+([Desulfovibrio vulgarish Hildenborough]
+dvu
+)))
+([Lawsonia]
+([Lawsonia intracellularis]
+([Lawsonia intracellularis PHE/MN1-00]
+lip
+)))))
+([Desulfuromonadales]
+([Geobacteraceae]
+([Geobacter]
+([Geobacter bemidjiensis]
+([Geobacter bemidjiensis Bem]
+gbm
+))
+([Geobacter lovleyi]
+([Geobacter lovleyi SZ]
+glo
+))
+([Geobacter metallireducens]
+([Geobacter metallireducens GS-15]
+gme
+))
+([Geobacter sp. FRC-32]
+([Geobacter sp. FRC-32]
+geo
+))
+([Geobacter sp. M21]
+([Geobacter sp. M21]
+gem
+))
+([Geobacter sulfurreducens]
+([Geobacter sulfurreducens PCA]
+gsu
+))
+([Geobacter uraniireducens]
+([Geobacter uraniumreducens Rf4]
+gur
+))))
+([Pelobacteraceae]
+([Pelobacter]
+([Pelobacter carbinolicus]
+([Pelobacter carbinolicus DSM 2380]
+pca
+))
+([Pelobacter propionicus]
+([Pelobacter propionicus DSM 2379]
+ppd
+)))))
+([Myxococcales]
+([Cystobacterineae]
+([Myxococcaceae]
+([Anaeromyxobacter]
+([Anaeromyxobacter dehalogenans]
+([Anaeromyxobacter dehalogenans 2CP-1]
+acp
+)
+([Anaeromyxobacter dehalogenans 2CP-C]
+ade
+))
+([Anaeromyxobacter sp. Fw109-5]
+([Anaeromyxobacter sp. Fw109-5]
+awf
+))
+([Anaeromyxobacter sp. K]
+([Anaeromyxobacter sp. K]
+ank
+)))
+([Myxococcus]
+([Myxococcus xanthus]
+([Myxococcus xanthus DK 1622]
+mxa
+)))))
+([Nannocystineae]
+([Haliangiaceae]
+([Haliangium]
+([Haliangium ochraceum]
+([Haliangium ochraceum DSM 14365]
+hoh
+)))))
+([Sorangiineae]
+([Polyangiaceae]
+([Sorangium]
+([Sorangium cellulosum]
+([Sorangium cellulosum So ce 56]
+scl
+))))))
+([Syntrophobacterales]
+([Syntrophaceae]
+([Syntrophus]
+([Syntrophus aciditrophicus]
+([Syntrophus aciditrophicus SB]
+sat
+))))
+([Syntrophobacteraceae]
+([Syntrophobacter]
+([Syntrophobacter fumaroxidans]
+([Syntrophobacter fumaroxidans MPOB]
+sfu
+))))))
+([Epsilonproteobacteria]
+([Campylobacterales]
+([Campylobacteraceae]
+([Arcobacter]
+([Arcobacter butzleri]
+([Arcobacter butzleri RM4018]
+abu
+))
+([Arcobacter nitrofigilis]
+([Arcobacter nitrofigilis DSM 7299]
+ant
+)))
+([Campylobacter]
+([Campylobacter concisus]
+([Campylobacter concisus 13826]
+cco
+))
+([Campylobacter curvus]
+([Campylobacter curvus 525.92]
+ccv
+))
+([Campylobacter fetus]
+([Campylobacter fetus subsp. fetus 82-40]
+cff
+))
+([Campylobacter hominis]
+([Campylobacter hominis ATCC BAA-381]
+cha
+))
+([Campylobacter jejuni]
+([Campylobacter jejuni RM1221]
+cjr
+)
+([Campylobacter jejuni 269.97]
+cjd
+)
+([Campylobacter jejuni subsp. jejuni 81-176]
+cjj
+)
+([Campylobacter jejuni 81116; NCTC 11828]
+cju
+)
+([Campylobacter jejuni NCTC 11168]
+cje
+))
+([Campylobacter lari]
+([Campylobacter lari RM2100]
+cla
+)))
+([Sulfurospirillum]
+([Sulfurospirillum deleyianum]
+([Sulfurospirillum deleyianum DSM 6946]
+sdl
+))))
+([Helicobacteraceae]
+([Helicobacter]
+([Helicobacter acinonychis]
+([Helicobacter acinonychis Sheeba]
+hac
+))
+([Helicobacter hepaticus]
+([Helicobacter hepaticus ATCC 51449]
+hhe
+))
+([Helicobacter mustelae]
+([Helicobacter mustelae 12198]
+hms
+))
+([Helicobacter pylori]
+([Helicobacter pylori 26695]
+hpy
+)
+([Helicobacter pylori B38]
+hpb
+)
+([Helicobacter pylori G27]
+hpg
+)
+([Helicobacter pylori HPAG1]
+hpa
+)
+([Helicobacter pylori J99]
+hpj
+)
+([Helicobacter pylori P12]
+hpp
+)
+([Helicobacter pylori Shi470]
+hps
+)))
+([Sulfurimonas]
+([Sulfurimonas denitrificans]
+([Thiomicrospira denitrificans ATCC 33889]
+tdn
+)))
+([Wolinella]
+([Wolinella succinogenes]
+([Wolinella succinogenes DSM 1740]
+wsu
+)))))
+([Nautiliales]
+([Nautiliaceae]
+([Nautilia]
+([Nautilia profundicola]
+([Nautilia profundicola AmH]
+nam
+)))))
+([unclassified Epsilonproteobacteria]
+([Nitratiruptor]
+([Nitratiruptor sp. SB155-2]
+([Nitratiruptor sp. SB155-2]
+nis
+)))
+([Sulfurovum]
+([Sulfurovum sp. NBC37-1]
+([Sulfurovum sp. NBC37-1]
+sun
+))))))
+([unclassified Proteobacteria]
+([Magnetococcus]
+([Magnetococcus sp. MC-1]
+([Magnetococcus sp. MC-1]
+mgm
+)))))
+([Spirochaetes]
+([Spirochaetes (class)]
+([Spirochaetales]
+([Brachyspiraceae]
+([Brachyspira]
+([Brachyspira hyodysenteriae]
+([Brachyspira hyodysenteriae WA1]
+bhy
+))
+([Brachyspira murdochii]
+([Brachyspira murdochii DSM 12563]
+brm
+))))
+([Leptospiraceae]
+([Leptospira]
+([Leptospira biflexa]
+([Leptospira biflexa Patoc 1 (Ames)]
+lbf
+)
+([Leptospira biflexa Patoc 1 (Paris)]
+lbi
+))
+([Leptospira borgpetersenii]
+([Leptospira borgpetersenii serovar Hardjo-bovis JB197]
+lbj
+)
+([Leptospira borgpetersenii serovar Hardjo-bovis L550]
+lbl
+))
+([Leptospira interrogans]
+([Leptospira interrogans serovar Copenhageni Fiocruz L1-130]
+lic
+)
+([Leptospira interrogans serovar lai 56601]
+lil
+))))
+([Spirochaetaceae]
+([Borrelia]
+([Borrelia burgdorferi group]
+([Borrelia afzelii]
+([Borrelia afzelii PKo]
+baf
+))
+([Borrelia bavariensis]
+([Borrelia garinii PBi]
+bga
+))
+([Borrelia burgdorferi]
+([Borrelia burgdorferi B31]
+bbu
+)
+([Borrelia burgdorferi ZS7]
+bbz
+)))
+([Borrelia duttonii]
+([Borrelia duttonii Ly]
+bdu
+))
+([Borrelia hermsii]
+([Borrelia hermsii DAH]
+bhr
+))
+([Borrelia recurrentis]
+([Borrelia recurrentis A1]
+bre
+))
+([Borrelia turicatae]
+([Borrelia turicatae 91E135]
+btu
+)))
+([Treponema]
+([Treponema denticola]
+([Treponema denticola ATCC 35405]
+tde
+))
+([Treponema pallidum]
+([Treponema pallidum SS14]
+tpp
+)
+([Treponema pallidum Nichols]
+tpa
+)))))))
+([Synergistetes]
+([Synergistia]
+([Synergistales]
+([Synergistaceae]
+([Aminobacterium]
+([Aminobacterium colombiense]
+([Aminobacterium colombiense DSM 12261]
+aco
+)))
+([Thermanaerovibrio]
+([Thermanaerovibrio acidaminovorans]
+([Thermanaerovibrio acidaminovorans DSM 6589]
+tai
+)))))))
+([Tenericutes]
+([Mollicutes]
+([Acholeplasmatales]
+([Acholeplasmataceae]
+([Acholeplasma]
+([Acholeplasma laidlawii]
+([Acholeplasma laidlawii PG-8A]
+acl
+)))
+([Candidatus Phytoplasma]
+([16SrX (Apple proliferation group)]
+([Candidatus Phytoplasma mali]
+([Phytoplasma mali AT]
+pml
+)))
+([16SrXII (Stolbur group)]
+([Candidatus Phytoplasma australiense]
+([Phytoplasma australiense ]
+pal
+)))
+([Candidatus Phytoplasma asteris]
+([Aster yellows witches'-broom phytoplasma]
+([Aster yellows witches'-broom phytoplasma AYWB]
+ayw
+))
+([Onion yellows phytoplasma]
+([Onion yellows phytoplasma onion yellows]
+poy
+))))))
+([Entomoplasmatales]
+([Entomoplasmataceae]
+([Mesoplasma]
+([Mesoplasma florum]
+([Mesoplasma florum L1; ATCC 33453]
+mfl
+)))))
+([Mycoplasmatales]
+([Mycoplasmataceae]
+([Mycoplasma]
+([Mycoplasma agalactiae]
+([Mycoplasma agalactiae 5632]
+mal
+)
+([Mycoplasma agalactiae PG2]
+maa
+))
+([Mycoplasma arthritidis]
+([Mycoplasma arthritidis 158L3-1]
+mat
+))
+([Mycoplasma conjunctivae]
+([Mycoplasma conjunctivae HRC/581T]
+mco
+))
+([Mycoplasma crocodyli]
+([Mycoplasma crocodyli MP145]
+mcd
+))
+([Mycoplasma gallisepticum]
+([Mycoplasma gallisepticum R]
+mga
+))
+([Mycoplasma genitalium]
+([Mycoplasma genitalium G37]
+mge
+))
+([Mycoplasma hominis]
+([Mycoplasma hominis PG21]
+mho
+))
+([Mycoplasma hyopneumoniae]
+([Mycoplasma hyopneumoniae 232]
+mhy
+)
+([Mycoplasma hyopneumoniae 7448]
+mhp
+)
+([Mycoplasma hyopneumoniae J]
+mhj
+))
+([Mycoplasma mobile]
+([Mycoplasma mobile 163K]
+mmo
+))
+([Mycoplasma mycoides group]
+([Mycoplasma capricolum]
+([Mycoplasma capricolum ATCC 27343]
+mcp
+))
+([Mycoplasma mycoides]
+([Mycoplasma mycoides PG1]
+mmy
+)))
+([Mycoplasma penetrans]
+([Mycoplasma penetrans HF-2]
+mpe
+))
+([Mycoplasma pneumoniae]
+([Mycoplasma pneumoniae M129]
+mpn
+))
+([Mycoplasma pulmonis]
+([Mycoplasma pulmonis UAB CTIP]
+mpu
+))
+([Mycoplasma synoviae]
+([Mycoplasma synoviae 53]
+msy
+)))
+([Ureaplasma]
+([Ureaplasma parvum]
+([Ureaplasma parvum ATCC 27815]
+upa
+)
+([Ureaplasma parvum ATCC 700970]
+uur
+))
+([Ureaplasma urealyticum]
+([Ureaplasma urealyticum ATCC 33699]
+uue
+)))))))
+([Thermotogae]
+([Thermotogae (class)]
+([Thermotogales]
+([Thermotogaceae]
+([Fervidobacterium]
+([Fervidobacterium nodosum]
+([Fervidobacterium nodosum Rt17-B1]
+fno
+)))
+([Kosmotoga]
+([Kosmotoga olearia]
+([Kosmotoga olearia TBF 19.5.1]
+kol
+)))
+([Petrotoga]
+([Petrotoga mobilis]
+([Petrotoga mobilis SJ95]
+pmo
+)))
+([Thermosipho]
+([Thermosipho africanus]
+([Thermosipho africanus TCF52B]
+taf
+))
+([Thermosipho melanesiensis]
+([Thermosipho melanesiensis BI429]
+tme
+)))
+([Thermotoga]
+([Thermotoga lettingae]
+([Thermotoga lettingae TMO]
+tle
+))
+([Thermotoga maritima]
+([Thermotoga maritima MSB8]
+tma
+))
+([Thermotoga naphthophila]
+([Thermotoga naphthophila RKU-10]
+tnp
+))
+([Thermotoga neapolitana]
+([Thermotoga neapolitana DSM 4359]
+tna
+))
+([Thermotoga petrophila]
+([Thermotoga petrophila RKU-1]
+tpt
+))
+([Thermotoga sp. RQ2]
+([Thermotoga sp. RQ2]
+trq
+)))))))
+([unclassified Bacteria]
+([Thermobaculum]
+([Thermobaculum terrenum]
+([Thermobaculum terrenum ATCC BAA-798]
+ttr
+)))))
+([Eukaryota]
+([Alveolata]
+([Apicomplexa]
+([Aconoidasida]
+([Haemosporida]
+([Plasmodium]
+([Plasmodium (Laverania)]
+([Plasmodium falciparum]
+([Plasmodium falciparum 3D7]
+pfa
+)))))
+([Piroplasmida]
+([Theileriidae]
+([Theileria]
+([Theileria parva]
+([Theileria parva Muguga]
+tpv
+))))))
+([Coccidia]
+([Eucoccidiorida]
+([Eimeriorina]
+([Cryptosporidiidae]
+([Cryptosporidium]
+([Cryptosporidium parvum]
+([Cryptosporidium parvum Iowa II]
+cpv
+)))))))))
+([Amoebozoa]
+([Mycetozoa]
+([Dictyosteliida]
+([Dictyostelium]
+([Dictyostelium discoideum]
+([Dictyostelium discoideum AX4]
+ddi
+))))))
+([Euglenozoa]
+([Kinetoplastida]
+([Trypanosomatidae]
+([Leishmania]
+([Leishmania]
+([Leishmania donovani species complex]
+([Leishmania infantum]
+([Leishmania infantum JPCM5]
+lma
+)))))
+([Trypanosoma]
+([Trypanozoon]
+([Trypanosoma brucei]
+([Trypanosoma brucei TREU927]
+tbr
+)))))))
+([Fungi/Metazoa group]
+([Fungi]
+([Dikarya]
+([Ascomycota]
+([Saccharomyceta]
+([Pezizomycotina]
+([Leotiomyceta]
+([Eurotiomycetes]
+([Eurotiomycetidae]
+([Eurotiales]
+([Trichocomaceae]
+([Emericella]
+([Emericella nidulans]
+([Aspergillus nidulans FGSC A4]
+ani
+)))
+([Neosartorya]
+([Neosartorya fumigata]
+
+)
+([Aspergillus fumigatus]
+([Aspergillus fumigatus Af293]
+afm
+)))))))
+([Sordariomyceta]
+([Sordariomycetes]
+([Hypocreomycetidae]
+([Hypocreales]
+([Nectriaceae]
+([Gibberella]
+([Gibberella zeae]
+([Gibberella zeae PH-1]
+gze
+))))))))))
+([Saccharomycotina]
+([Saccharomycetes]
+([Saccharomycetales]
+([Debaryomycetaceae]
+([Debaryomyces]
+([Debaryomyces hansenii]
+([Debaryomyces hansenii CBS767]
+dha
+)))
+([Scheffersomyces]
+([Scheffersomyces stipitis]
+([Pichia stipitis CBS 6054]
+pic
+))))
+([Dipodascaceae]
+([Yarrowia]
+([Yarrowia lipolytica]
+([Yarrowia lipolytica CLIB122]
+yli
+))))
+([Saccharomycetaceae]
+([Eremothecium]
+([Eremothecium gossypii]
+([Ashbya gossypii ATCC 10895]
+ago
+)))
+([Kluyveromyces]
+([Kluyveromyces lactis]
+([Kluyveromyces lactis NRRL Y-1140]
+kla
+)))
+([Lachancea]
+([Lachancea thermotolerans]
+([Lachancea thermotolerans CBS 6340]
+lth
+)))
+([Nakaseomyces]
+([mitosporic Nakaseomyces]
+([Candida glabrata]
+([Candida glabrata CBS138]
+cgr
+))))
+([Pichia]
+([Pichia pastoris]
+([Pichia pastoris GS115]
+ppa
+)))
+([Saccharomyces]
+([Saccharomyces cerevisiae]
+([Saccharomyces cerevisiae S288C]
+sce
+)))
+([Zygosaccharomyces]
+([Zygosaccharomyces rouxii]
+([Zygosaccharomyces rouxii CBS 732]
+zro
+))))
+([mitosporic Saccharomycetales]
+([Candida]
+([Candida dubliniensis]
+([Candida dubliniensis CD36]
+cdu
+))))))))
+([Taphrinomycotina]
+([Schizosaccharomycetes]
+([Schizosaccharomycetales]
+([Schizosaccharomycetaceae]
+([Schizosaccharomyces]
+([Schizosaccharomyces pombe]
+([Schizosaccharomyces pombe 972h-]
+spo
+))))))))
+([Basidiomycota]
+([Agaricomycotina]
+([Tremellomycetes]
+([Tremellales]
+([Tremellaceae]
+([Filobasidiella]
+([Filobasidiella/Cryptococcus neoformans species complex]
+([Filobasidiella neoformans]
+([Cryptococcus neoformans JEC21]
+cne
+))))))))))
+([Microsporidia]
+([Apansporoblastina]
+([Unikaryonidae]
+([Encephalitozoon]
+([Encephalitozoon cuniculi]
+([Encephalitozoon cuniculi GB-M1]
+ecu
+)))))))
+([Metazoa]
+([Eumetazoa]
+([Bilateria]
+([Coelomata]
+([Deuterostomia]
+([Chordata]
+([Craniata]
+([Vertebrata]
+([Gnathostomata]
+([Teleostomi]
+([Euteleostomi]
+([Sarcopterygii]
+([Tetrapoda]
+([Amniota]
+([Mammalia]
+([Theria]
+([Eutheria]
+([Euarchontoglires]
+([Primates]
+([Haplorrhini]
+([Simiiformes]
+([Catarrhini]
+([Hominoidea]
+([Hominidae]
+([Homininae]
+([Homo]
+([Homo sapiens]
+([Homo sapiens ]
+hsa
+))))))))))))))))))))))))
+([Protostomia]
+([Panarthropoda]
+([Arthropoda]
+([Mandibulata]
+([Pancrustacea]
+([Hexapoda]
+([Insecta]
+([Dicondylia]
+([Pterygota]
+([Neoptera]
+([Endopterygota]
+([Diptera]
+([Brachycera]
+([Muscomorpha]
+([Eremoneura]
+([Cyclorrhapha]
+([Schizophora]
+([Acalyptratae]
+([Ephydroidea]
+([Drosophilidae]
+([Drosophilinae]
+([Drosophilini]
+([Drosophilina]
+([Drosophiliti]
+([Drosophila]
+([Sophophora]
+([melanogaster group]
+([melanogaster subgroup]
+([Drosophila melanogaster]
+([Drosophila melanogaster ]
+dme
+)))))))))))))))))))))))))))))))
+([Pseudocoelomata]
+([Nematoda]
+([Chromadorea]
+([Rhabditida]
+([Rhabditoidea]
+([Rhabditidae]
+([Peloderinae]
+([Caenorhabditis]
+([Caenorhabditis elegans]
+([Caenorhabditis elegans Bristol N2]
+cel
+))))))))))))))
+([Viridiplantae]
+([Streptophyta]
+([Streptophytina]
+([Embryophyta]
+([Tracheophyta]
+([Euphyllophyta]
+([Spermatophyta]
+([Magnoliophyta]
+([eudicotyledons]
+([core eudicotyledons]
+([rosids]
+([malvids]
+([Brassicales]
+([Brassicaceae]
+([Arabidopsis]
+([Arabidopsis thaliana]
+([Arabidopsis thaliana ]
+ath
+))))))))))))))))))))

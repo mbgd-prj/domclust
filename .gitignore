@@ -1,0 +1,9 @@
+in-*
+domclust
+select
+*.o
+BCK*
+.cvsignore
+CVS/
+distrib/
+COPYING

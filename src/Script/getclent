@@ -1,0 +1,62 @@
+#!/usr/local/bin/perl -s
+if ($clnum) {
+	foreach $c (split/,/, $clnum) {
+		$Clnum{$c} = 1;
+	}
+} elsif ($entname) {
+	foreach $e (split/,/, $entname) {
+		$EntName{$e} = 1;
+	}
+}
+$clusterfile = $ARGV[0] ? $ARGV[0] : "<&STDIN";
+open(FILE, $clusterfile);
+while (<FILE>) {
+	if (/^Cluster +([0-9]+)/) {
+		if ($Clnum{$1}) {
+			$flag = $outflag = 1;
+		} elsif ($entname) {
+			$flag = 1;
+		} else {
+			$flag = 0;
+		}
+		undef @data;
+	} elsif (/^$/) {
+		if ($outflag) {
+			foreach $d (@data) {
+				chop $d;
+				($name) = split(/\s+/, $d);
+			        $name =~ s/\([0-9,]+\)$//;
+				$Found{$name} = 1;
+			}
+		}
+		$flag = $outflag = 0;
+	} elsif ($flag) {
+		push(@data, $_);
+		if ($entname) {
+			($name) = split;
+			$name =~ s/\([0-9,]+\)$//;
+			if ($EntName{$name}) {
+				$outflag = 1;
+			}
+		}
+	}
+}
+close(FILE);
+@names = keys %Found;
+#print join('|', @names);
+if (! $ARGV[1]) {
+	foreach $n (@names) {
+		print "$n\n";
+	}
+}
+
+open(FILE, $ARGV[1]);
+while (<FILE>) {
+	($name1, $name2) = split;
+	if ($EITHER) {
+		print if ($Found{$name1} || $Found{$name2});
+	} else {
+		print if ($Found{$name1} && $Found{$name2});
+	}
+}
+close(FILE);
