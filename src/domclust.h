@@ -14,7 +14,7 @@
 #include "spec.h"
 #include<limits.h>
 
-#define DOMCLUST_VERSION "1.2.8g"
+#define DOMCLUST_VERSION "1.2.8h"
 
 #define MAXDOM 256
 #define todigit(c) (c - '0')
@@ -41,7 +41,7 @@
 #define ONE .99999999
 
 #define NAMELEN 200
-#define SPNAMELEN 10
+#define SPNAMELEN 40
 
 #define otherNodeNoCheck(e,n) (e->node1->id == n ? e->node2 : e->node1)
 #define otherNodeCheck(e,n) \
