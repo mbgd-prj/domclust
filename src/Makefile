@@ -11,7 +11,7 @@ BINDIR3 := bin.3
 
 CC=gcc
 #CC=icc
-CFLAGS0=-w -fopenmp
+CFLAGS0=-w -fopenmp -fcommon
 CFLAGS=-O3 $(CFLAGS0)
 #CFLAGS += -DEXPERIMENTAL
 
