@@ -5,6 +5,7 @@ BINDIR=bin
 
 ## You might need to edit the following lines
 CC=gcc
+CFLAGS0=-w
 CFLAGS=-g -O2 $(CFLAGS0)
 #####
 

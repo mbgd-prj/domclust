@@ -14,7 +14,7 @@
 #include "spec.h"
 #include<limits.h>
 
-#define DOMCLUST_VERSION "1.2.8h"
+#define DOMCLUST_VERSION "1.2.8i"
 
 #define MAXDOM 256
 #define todigit(c) (c - '0')
@@ -367,7 +367,7 @@ typedef struct {
 	char blastIn;
 } Options;
 
-Options Opt;
+extern Options Opt;
 
 NodeSet *createNodes();
 Node *getNode();

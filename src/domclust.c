@@ -27,6 +27,7 @@ char *sptreefile;
 char *restorefile;
 SimGraph SimG;
 int getargs(int argc, char **argv);
+Options Opt;
 
 /** setting default parameters */
 defaultOpt() {

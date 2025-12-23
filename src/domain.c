@@ -123,7 +123,6 @@ static Node *leafnode;
 static int domid;
 static int save_from;
 
-int tmpflag;
 
 resetNodeDomainAll(Node *node)
 {

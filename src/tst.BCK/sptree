@@ -1,0 +1,58 @@
+((#Archaea
+(#Crenarchaeota
+ sto, pai, sso, ape
+)
+(#Euryarchaeota
+ mth, pfu, mac, tvo, mma, mja, afu, pho, pab, hal, tac, mka
+)
+ 
+)
+(#Bacteria
+(#Actinobacteria
+ mtc, mtu, blo, sco, mle
+)
+(#Chlamydiae
+ cpn, ctr, cmu, cpa, cpj
+)
+(#Cyanobacteria
+ ana, syn, tel
+)
+(#Firmicutes
+(#Bacilli
+ spg, spm, spn, spr, sag, spy, oih, sam, sau, sav, bsu, bha, smu, lla, lin, lmo
+)
+(#Clostridia
+ cac, tte, cpe
+)
+(#Mollicutes
+ mpn, mpu, uur, mge
+)
+ 
+)
+(#Proteobacteria
+(#Alphaproteobacteria
+ mlo, atu, rco, sme, rpr, bme, ccr, bms, atc
+)
+(#Betaproteobacteria
+ rso, nma, nme
+)
+(#Gammaproteobacteria
+ ype, ypk, stm, xcc, sty, vch, sfl, ece, bas, pae, eco, buc, ecs, xac, hin, son, pmu, xfa
+)
+(#delta/epsilon subdivisions
+ cje, hpj, hpy
+)
+ 
+)
+(#Spirochaetes
+ tpa, lil, bbu
+)
+ aae, fnu, tma, dra, cte
+)
+(#Eukaryota
+(#Ascomycota
+ spo, sce
+)
+ 
+)
+)

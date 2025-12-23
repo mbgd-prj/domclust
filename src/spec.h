@@ -13,7 +13,7 @@
 #define MAXTAXNUM 20
 
 
-int SPnum;
+extern int SPnum;
 /*
 int bitcnt[256] = {
 	0,1,1,2,1,2,2,3,1,2,2,3,2,3,3,4,1,2,2,3,2,3,3,4,2,3,3,4,3,4,
@@ -28,9 +28,9 @@ int bitcnt[256] = {
 };
 double wbitcnt[SPFLAGSIZ][256];
 */
-NameHash *SpHash;
-char *SPnames[MAXSP];
-double SPweights[MAXSP];
+extern NameHash *SpHash;
+extern char *SPnames[MAXSP];
+extern double SPweights[MAXSP];
 typedef unsigned char specFlag[SPFLAGSIZ];
 typedef unsigned char *specFlagP;
 
@@ -51,9 +51,9 @@ typedef struct SPTree {
 	SPTreeNode node[MAXSPBUF];
 	int nodenum;
 } SPTree;
-SPTree spTree;
+extern SPTree spTree;
 
-struct {
+typedef struct {
 	specFlag inGroup, outGroup;
 	specFlag spMask;
 	specFlag meta;
@@ -61,7 +61,8 @@ struct {
 	specFlag ignore;
 	specFlag unknown;
 	specFlag partial;
-} SPflags;
+} SPflags_t;
+extern SPflags_t SPflags;
 
 char *getSPname(), *getTaxName();
 double spFlagCntW(), spFlagCntW_All(), spFlagANDcntW(), getSPweight(), sptree_MatchFlagsCntW(),

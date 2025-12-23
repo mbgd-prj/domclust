@@ -50,7 +50,8 @@ all3:	$(BINDIR3)
 	cd $(BINDIR3); \
 	$(MAKE) -f ../Makefile VPATH=.. SYSNAME=$(SYSNAME) all_targetN
 
-all_target:	domclust select spindex blastconv
+#all_target:	domclust select spindex blastconv
+all_target:	domclust 
 
 all_target2:	domclust2
 
@@ -113,7 +114,7 @@ dist:	distrib/domclust
 			Script/distfilter.pl $$f > distrib/domclust/$$f; \
 		fi \
 	done
-	cd distrib; Proc.build
+	cd distrib; ./Proc.build
 
 distrib/domclust:
 	-mkdir -p distrib/domclust
