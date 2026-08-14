@@ -8,6 +8,7 @@
 #include "memalloc.h"
 #include "plist.h"
 #include "neighbor.h"
+#include "spflagpool.h"
 
 #include <assert.h>
 
@@ -242,7 +243,7 @@ addLinksForNewEdge(Edge **newedges, Edge *edge1, Edge *edge2)
 Node *addNode(NodeSet *nodes, char *name, int cnt, int len,
 		Region *consreg,
 		int totlen,
-		Edge *child, NodeFlag flag, specFlag spflag, char truncFlag)
+		Edge *child, NodeFlag flag, specFlagP spflag, char truncFlag)
 {
 	Node *node = (Node *)memalloc(nodes->nodeobj);
 	node->id = nodes->nodenum;
@@ -256,7 +257,7 @@ Node *addNode(NodeSet *nodes, char *name, int cnt, int len,
 	node->left = node->right = NULL;
 	node->domains = NULL;
 	node->flag = flag;
-	memcpy(node->spflag, spflag, sizeof(specFlag));
+	node->spflag = internSpecFlag(spflag);
 	node->dir = 1; /** ?? **/
 	resetReg(&node->brk); resetReg(&node->brk2);
 	resetReg(&node->newreg); resetReg(&node->newreg2);

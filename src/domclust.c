@@ -10,6 +10,7 @@
 #include <ctype.h>
 #include "domclust.h"
 #include "readfile.h"
+#include "spflagpool.h"
 
 #ifdef WITH_NEIGHBOR
 #include "genedp.h"
@@ -103,6 +104,7 @@ main(int argc, char **argv)
 	unsigned long long cnt = 0;
 	int spnum;
 
+	initSpecFlagPool();
 	defaultOpt();
 	getargs(argc, argv);
 	if (restorefile) {

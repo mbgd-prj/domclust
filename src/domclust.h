@@ -14,7 +14,7 @@
 #include "spec.h"
 #include<limits.h>
 
-#define DOMCLUST_VERSION "1.2.8i"
+#define DOMCLUST_VERSION "1.2.9"
 
 #define MAXDOM 256
 #define todigit(c) (c - '0')
@@ -155,7 +155,7 @@ typedef struct Node {
 	struct Edge *child;
 	Count cnt;
 	Dist meandist;
-	specFlag spflag;
+	specFlagP spflag;   /* pointer to interned shared specFlag value */
 	char truncFlag;
 } Node;
 typedef struct {
@@ -241,7 +241,7 @@ typedef struct TreeNode {
 	Node *node;
 	struct TreeNode *parent, *child1, *child2;
 	Domain *dom;
-	specFlag spflag;
+	specFlagP spflag;   /* pointer to interned shared specFlag value */
 	NodeFlag flag;
 	NodeFlag treenodeFlag;
 } TreeNode;
@@ -278,7 +278,7 @@ typedef struct {
 	pList *ingroups;
 	SubClusterInfo *outgroup;
 	SubClusterInfo *outgroup2;
-	specFlag spflag;
+	specFlagP spflag;   /* pointer to interned shared specFlag value */
 	int clustid;
 	int outerclust;
 	int homclust;
@@ -379,7 +379,7 @@ Node *addNode(NodeSet *nodes, char *name, int cnt, int len,
 */
 Node *addNode(NodeSet *nodes, char *name, int cnt, int len,
 	Region *consreg, int totlen,
-	Edge *child, NodeFlag flag, specFlag spflag, char truncFlag);
+	Edge *child, NodeFlag flag, specFlagP spflag, char truncFlag);
 EdgeSet *createEdges();
 Edge *getBestEdge();
 Edge *getEdgeByNode(), *getEdgeByNode0();

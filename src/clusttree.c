@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include "domclust.h"
+#include "spflagpool.h"
 
 #define BLKSIZ 5000
 
@@ -24,7 +25,7 @@ TreeNode *createTreeNode(Node *node)
 /*
 printf("createTreeNode:"); printTreeNode(tnode);printf(" "); printNode(node); printf(":%d",node->flag); printf("\n");
 */
-	clearSPflag(tnode->spflag);
+	tnode->spflag = emptySpecFlag;
 	return tnode;
 }
 TreeNode *createTreeNodeUnroot(Node *node)
@@ -481,17 +482,14 @@ assignSpecFlag(pList *rootnodes)
 assignSpecFlag_sub(TreeNode *tnode)
 {
 	specFlagP spflag1, spflag2;
-	specFlag nullSpecFlag;
-
-	/* initialize spflags */
-	clearSPflag(nullSpecFlag);
-	spflag1 = nullSpecFlag;
-	spflag2 = nullSpecFlag;
+	specFlag tmpflag;
 
 	if (! tnode->child1 && ! tnode->child2) {
-		copySPFlag(tnode->node->spflag, tnode->spflag);
+		tnode->spflag = tnode->node->spflag;
 		return(0);
 	}
+	spflag1 = emptySpecFlag;
+	spflag2 = emptySpecFlag;
 	if (tnode->child1) {
 		assignSpecFlag_sub(tnode->child1);
 		spflag1 = tnode->child1->spflag;
@@ -500,7 +498,8 @@ assignSpecFlag_sub(TreeNode *tnode)
 		assignSpecFlag_sub(tnode->child2);
 		spflag2 = tnode->child2->spflag;
 	}
-	spFlagOR(spflag1, spflag2, tnode->spflag);
+	spFlagOR(spflag1, spflag2, tmpflag);
+	tnode->spflag = internSpecFlag(tmpflag);
 /*
 printf("assignSpecflag:");
 printTreeNode(tnode);printf("%d,%d\n",tnode->flag,tnode->node->flag);
@@ -536,7 +535,7 @@ TreeNode *dupTreeNode(NodeSet *nodes, TreeNode *tnode)
 	TreeNode *new_tnode;
 	Node *newnode = dupNode(nodes, tnode->node);
 	new_tnode = createTreeNode(newnode);
-	copySPFlag(tnode->spflag, new_tnode->spflag);
+	new_tnode->spflag = tnode->spflag;
 	return new_tnode;
 }
 setFlagTreeNode(TreeNode *tnode, NodeFlag flag)

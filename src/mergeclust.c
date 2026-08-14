@@ -13,6 +13,7 @@
 #include "hash.h"
 #include "plist.h"
 #include "djset.h"
+#include "spflagpool.h"
 
 #define MAXSUBGRP 20000
 
@@ -188,10 +189,7 @@ setClusterInfo(ClusterInfo *cinfo, TreeNode *treenode)
 	cinfo->clusters_outer = NULL;
 */
 	collectCluster(treenode, cinfo->members);
-/*
-	copySPFlag(treenode->node->spflag, cinfo->spflag);
-*/
-	copySPFlag(treenode->spflag, cinfo->spflag);
+	cinfo->spflag = treenode->spflag;
 }
 addCinfoHash(ClusterInfoData *cinfoData, ClusterInfo *cinfo) {
 	HENTRY hent;
@@ -371,7 +369,11 @@ printTreeNode(cinfo1->root);printf(" ");printTreeNode( cinfo1->origroot);printf(
 		mergeNeighborList(root1, root2, newnode, 1);
 		mergeNeighborList(root1, root2, newnode, -1);
 
-		spFlagOR(cinfo1->spflag, cinfo2->spflag, cinfo2->spflag);
+		{
+			specFlag tmpflag;
+			spFlagOR(cinfo1->spflag, cinfo2->spflag, tmpflag);
+			cinfo2->spflag = internSpecFlag(tmpflag);
+		}
 		setTreeNode(cinfo2->root, newnode);
 
 		setListIter(&iter1, merged_list, 1);

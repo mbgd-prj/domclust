@@ -12,6 +12,7 @@
 #include "plist.h"
 #include "neighbor.h"
 #include "spec.h"
+#include "spflagpool.h"
 
 #ifdef EXPERIMENTAL
 #define NUM_EDGE_FLD 12
@@ -150,7 +151,7 @@ restoreGraph(char *filename, SimGraph *SimG,
 	EdgeSet *edges;
 	Node *node, *node1, *node2;
 	Edge *edge;
-	specFlag spflag;
+	specFlag spflag = {0};  /* zero-init; overwritten per node by 'S' record */
 	char truncFlag = 0;
 	Region ali1, ali2;
 	Neighbor *nbr;
@@ -225,7 +226,9 @@ restoreGraph(char *filename, SimGraph *SimG,
 			sscanf(buf, "N2 %d", &id);
 			node = getNode(nodes, id);
 		} else if (buf[0] == 'S') {
-			restore_specFlag(buf+2, node->spflag);
+			specFlag tmpflag;
+			restore_specFlag(buf+2, tmpflag);
+			node->spflag = internSpecFlag(tmpflag);
 		} else if (buf[0] == 'P') {
 			if (sscanf(buf, "%s%d", header,&id) < 2) {
 				formatError(ln, "E", buf);

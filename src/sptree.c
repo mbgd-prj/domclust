@@ -10,6 +10,7 @@
 #include "domclust.h"
 #include "namehash.h"
 #include "spec.h"
+#include "spflagpool.h"
 
 #define SPNAMELEN 10
 #define TAXNAMEBUFLEN 100000
@@ -241,6 +242,7 @@ sptree_create_newnode(int spid, int bufidx, int parent, char flag)
 	spTree.node[bufidx].child = -1;
 	spTree.node[bufidx].sibling = -1;
 	spTree.node[bufidx].flag = flag;
+	spTree.node[bufidx].spflag = (specFlagP) calloc(1, SPFLAGSIZ);
 	node_buf[bufidx].count = 0;
 	node_buf[bufidx].prev_child = -1;
 	node_buf[parent].count++;
@@ -271,6 +273,10 @@ sptree_set_spflag()
 {
 	int i, j;
 	for (i = spTree.nodenum-1; i >= 0; i--) {
+		/* node 0 (root) is set up without sptree_create_newnode, so may lack a buffer */
+		if (!spTree.node[i].spflag) {
+			spTree.node[i].spflag = (specFlagP) calloc(1, SPFLAGSIZ);
+		}
 		clearSPflag( spTree.node[i].spflag );
 		if (spTree.node[i].child < 0) {
 			setSPflag(spTree.node[i].spflag, spTree.node[i].spid);

@@ -1,18 +1,13 @@
 SYSNAME := $(shell uname -m | sed 's/  */_/')
-#BINDIR := bin-$(SYSNAME)
-#BINDIR2 := bin-$(SYSNAME).2
-#BINDIR3 := bin-$(SYSNAME).3
 
 BINDIR := bin
 BINDIR2 := bin.2
 BINDIR3 := bin.3
 
-#sinclude ../conf/$(SYSNAME).conf
-
 CC=gcc
 #CC=icc
-CFLAGS0=-w -fopenmp
-CFLAGS=-O3 $(CFLAGS0)
+CFLAGS=-O3 -w
+#CFLAGS += -fopenmp
 #CFLAGS += -DEXPERIMENTAL
 
 #CFLAGS=-O2 -g $(CFLAGS0)
@@ -25,7 +20,8 @@ TESTOPT=-S60 -C80 -V.6 -ao0.8
 OBJS := domclust.o util.o graph.o memalloc.o namehash.o hash.o \
 	cluster.o clustout.o collectclust.o vararray.o plist.o bin.o seqreg.o \
 	spec.o sptree.o domain.o readfile.o dump.o neighbor.o \
-	postproc.o mergeclust.o newali.o djset.o clusttree.o taxmap.o sstack.o
+	postproc.o mergeclust.o newali.o djset.o clusttree.o taxmap.o sstack.o \
+	spflagpool.o
 
 OBJS2 = $(OBJS) genedp.o domcut.o calnewali.o mergehit.o poslist.o hitlist.o
 

@@ -42,7 +42,7 @@ typedef struct SPTreeNode {
 	int parent;
 	int child, sibling;
 	double weight;
-	specFlag spflag;
+	specFlagP spflag;   /* separately allocated mutable buffer */
 	char flag;
 	char *name;
 } SPTreeNode;

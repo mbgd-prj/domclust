@@ -9,6 +9,7 @@
 #include <stdlib.h>
 #include "domclust.h"
 #include "readfile.h"
+#include "spflagpool.h"
 
 read_seldata(SelFile *selfile, SelData *seldata) {
 	int retval = selfile->read(selfile->fp, seldata);
@@ -292,13 +293,16 @@ read_geneclustfile(char *filename, SimGraph *SimG)
 			nodeid = getNameID(SimG->nhash, name);
 			node = getNode(SimG->nodes, nodeid);
 		} else if (buf[0] == ' ') {
+			specFlag tmpflag;
 			scannum = sscanf(&buf[2], "%s", name);
 			spec = strtok(name, ":");
 			if (spec == NULL) {
 				spec = name;
 			}
 			spnum = getSPid(spec);
-			addSPflag(node->spflag, spnum);
+			copySPFlag(node->spflag, tmpflag);
+			addSPflag(tmpflag, spnum);
+			node->spflag = internSpecFlag(tmpflag);
 		}
 	}
 }
