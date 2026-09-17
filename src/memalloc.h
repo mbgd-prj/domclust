@@ -7,6 +7,7 @@
 #ifndef MEMALLOC_H
 #include <sys/types.h>
 #include "plist.h"
+#include "vararray.h"
 
 typedef struct RegList {
 	char *ptr;
@@ -19,7 +20,9 @@ typedef struct Object {
 	size_t blksiz;
 	size_t recno;
 	size_t size;
-	pList *free; 
+	pList *free;
+	varArray *blocks;	/* block pointers indexed by block number,
+				   for O(1) random access in get_objdata_idx */
 } Alloc_Object;
 
 typedef struct {

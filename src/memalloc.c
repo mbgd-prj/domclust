@@ -22,6 +22,7 @@ Alloc_Object *init_alloc_object(size, blksiz)
 	obj->size = size;
 	obj->first = obj->last = NULL;
 	obj->free = NULL;
+	obj->blocks = createVarArray(16, sizeof(char *));
 	return obj;
 }
 Alloc_Object *init_alloc_object_with_freelist(size, blksiz)
@@ -61,6 +62,7 @@ char *memalloc_size(obj, size)
 			obj->last->next = reglist;
 			obj->last = reglist;
 		}
+		addArray(obj->blocks, &alloc_obj);
 		obj->recno = size;		/* next point */
 		return obj->last->ptr;
 	} else {
@@ -87,15 +89,12 @@ char *get_objdata_idx(obj, idx)
 	Alloc_Object *obj;
 	int idx;
 {
-	register RegList *reglist = obj->first;
-	register int blkno = idx / obj->blksiz;
+	int blkno = idx / obj->blksiz;
 	int recno = idx % obj->blksiz;
-	
-	while (reglist && blkno--) {
-		reglist = reglist->next;
-	}
-	if (reglist == NULL) return NULL;
-	return reglist->ptr + obj->size * recno;
+	char **blkptr = (char **) getArrayItem(obj->blocks, blkno);
+
+	if (blkptr == NULL) return NULL;
+	return *blkptr + obj->size * recno;
 }
 
 get_allocobj_num(obj)
@@ -196,6 +195,7 @@ free_object_alldata(obj)
 		next_p = p->next;
 		free(p);
 	}
+	freeArray(obj->blocks);
 	return 0;
 }
 
