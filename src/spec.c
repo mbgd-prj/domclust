@@ -5,6 +5,7 @@
  */
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 #include "domclust.h"
 #include "spec.h"
@@ -545,8 +546,25 @@ dump_specFlag(FILE *ofp, specFlag spflag)
 restore_specFlag(char *str, specFlag spflag)
 {
 	int i;
+	char *endp;
+	long v;
+	static int warncnt = 0;
 	for (i = 0; i < spflagsiz; i++) {
-		spflag[i] = (unsigned char) strtol(str, &str, 10);
-		if (! str) break;
+		v = strtol(str, &endp, 10);
+		if (endp == str) break;	/* no more numbers in the line */
+		spflag[i] = (unsigned char) v;
+		str = endp;
+	}
+	if (i < spflagsiz) {
+		if (warncnt++ < 10) {
+			fprintf(stderr,
+			  "Warning: restore_specFlag: only %d of %d bytes read (truncated line?)\n",
+			  i, spflagsiz);
+		}
+	}
+	/* zero-fill the rest (including bytes beyond spflagsiz, so that
+	   internSpecFlag, which hashes all SPFLAGSIZ bytes, sees no garbage) */
+	for (; i < SPFLAGSIZ; i++) {
+		spflag[i] = 0;
 	}
 }

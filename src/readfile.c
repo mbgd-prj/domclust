@@ -4,6 +4,7 @@
  * All rights reserved.
  */
 
+#define _GNU_SOURCE	/* for getline() */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -49,11 +50,12 @@ set_blastIn(SelFile *selfile) {
 	selfile->read = read_blast_tabout;
 }
 
-static char buf[BUFSIZ];
+static char *buf = NULL;	/* getline() buffer (no fixed line length limit) */
+static size_t bufcap = 0;
 read_seldata_ascii(FILE *fp, SelData *seldata)
 {
 	int scannum, readerr = 0;
-	while (fgets(buf, BUFSIZ, fp) != NULL) {
+	while (getline(&buf, &bufcap, fp) != -1) {
 		if (buf[0] == '#' || buf[0] == '\n') {
 			fprintf(stderr, "skip: %s", buf);
 			continue;
@@ -137,7 +139,7 @@ read_seldata_bin(FILE *fp, SelData *seldata)
 read_blast_tabout(FILE *fp, SelData *seldata) {
 	double ident, dist, evalue;
 	int scannum;
-	while (fgets(buf, BUFSIZ, fp) != NULL) {
+	while (getline(&buf, &bufcap, fp) != -1) {
 		if (buf[0] == '#' || buf[0] == '\n') {
 			continue;
 		}
@@ -192,7 +194,7 @@ read_genefile(char *filename, SimGraph *SimG, FILE **retfp)
 	}
 	domnum = 0;
 	currname = NULL;
-	while (fgets(buf, BUFSIZ, domfp) != NULL) {
+	while (getline(&buf, &bufcap, domfp) != -1) {
 		if (strncmp(buf, "//", 2) == 0) {
 			/** end of the data **/
 			break;
@@ -287,7 +289,7 @@ read_geneclustfile(char *filename, SimGraph *SimG)
 		fprintf(stderr, "Can't open %s\n", filename);
 		exit(1);
 	}
-	while (fgets(buf, BUFSIZ, clstfp) != NULL) {
+	while (getline(&buf, &bufcap, clstfp) != -1) {
 		if (buf[0] == '*') {
 			scannum = sscanf(&buf[2], "%s", name);
 			nodeid = getNameID(SimG->nhash, name);
