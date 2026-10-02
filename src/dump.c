@@ -4,6 +4,7 @@
  * All rights reserved.
  */
 
+#define _GNU_SOURCE	/* for getline() */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -74,7 +75,10 @@ dumpNode1(FILE *ofp, Node *node)
 	fprintf(ofp, "%d ", node->totlen);
 	fprintf(ofp, "%d %d ", node->brk.from, node->brk.to);
 	fprintf(ofp, "%d %d ", node->newreg.from, node->newreg.to);
-	fprintf(ofp, "%d\n", node->cnt);
+	fprintf(ofp, "%d ", node->cnt);
+	/* appended (new format): brk2, newreg2 (for self match) */
+	fprintf(ofp, "%d %d %d %d\n", node->brk2.from, node->brk2.to,
+			node->newreg2.from, node->newreg2.to);
 }
 dumpNode2(FILE *ofp, Node *node)
 {
@@ -92,7 +96,7 @@ dumpNode2(FILE *ofp, Node *node)
 		fprintf(ofp, "PL %d\n", node->parentL->id);
 	}
 	if (node->parentM) {
-		fprintf(ofp, "PL %d\n", node->parentM->id);
+		fprintf(ofp, "PM %d\n", node->parentM->id);
 	}
 	if (node->parentR) {
 		fprintf(ofp, "PR %d\n", node->parentR->id);
@@ -136,7 +140,8 @@ restoreGraph(char *filename, SimGraph *SimG,
 		int curr_argc, char **curr_argv)
 {
 	FILE *fp;
-	char buf[BUFSIZ];
+	char *buf = NULL;	/* getline() buffer: S lines can exceed BUFSIZ */
+	size_t bufcap = 0;
 	int ln = 0, statflag = 0;
 	int nodenum,leafnum,edgenum,spnum;
 	int p1,p2,p3;
@@ -145,6 +150,7 @@ restoreGraph(char *filename, SimGraph *SimG,
 	int consfrom, consto;
 	int totlen;
 	int id1, id2,from1,to1,from2,to2,connect;
+	int b2from, b2to, n2from, n2to, nscan;
 	double score,dist,weight;
 	NameHash *nhash;
 	NodeSet *nodes;
@@ -164,7 +170,7 @@ restoreGraph(char *filename, SimGraph *SimG,
 		fprintf(stderr, "Can't open file\n");
 		exit(1);
 	}
-	while (fgets(buf, BUFSIZ, fp) != NULL) {
+	while (getline(&buf, &bufcap, fp) != -1) {
 		ln++;
 		if (buf[0] == '#') {
 			continue;
@@ -204,10 +210,11 @@ restoreGraph(char *filename, SimGraph *SimG,
 				nodes->leafnum = leafnum;
 				continue;
 			} else {
-				sscanf(buf, "N %s%d%d%d%d%d%d%d%d%d%d%d%d%d",
+				nscan = sscanf(buf, "N %s%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d",
 					name,&id,&flag,&dir,&from,&len,
 					&consfrom, &consto, &totlen,
-					&from1,&to1,&from2,&to2,&cnt);
+					&from1,&to1,&from2,&to2,&cnt,
+					&b2from,&b2to,&n2from,&n2to);
 				currname = addName(nhash, name, id);
 				consreg.from=consfrom; consreg.to=consto;
 				node = addNode(nodes, currname, cnt, len,
@@ -217,6 +224,11 @@ restoreGraph(char *filename, SimGraph *SimG,
 				node->dir = dir;
 				setSeqReg(&node->brk, (SeqPos)from1, (SeqPos)to1);
 				setSeqReg(&node->newreg, (SeqPos)from2, (SeqPos)to2);
+				if (nscan >= 18) {
+					/* new-format dump: brk2/newreg2 are present */
+					setSeqReg(&node->brk2, (SeqPos)b2from, (SeqPos)b2to);
+					setSeqReg(&node->newreg2, (SeqPos)n2from, (SeqPos)n2to);
+				}
 				if (node->id != id){
 					fprintf(stderr, "Warning: node id mismatch\n");
 					node->id = id;
@@ -274,6 +286,7 @@ restoreGraph(char *filename, SimGraph *SimG,
 		}
 	}
 	fclose(fp);
+	free(buf);
 	SimG->nodes = nodes;
 	SimG->edges = edges;
 	SimG->nhash = nhash;
